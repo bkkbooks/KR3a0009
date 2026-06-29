@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0009/tls/v1/juan/14
+seq: 14
+front:
+  text: 法言序天降生民倥侗顓蒙恣乎情性聰明不開訓諸理撰學行降周迄孔成于王道終後誕章乖離諸子圖徽撰吾子事有本真陳施於意咸動不克本諸身撰修身芒芒天道昔在聖考過則失中不及則不至不可姦罔撰問道神心忽恍經緯萬方事繫諸道德仁義禮撰問神明哲煌煌旁燭無疆遜于不虞以保天命撰問明遐言周于天地贊于神明幽弘橫廣絶于邇言撰寡見聖人聰明淵懿繼天測靈冠乎群倫經諸範撰五百立政鼓衆動化天下莫尚於中和中和之發在於哲民情撰先知仲尼以來國君將相卿士名臣參差不齊一概諸聖撰重黎仲尼之後訖于漢道德行顏閔曹股肱蕭爰及名將尊卑之條稱述品藻撰淵騫君子純終領聞蠢迪撿押旁開聖則撰君子孝莫大於寧親寧親莫大於寧神寧神莫大於四表之歡心撰孝至
+  hash: sha256:56b9203369dea84cc26d57002cb4a1684af6f7d097c51d27915ed73c13ab711b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3a0009_tls_014-1a.3-h}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法言
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3a0009.xml
+hash: sha256:9b4a91cde90812e7b88fbd2e5e5d2c3be30cac21fb382b8d6280abe51f1c9d07

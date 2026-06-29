@@ -1,0 +1,967 @@
+canonical_identifier: bkk:krp/KR3a0009/bkk/v1/markers/8
+seq: 8
+markers:
+  front:
+  - {type: variant, offset: 0, length: 5, content: 五百卷第八, SBCK: 李軌注}
+  - {type: variant, offset: 0, length: 2, content: 五百, WYG: 欽定四庫全書揚子法言}
+  - {type: page-break, offset: 0, content: '', id: KR3a0009_WYG_008-1a, image: WYG0696/WYG0696-0334a.png}
+  - {type: variant, offset: 0, length: 2, content: 五百, krp: 欽定四庫全書揚子法言}
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3a0009_tls_008-1a.1}
+  - {type: xml-element, offset: 0, content: '', id: KR3a0009_tls_008-bkkxmlele1}
+  - {type: variant, offset: 3, length: 1, content: 第, WYG: ''}
+  - {type: variant, offset: 3, length: 1, content: 第, krp: ''}
+  - {type: xml-element, offset: 5, content: '', id: KR3a0009_tls_008-bkkxmlele2}
+  - {type: xml-element, offset: 5, content: '', id: KR3a0009_tls_008-bkkxmlele3}
+  - {type: xml-element, offset: 5, content: '', id: KR3a0009_tls_008-bkkxmlele4}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3a0009_tls_008-1a.3}
+  - {type: variant, offset: 5, length: 0, content: '', WYG: 晋李軌唐栁宗元註宋宋咸吴祕司馬光重添註淵騫篇咸曰以君臣者率廸淵騫之行則可勝道哉故次之重黎仲尼之後迄于漢道光曰宋吴本迄作訖今從李本迄至也徳行顔閔股肱蕭曹爰及名將尊卑之條稱述品藻定其差品及文質也咸曰品歴世之臣貴為不少矣然以淵騫為不可及而冠章首有意哉子雲也有以知長爵之逹弗逮乎廣道之尊乎或云是篇與重黎共序然漢書有之疑非揚辭而班固實之未知其據焉祕曰論漢道以仲尼之後蕭曹名将以徳行顔閔所以為品藻也光曰尊卑謂才徳髙下譔淵騫祕曰聖人之道豈不大哉賢哲所得各有差品一本無此序}
+  - {type: page-break, offset: 5, content: '', id: KR3a0009_WYG_008-1b, image: WYG0696/WYG0696-0334b.png}
+  - {type: variant, offset: 5, length: 0, content: '', krp: 晋李軌唐栁宗元註宋宋咸吴祕司馬光重添註淵騫篇咸曰以君臣者率廸淵騫之行則可勝道哉故次之重黎仲尼之後迄于漢道光曰宋吴本迄作訖今從李本迄至也徳行顔閔股肱蕭曹爰及名將尊卑之條稱述品藻定其差品及文質也咸曰品歴世之臣貴為不少矣然以淵騫為不可及而冠章首有意哉子雲也有以知長爵之逹弗逮乎廣道之尊乎或云是篇與重黎共序然漢書有之疑非揚辭而班固實之未知其據焉祕曰論漢道以仲尼之後蕭曹名将以徳行顔閔所以為品藻也光曰尊卑謂才徳髙下譔淵騫祕曰聖人之道豈不大哉賢哲所得各有差品一本無此序}
+  - {type: punctuation, offset: 7, content: ：, id: KR3a0009_tls_008-bkkpn1}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR3a0009_tls_008-1a.4}
+  - {type: punctuation, offset: 7, content: 「, id: KR3a0009_tls_008-bkkpn2}
+  - {type: variant, offset: 7, length: 9, content: 五百歲而聖人出有諸, SBCK: 淵騫之徒惡乎在}
+  - {type: variant, offset: 7, length: 4, content: 五百歲而, WYG: 淵騫之徒惡乎在祕曰據顔淵閔子騫之徒已没光曰惡音烏問今世何無其人曰寢咸曰孔子云由也升堂矣未入於室也寢亦室也言游夏諸子在室眀入}
+  - {type: variant, offset: 7, length: 4, content: 五百歲而, krp: 淵騫之徒惡乎在祕曰據顔淵閔子騫之徒已没光曰惡音烏問今世何無其人曰寢咸曰孔子云由也升堂矣未入於室也寢亦室也言游夏諸子在室眀入}
+  - {type: variant, offset: 13, length: 1, content: 出, WYG: 之奥者也祕曰在當為不字之誤也名愈彰而道愈隆故曰不寝光曰宋吴本作在寝今從李本言淵騫之才今亦}
+  - {type: variant, offset: 13, length: 1, content: 出, krp: 之奥者也祕曰在當為不字之誤也名愈彰而道愈隆故曰不寝光曰宋吴本作在寝今從李本言淵騫之才今亦}
+  - {type: punctuation, offset: 14, content: ，, id: KR3a0009_tls_008-bkkpn3}
+  - {type: variant, offset: 15, length: 1, content: 諸, WYG: 耳但寝伏不為人所知也或}
+  - {type: variant, offset: 15, length: 1, content: 諸, krp: 耳但寝伏不為人所知也或}
+  - {type: punctuation, offset: 16, content: ？, id: KR3a0009_tls_008-bkkpn4}
+  - {type: punctuation, offset: 16, content: 」, id: KR3a0009_tls_008-bkkpn5}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3a0009_tls_008-1a.5}
+  - {type: punctuation, offset: 17, content: ：, id: KR3a0009_tls_008-bkkpn6}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR3a0009_tls_008-1a.6}
+  - {type: punctuation, offset: 17, content: 「, id: KR3a0009_tls_008-bkkpn7}
+  - {type: variant, offset: 17, length: 27, content: 堯舜禹君臣也而竝文武周公父子也而處湯孔子數百歲而生因往, SBCK: 寢或曰淵騫曷不寢曰攀龍鱗附鳯翼巽}
+  - {type: variant, offset: 17, length: 6, content: 堯舜禹君臣也, WYG: 淵騫曷不寝咸曰言游夏之徒尚在室}
+  - {type: variant, offset: 17, length: 6, content: 堯舜禹君臣也, krp: 淵騫曷不寝咸曰言游夏之徒尚在室}
+  - {type: punctuation, offset: 18, content: 、, id: KR3a0009_tls_008-bkkpn8}
+  - {type: punctuation, offset: 19, content: 、, id: KR3a0009_tls_008-bkkpn9}
+  - {type: punctuation, offset: 20, content: ，, id: KR3a0009_tls_008-bkkpn10}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3a0009_tls_008-1a.7}
+  - {type: punctuation, offset: 23, content: ，, id: KR3a0009_tls_008-bkkpn11}
+  - {type: variant, offset: 24, length: 1, content: 竝, WYG: 淵騫二子奚不然祕曰淵騫非有}
+  - {type: variant, offset: 24, length: 1, content: 竝, krp: 淵騫二子奚不然祕曰淵騫非有}
+  - {type: punctuation, offset: 25, content: ；, id: KR3a0009_tls_008-bkkpn12}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR3a0009_tls_008-1a.8}
+  - {type: punctuation, offset: 26, content: 、, id: KR3a0009_tls_008-bkkpn13}
+  - {type: variant, offset: 26, length: 18, content: 武周公父子也而處湯孔子數百歲而生因往, WYG: 章著世何為不寝曰攀龍鱗附鳳翼巽}
+  - {type: variant, offset: 26, length: 18, content: 武周公父子也而處湯孔子數百歲而生因往, krp: 章著世何為不寝曰攀龍鱗附鳳翼巽}
+  - {type: punctuation, offset: 27, content: 、, id: KR3a0009_tls_008-bkkpn14}
+  - {type: punctuation, offset: 29, content: ，, id: KR3a0009_tls_008-bkkpn15}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3a0009_tls_008-1a.9}
+  - {type: punctuation, offset: 32, content: ，, id: KR3a0009_tls_008-bkkpn16}
+  - {type: punctuation, offset: 34, content: ；, id: KR3a0009_tls_008-bkkpn17}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR3a0009_tls_008-1a.10}
+  - {type: punctuation, offset: 35, content: 、, id: KR3a0009_tls_008-bkkpn18}
+  - {type: punctuation, offset: 37, content: ，, id: KR3a0009_tls_008-bkkpn19}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3a0009_tls_008-1a.11}
+  - {type: punctuation, offset: 42, content: 。, id: KR3a0009_tls_008-bkkpn20}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3a0009_tls_008-1a.12}
+  - {type: variant, offset: 45, length: 5, content: 推來雖千一, SBCK: 􅀭之勃勃乎其}
+  - {type: variant, offset: 45, length: 5, content: 推來雖千一, WYG: 揚之勃勃乎其}
+  - {type: page-break, offset: 45, content: '', id: KR3a0009_WYG_008-2a, image: WYG0696/WYG0696-0335a.png}
+  - {type: variant, offset: 45, length: 5, content: 推來雖千一, krp: 揚之勃勃乎其}
+  - {type: punctuation, offset: 47, content: ，, id: KR3a0009_tls_008-bkkpn21}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3a0009_tls_008-2a.1}
+  - {type: variant, offset: 52, length: 1, content: 知, SBCK: 及}
+  - {type: variant, offset: 52, length: 2, content: 知也, WYG: 及乎如其寝如其寝咸曰夫入室見奥尚可至焉如顔閔則與}
+  - {type: variant, offset: 52, length: 2, content: 知也, krp: 及乎如其寝如其寝咸曰夫入室見奥尚可至焉如顔閔則與}
+  - {type: punctuation, offset: 54, content: 。, id: KR3a0009_tls_008-bkkpn22}
+  - {type: punctuation, offset: 54, content: 」, id: KR3a0009_tls_008-bkkpn23}
+  - {type: xml-element, offset: 54, content: '', id: KR3a0009_tls_008-bkkxmlele5}
+  - {type: xml-element, offset: 54, content: '', id: KR3a0009_tls_008-bkkxmlele6}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR3a0009_tls_008-2a.2}
+  - {type: variant, offset: 54, length: 26, content: 聖人有以擬天地而參諸身乎或問聖人有詘乎曰有曰焉詘乎曰, SBCK: 如其寢如其寢七十子之於}
+  - {type: variant, offset: 56, length: 0, content: '', WYG: 髙飛㝠㝠而絶者也其可慕乎故孟子云子游子夏子張皆}
+  - {type: variant, offset: 56, length: 0, content: '', krp: 髙飛㝠㝠而絶者也其可慕乎故孟子云子游子夏子張皆}
+  - {type: variant, offset: 57, length: 11, content: 以擬天地而參諸身乎或問, WYG: ''}
+  - {type: variant, offset: 57, length: 11, content: 以擬天地而參諸身乎或問, krp: ''}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3a0009_tls_008-3a.1}
+  - {type: punctuation, offset: 66, content: ！, id: KR3a0009_tls_008-bkkpn24}
+  - {type: xml-element, offset: 66, content: '', id: KR3a0009_tls_008-bkkxmlele7}
+  - {type: xml-element, offset: 66, content: '', id: KR3a0009_tls_008-bkkxmlele8}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR3a0009_tls_008-3a.2}
+  - {type: punctuation, offset: 68, content: ：, id: KR3a0009_tls_008-bkkpn25}
+  - {type: punctuation, offset: 68, content: 「, id: KR3a0009_tls_008-bkkpn26}
+  - {type: variant, offset: 70, length: 3, content: 有詘乎, WYG: 之一體閔子顔淵則具體而微揚子之論在於是邪巽風也勃勃輕迅貌祕}
+  - {type: variant, offset: 70, length: 3, content: 有詘乎, krp: 之一體閔子顔淵則具體而微揚子之論在於是邪巽風也勃勃輕迅貌祕}
+  - {type: punctuation, offset: 73, content: ？, id: KR3a0009_tls_008-bkkpn27}
+  - {type: punctuation, offset: 73, content: 」, id: KR3a0009_tls_008-bkkpn28}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR3a0009_tls_008-3a.3}
+  - {type: punctuation, offset: 74, content: ：, id: KR3a0009_tls_008-bkkpn29}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR3a0009_tls_008-3a.4}
+  - {type: punctuation, offset: 74, content: 「, id: KR3a0009_tls_008-bkkpn30}
+  - {type: variant, offset: 74, length: 1, content: 有, WYG: 淵騫得聖人而師之譬如攀龍鱗附鳳翼㢲風以揚之勃勃然而興後之人不可及也如何其寝如何其寝言其道愈不寝也光}
+  - {type: variant, offset: 74, length: 1, content: 有, krp: 淵騫得聖人而師之譬如攀龍鱗附鳳翼㢲風以揚之勃勃然而興後之人不可及也如何其寝如何其寝言其道愈不寝也光}
+  - {type: punctuation, offset: 75, content: 。, id: KR3a0009_tls_008-bkkpn31}
+  - {type: punctuation, offset: 75, content: 」, id: KR3a0009_tls_008-bkkpn32}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3a0009_tls_008-3a.5}
+  - {type: punctuation, offset: 76, content: ：, id: KR3a0009_tls_008-bkkpn33}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR3a0009_tls_008-3a.6}
+  - {type: punctuation, offset: 76, content: 「, id: KR3a0009_tls_008-bkkpn34}
+  - {type: variant, offset: 76, length: 4, content: 焉詘乎曰, WYG: 宋吴本作㢲以揚之今從李本揚發揚也如其寝言其不可寝伏也七十子之於}
+  - {type: variant, offset: 76, length: 4, content: 焉詘乎曰, krp: 宋吴本作㢲以揚之今從李本揚發揚也如其寝言其不可寝伏也七十子之於}
+  - {type: punctuation, offset: 79, content: ？, id: KR3a0009_tls_008-bkkpn35}
+  - {type: punctuation, offset: 79, content: 」, id: KR3a0009_tls_008-bkkpn36}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3a0009_tls_008-3a.7}
+  - {type: punctuation, offset: 80, content: ：, id: KR3a0009_tls_008-bkkpn37}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3a0009_tls_008-3a.8}
+  - {type: punctuation, offset: 80, content: 「, id: KR3a0009_tls_008-bkkpn38}
+  - {type: variant, offset: 82, length: 1, content: 於, SBCK: 也}
+  - {type: variant, offset: 82, length: 1, content: 於, WYG: 也}
+  - {type: variant, offset: 82, length: 1, content: 於, krp: 也}
+  - {type: variant, offset: 83, length: 1, content: 南, SBCK: 日}
+  - {type: variant, offset: 83, length: 1, content: 南, WYG: 日}
+  - {type: variant, offset: 83, length: 1, content: 南, krp: 日}
+  - {type: variant, offset: 84, length: 1, content: 子, SBCK: 聞}
+  - {type: variant, offset: 84, length: 1, content: 子, WYG: 聞}
+  - {type: variant, offset: 84, length: 1, content: 子, krp: 聞}
+  - {type: punctuation, offset: 85, content: ，, id: KR3a0009_tls_008-bkkpn39}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3a0009_tls_008-3a.9}
+  - {type: variant, offset: 87, length: 10, content: 欲見也陽虎所不欲敬也, SBCK: 聞}
+  - {type: variant, offset: 87, length: 10, content: 欲見也陽虎所不欲敬也, WYG: 聞}
+  - {type: variant, offset: 87, length: 10, content: 欲見也陽虎所不欲敬也, krp: 聞}
+  - {type: punctuation, offset: 90, content: ；, id: KR3a0009_tls_008-bkkpn40}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR3a0009_tls_008-3a.10}
+  - {type: punctuation, offset: 92, content: 、, id: KR3a0009_tls_008-bkkpn41}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR3a0009_tls_008-3a.11}
+  - {type: punctuation, offset: 97, content: 。, id: KR3a0009_tls_008-bkkpn42}
+  - {type: 'tls:seg', offset: 97, content: '', id: KR3a0009_tls_008-3a.12}
+  - {type: punctuation, offset: 101, content: ，, id: KR3a0009_tls_008-bkkpn43}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3a0009_tls_008-3a.13}
+  - {type: variant, offset: 101, length: 1, content: 敬, SBCK: 文章亦不足爲矣君子絶德小人絶力或問絶德曰舜以孝禹以功皐陶以謨非絶德邪是皆德之殊絶力絶力者何秦悼武烏獲任鄙扛鼎抃牛非絶力邪此等皆以多力舉重崩中而死}
+  - {type: variant, offset: 101, length: 1, content: 敬, WYG: 文章亦不足為矣咸曰揚以門人為三品論之也言淵騫為其絶游夏之黨得其奥七十子亦被其淳道矧文章末業爾何難為哉祕曰非止淵騫也至于七十二子皆日有聞見}
+  - {type: variant, offset: 101, length: 1, content: 敬, krp: 文章亦不足為矣咸曰揚以門人為三品論之也言淵騫為其絶游夏之黨得其奥七十子亦被其淳道矧文章末業爾何難為哉祕曰非止淵騫也至于七十二子皆日有聞見}
+  - {type: variant, offset: 103, length: 0, content: '', SBCK: 謂}
+  - {type: variant, offset: 103, length: 0, content: '', WYG: 以學為賢哲君子也至於文章何足可為哉文章謂若卜啇序詩曽參孝經之類史記曰孔子以曾參能通孝道故授之業作孝經光曰宋吴本作七十二子今從李本言遊孔門者務學道徳}
+  - {type: page-break, offset: 103, content: '', id: KR3a0009_WYG_008-2b, image: WYG0696/WYG0696-0335b.png}
+  - {type: variant, offset: 103, length: 0, content: '', krp: 以學為賢哲君子也至於文章何足可為哉文章謂若卜啇序詩曽參孝經之類史記曰孔子以曾參能通孝道故授之業作孝經光曰宋吴本作七十二子今從李本言遊孔門者務學道徳}
+  - {type: variant, offset: 104, length: 1, content: 敬, SBCK: 得其死然或問勇曰軻也曰何軻也曰軻也者謂孟軻也若荆軻君子盜諸請孟軻之勇曰勇於義而果於德}
+  - {type: page-break, offset: 104, content: '', id: KR3a0009_SBCK_011-1b}
+  - {type: variant, offset: 104, length: 1, content: 敬, WYG: 事文章君子絶徳小人絕力或問絶徳曰舜以孝禹以功臯陶以謨非絶徳邪是皆徳之殊絶祕曰冠乎上世力絶力者何祕曰問絶力秦悼武烏獲任鄙扛鼎抃牛非絶力邪皆以多力舉重崩中而死所謂}
+  - {type: variant, offset: 104, length: 1, content: 敬, krp: 事文章君子絶徳小人絕力或問絶徳曰舜以孝禹以功臯陶以謨非絶徳邪是皆徳之殊絶祕曰冠乎上世力絶力者何祕曰問絶力秦悼武烏獲任鄙扛鼎抃牛非絶力邪皆以多力舉重崩中而死所謂}
+  - {type: punctuation, offset: 105, content: ，, id: KR3a0009_tls_008-bkkpn44}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3a0009_tls_008-3a.14}
+  - {type: variant, offset: 106, length: 6, content: 詘如何曰衛靈, SBCK: 以貧富貴賤死生動其心於勇也其庶乎或人之問勇猶衞􅂕}
+  - {type: variant, offset: 106, length: 1, content: 詘, WYG: 得其死然祕曰秦悼武秦惠王之子也武王有力好戯力士任鄙烏獲孟說皆至大官王與孟說舉鼎絶臏而死抃牛亦多力也呂氏春秋曰遂擒推移大犧髙誘云桀多力能推移大犧因以為號光曰抃牛謂以兩牛相撃}
+  - {type: variant, offset: 106, length: 1, content: 詘, krp: 得其死然祕曰秦悼武秦惠王之子也武王有力好戯力士任鄙烏獲孟說皆至大官王與孟說舉鼎絶臏而死抃牛亦多力也呂氏春秋曰遂擒推移大犧髙誘云桀多力能推移大犧因以為號光曰抃牛謂以兩牛相撃}
+  - {type: variant, offset: 108, length: 0, content: '', WYG: 抃手状或問勇曰軻也曰}
+  - {type: variant, offset: 108, length: 0, content: '', krp: 抃手状或問勇曰軻也曰}
+  - {type: punctuation, offset: 109, content: ？, id: KR3a0009_tls_008-bkkpn45}
+  - {type: punctuation, offset: 109, content: 」, id: KR3a0009_tls_008-bkkpn46}
+  - {type: xml-element, offset: 109, content: '', id: KR3a0009_tls_008-bkkxmlele9}
+  - {type: xml-element, offset: 109, content: '', id: KR3a0009_tls_008-bkkxmlele10}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR3a0009_tls_008-3a.15}
+  - {type: variant, offset: 109, length: 0, content: '', WYG: 軻也}
+  - {type: variant, offset: 109, length: 0, content: '', krp: 軻也}
+  - {type: punctuation, offset: 110, content: ：, id: KR3a0009_tls_008-bkkpn47}
+  - {type: 'tls:seg', offset: 110, content: '', id: KR3a0009_tls_008-3a.16}
+  - {type: punctuation, offset: 110, content: 「, id: KR3a0009_tls_008-bkkpn48}
+  - {type: variant, offset: 110, length: 0, content: '', WYG: 軻也者謂孟軻也若荆軻君子盗諸祕曰荆軻衛人也為燕太子刺秦王以君子之道類之則大盗耳光曰比諸盗賊請問孟軻之勇曰勇於義而果於徳不以貧富貴賤死生動其心於勇也其庻乎或人之問勇若}
+  - {type: page-break, offset: 110, content: '', id: KR3a0009_WYG_008-3a, image: WYG0696/WYG0696-0335c.png}
+  - {type: variant, offset: 110, length: 0, content: '', krp: 軻也者謂孟軻也若荆軻君子盗諸祕曰荆軻衛人也為燕太子刺秦王以君子之道類之則大盗耳光曰比諸盗賊請問孟軻之勇曰勇於義而果於徳不以貧富貴賤死生動其心於勇也其庻乎或人之問勇若}
+  - {type: variant, offset: 113, length: 0, content: '', SBCK: 之}
+  - {type: variant, offset: 113, length: 0, content: '', WYG: 之}
+  - {type: variant, offset: 113, length: 0, content: '', krp: 之}
+  - {type: punctuation, offset: 115, content: ，, id: KR3a0009_tls_008-bkkpn49}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3a0009_tls_008-3a.17}
+  - {type: variant, offset: 115, length: 0, content: '', SBCK: 也仲尼荅以俎豆子雲應之以德義魯仲連而不制髙談以救時難功成而不受禄賞藺相如制而不好義崇理屈身伸節輔佐本國繫時之務也或問鄒陽曰未信而分疑忼辭免罿幾矣哉鳥罟謂之罿猶人之縲紲幾危也獄中出慷􅁣之辭得以自免亦巳危矣或問信陵平原孟甞春申益乎曰上失其政姦臣竊國命何其益乎當此四君之時實皆有益於其國而􅀭子譏之者蓋論上失其政故辯明之樗里子之知也使知國如葬}
+  - {type: variant, offset: 115, length: 2, content: 則何, WYG: 也仲尼荅以爼豆子雲應以徳義祕曰養浩然之氣勇之大者光曰孔子曰見義不為無勇也魯仲連􅀈而不制髙談以救時難功成而不受爵賞咸曰魯仲連齊人不肯仕宦好持髙游於趙㑹秦軍圍邯鄲魏使新垣衍說趙王令尊秦昭王為帝而仲連挫之垣衍不敢復言帝秦秦将聞之為却軍五十里遂引而去於是平原君欲封魯連魯連遂辭而去終身不復見􅀈猶倨慢也制猶整肅也言仲連倨慢於爵利而不能整肅於官事也光曰宋吴本􅀈作偒制作剬介甫曰餳古蕩字剬古制字今從李本藺相如制而不􅀈好義崇禮屈身伸節輔佐本國繫時之務也咸曰藺相如趙人相趙惠王與秦昭王會澠池旣罷歸以相如功大拜為上卿位在亷頗之右頗羞不忍為之下宣言曰我見相如必辱之相如聞之常引車避匿嘗曰顧吾念彊秦所}
+  - {type: page-break, offset: 115, content: '', id: KR3a0009_WYG_008-3b, image: WYG0696/WYG0696-0335d.png}
+  - {type: variant, offset: 115, length: 2, content: 則何, krp: 也仲尼荅以爼豆子雲應以徳義祕曰養浩然之氣勇之大者光曰孔子曰見義不為無勇也魯仲連􅀈而不制髙談以救時難功成而不受爵賞咸曰魯仲連齊人不肯仕宦好持髙游於趙㑹秦軍圍邯鄲魏使新垣衍說趙王令尊秦昭王為帝而仲連挫之垣衍不敢復言帝秦秦将聞之為却軍五十里遂引而去於是平原君欲封魯連魯連遂辭而去終身不復見􅀈猶倨慢也制猶整肅也言仲連倨慢於爵利而不能整肅於官事也光曰宋吴本􅀈作偒制作剬介甫曰餳古蕩字剬古制字今從李本藺相如制而不􅀈好義崇禮屈身伸節輔佐本國繫時之務也咸曰藺相如趙人相趙惠王與秦昭王會澠池旣罷歸以相如功大拜為上卿位在亷頗之右頗羞不忍為之下宣言曰我見相如必辱之相如聞之常引車避匿嘗曰顧吾念彊秦所}
+  - {type: variant, offset: 116, length: 0, content: '', SBCK: 吾以疾爲蓍􅀛疾者樗里子之名死葬豫言後當有兩天子宫夾我果如其言使其䇿筭國事如之則吾以疾爲蓍􅀛者有爲有行動而問焉周之順赧以成周而西傾秦之惠文昭襄以西山而東并孰愈曰周也羊秦也狼然則狼愈與曰羊狼一也過猶不及兩不與也或問蒙恬忠而􅀍誅忠奚可爲也曰壍山堙谷起臨洮擊遼水力不足而死有餘忠不足相也相助也雖盡一身之節而殘百姓之命非所以務民之義或問吕不韋其智矣乎以人易貨吕不韋陽翟賈人也出千金以助子楚子楚旣立不韋相之曰誰謂不韋智者與以國易宗雖開列封先􅀏後愁身旣鴆死宗族竄流不韋之盜穿窬之雄乎不以其道非盜}
+  - {type: page-break, offset: 116, content: '', id: KR3a0009_SBCK_011-2a}
+  - {type: variant, offset: 117, length: 1, content: 以, SBCK: 如穿窬也者吾見擔石矣未見雒陽也雒陽}
+  - {type: variant, offset: 119, length: 8, content: 詘曰詘身將以信道, SBCK: 韋所國地}
+  - {type: variant, offset: 119, length: 1, content: 詘, WYG: 敢加兵於趙者徒以吾二人在也今兩虎共其勢不俱生吾所以為此者以先國家之急而後私讎也亷頗聞之肉􅃝負荆至相如門謝罪此言藺相如自屈如是欲整肅於官事而不倨慢於爵利也光}
+  - {type: variant, offset: 119, length: 1, content: 詘, krp: 敢加兵於趙者徒以吾二人在也今兩虎共其勢不俱生吾所以為此者以先國家之急而後私讎也亷頗聞之肉袒負荆至相如門謝罪此言藺相如自屈如是欲整肅於官事而不倨慢於爵利也光}
+  - {type: punctuation, offset: 120, content: ？, id: KR3a0009_tls_008-bkkpn50}
+  - {type: punctuation, offset: 120, content: 」, id: KR3a0009_tls_008-bkkpn51}
+  - {type: 'tls:seg', offset: 120, content: '', id: KR3a0009_tls_008-3a.18}
+  - {type: punctuation, offset: 121, content: ：, id: KR3a0009_tls_008-bkkpn52}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3a0009_tls_008-3a.19}
+  - {type: punctuation, offset: 121, content: 「, id: KR3a0009_tls_008-bkkpn53}
+  - {type: variant, offset: 121, length: 1, content: 詘, WYG: 音義曰􅀈與蕩同光謂蕩謂逸其}
+  - {type: variant, offset: 121, length: 1, content: 詘, krp: 音義曰􅀈與蕩同光謂蕩謂逸其}
+  - {type: punctuation, offset: 123, content: ，, id: KR3a0009_tls_008-bkkpn54}
+  - {type: 'tls:seg', offset: 123, content: '', id: KR3a0009_tls_008-3a.20}
+  - {type: variant, offset: 123, length: 1, content: 將, WYG: 心制謂拘於禄位仲連不}
+  - {type: variant, offset: 123, length: 1, content: 將, krp: 心制謂拘於禄位仲連不}
+  - {type: variant, offset: 125, length: 0, content: '', WYG: 富貴動其心而未能忘死生相如不以死生動其心而未能忘富貴故云然或問鄒陽祕曰鄒陽去吴之梁然否曰未}
+  - {type: variant, offset: 125, length: 0, content: '', krp: 富貴動其心而未能忘死生相如不以死生動其心而未能忘富貴故云然或問鄒陽祕曰鄒陽去吴之梁然否曰未}
+  - {type: variant, offset: 126, length: 1, content: 道, WYG: 而分疑忼辭免罿幾矣哉鳥罟謂之罿猶人之縲紲㡬危}
+  - {type: variant, offset: 126, length: 1, content: 道, krp: 而分疑忼辭免罿幾矣哉鳥罟謂之罿猶人之縲紲㡬危}
+  - {type: punctuation, offset: 128, content: 。, id: KR3a0009_tls_008-bkkpn55}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3a0009_tls_008-3a.21}
+  - {type: variant, offset: 128, length: 1, content: 如, SBCK: 揭}
+  - {type: variant, offset: 128, length: 0, content: '', WYG: 獄中出慷慨之辭由得以自免亦已危矣咸曰鄒陽事漢景帝弟梁孝王為羊勝公孫詭所疾而讒之孝王怒下陽吏将殺之陽從獄中上書孝王立出之卒為上客未信而分疑者言未為梁王所信方為其所疑雖能分觧以免固亦危矣光曰忼苦兩切罿昌鐘切幾音機孔子稱信而後諫未信則以為謗已也陽初仕梁未為孝王所信而深言以觸機事分取孝王之疑故曰未信而分疑或問信陵平原孟嘗春申益乎祕曰信陵君魏無忌魏安釐王異母弟也平原君趙勝趙之諸公子趙惠文王弟也孟嘗君田文齊威王孫也春申君黄歇楚人也問有益於國乎曰上失其政姦臣竊國命何其益乎當此四君之時實皆有益於其國而揚子譏之者蓋論上失其政故辯明之祕曰進賢育善權在國君而四君專之故曰竊國命光曰洪範曰臣無有作福作威四豪聚私黨以專國政故曰姦臣竊國命樗里子之智也使知國}
+  - {type: page-break, offset: 128, content: '', id: KR3a0009_WYG_008-4a, image: WYG0696/WYG0696-0336a.png}
+  - {type: variant, offset: 128, length: 0, content: '', krp: 獄中出慷慨之辭由得以自免亦已危矣咸曰鄒陽事漢景帝弟梁孝王為羊勝公孫詭所疾而讒之孝王怒下陽吏将殺之陽從獄中上書孝王立出之卒為上客未信而分疑者言未為梁王所信方為其所疑雖能分觧以免固亦危矣光曰忼苦兩切罿昌鐘切幾音機孔子稱信而後諫未信則以為謗已也陽初仕梁未為孝王所信而深言以觸機事分取孝王之疑故曰未信而分疑或問信陵平原孟嘗春申益乎祕曰信陵君魏無忌魏安釐王異母弟也平原君趙勝趙之諸公子趙惠文王弟也孟嘗君田文齊威王孫也春申君黄歇楚人也問有益於國乎曰上失其政姦臣竊國命何其益乎當此四君之時實皆有益於其國而揚子譏之者蓋論上失其政故辯明之祕曰進賢育善權在國君而四君專之故曰竊國命光曰洪範曰臣無有作福作威四豪聚私黨以專國政故曰姦臣竊國命樗里子之智也使知國}
+  - {type: variant, offset: 129, length: 1, content: 詘, SBCK: 雒}
+  - {type: variant, offset: 129, length: 1, content: 詘, WYG: 知𦵏則吾以疾為􅆱龜祕曰樗里子名疾秦惠王之弟有滑稽多智秦人號曰智囊卒𦵏子渭南章䑓之東曰後百歲當有天子之宮夾我墓至漢興長樂宮在其東未央宮在其西言使其知國家未來之安危亦如别𦵏則其神智如蓍龜周之順赧以成周而西傾咸曰昔周武王都於鎬京謂之宗周即西周也至幽王以犬戎亂平王東遷於洛即周公所營之王城是謂成周亦曰東周也秦都咸陽在西而赧王為秦所滅故曰西傾光曰宋吴本作周之傾赧今從李本音義曰諸本皆作順赧順靚王及赧王也俗本作傾誤也史記作慎靚王索隠作順靚王或是慎轉為順秦之惠文昭㐮以西山而東并祕曰周顯王四十四年秦惠文始稱王至昭㐮王五十一年乃滅周時秦都雍州西山在焉而東滅周故曰東并本紀曰文公卒𦵏西山光曰并音併孰愈咸曰問西傾東并誰優祕曰或者以子雲不與秦故問西傾東并誰為優曰周也羊秦也狼咸曰周衰弱如羊秦强暴如狼然則狼愈歟光曰問强猶勝於弱乎曰羊狼一也􅂈猶不及兩不與也咸曰言周以不}
+  - {type: page-break, offset: 129, content: '', id: KR3a0009_WYG_008-4b, image: WYG0696/WYG0696-0336b.png}
+  - {type: page-break, offset: 129, content: '', id: KR3a0009_WYG_008-5a, image: WYG0696/WYG0696-0336c.png}
+  - {type: variant, offset: 129, length: 1, content: 詘, krp: 知𦵏則吾以疾為蓍龜祕曰樗里子名疾秦惠王之弟有滑稽多智秦人號曰智囊卒𦵏子渭南章䑓之東曰後百歲當有天子之宮夾我墓至漢興長樂宮在其東未央宮在其西言使其知國家未來之安危亦如别𦵏則其神智如蓍龜周之順赧以成周而西傾咸曰昔周武王都於鎬京謂之宗周即西周也至幽王以犬戎亂平王東遷於洛即周公所營之王城是謂成周亦曰東周也秦都咸陽在西而赧王為秦所滅故曰西傾光曰宋吴本作周之傾赧今從李本音義曰諸本皆作順赧順靚王及赧王也俗本作傾誤也史記作慎靚王索隠作順靚王或是慎轉為順秦之惠文昭㐮以西山而東并祕曰周顯王四十四年秦惠文始稱王至昭㐮王五十一年乃滅周時秦都雍州西山在焉而東滅周故曰東并本紀曰文公卒𦵏西山光曰并音併孰愈咸曰問西傾東并誰優祕曰或者以子雲不與秦故問西傾東并誰為優曰周也羊秦也狼咸曰周衰弱如羊秦强暴如狼然則狼愈歟光曰問强猶勝於弱乎曰羊狼一也過猶不及兩不與也咸曰言周以不}
+  - {type: variant, offset: 130, length: 1, content: 道, SBCK: 陽}
+  - {type: variant, offset: 132, length: 3, content: 信身雖, SBCK: 行}
+  - {type: variant, offset: 132, length: 1, content: 信, WYG: 弱秦以不道而强强與弱雖異而不道一也祕曰夫湯武革命順乎天而應乎人者以道徳易暴亂者也今秦以暴虐易㣲弱而民不安堵何愈之有或問蒙恬忠而被誅忠奚可為也曰塹山堙谷起臨洮擊遼水力不足而屍有餘忠不足相也相助也雖盡一}
+  - {type: variant, offset: 132, length: 1, content: 信, krp: 弱秦以不道而强强與弱雖異而不道一也祕曰夫湯武革命順乎天而應乎人者以道徳易暴亂者也今秦以暴虐易㣲弱而民不安堵何愈之有或問蒙恬忠而被誅忠奚可為也曰塹山堙谷起臨洮擊遼水力不足而屍有餘忠不足相也相助也雖盡一}
+  - {type: punctuation, offset: 134, content: ，, id: KR3a0009_tls_008-bkkpn56}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR3a0009_tls_008-4a.1}
+  - {type: variant, offset: 134, length: 1, content: 雖, WYG: 之節而殘百姓之命非所以務民之義咸曰秦已并}
+  - {type: variant, offset: 134, length: 1, content: 雖, krp: 之節而殘百姓之命非所以務民之義咸曰秦已并}
+  - {type: punctuation, offset: 137, content: ，, id: KR3a0009_tls_008-bkkpn57}
+  - {type: variant, offset: 137, length: 0, content: '', SBCK: 豈徒擔石乎秦將白起}
+  - {type: variant, offset: 137, length: 0, content: '', WYG: 乃使蒙恬将三十萬衆北逐戎狄收河南築長城起臨洮至遼東延袤萬里又始皇欲遊天下乃使蒙恬通道自九原抵丼泉塹山堙谷後始皇卒胡亥立與其弟蒙毅俱為趙髙所害吞藥而死司馬遷謂蒙恬所為秦築長城亭障塹山堙谷通直道固輕百姓力矣夫秦之初滅諸侯天下之心未定痍傷者未瘳而恬為名将不以此時强諫振百姓之急養老存孤務修衆庻之和而阿意興功此其兄弟遇誅不亦宜乎今揚㫖與遷同故備載之以見始末光曰李本屍作死今從宋吴本塹七豔切洮士刀切相息亮切或問呂不韋其智矣乎以人易貨呂不韋陽翟賈人也出千金以助子楚子楚旣立不韋相之祕曰呂不韋陽翟大賈人也秦子楚質於趙不韋曰此竒貨可居故曰人易貨光曰捐千金而得子楚曰誰謂不韋智者歟以國易宗雖聞列封先笑後愁身旣鴆死宗族竄流祕曰不韋仕不由道用貨財而佞於華陽夫人以取顯位終乃家屬徙蜀飲鴆而死是徼取國權以易宗族光曰貪國權而䘮其宗呂不韋之盗穿窬之雄乎不以其道非盗而何穿窬也者吾見擔石矣未見雒陽也雒陽不韋所封國也揭雒陽而行天下豈徒擔石乎祕曰穿窬者伺慢藏而得之不􅂈一擔一石而不韋伺人顔色而取之雒陽之封是其雄也子楚立是為荘㐮王以不韋為丞相封為文信侯食河南雒陽十萬户光曰窬音踰擔都濫切秦將白起不仁奚用為也長平之戰四十萬人死蚩尤之亂不過於此矣原野厭人之肉川谷流人之血將不仁奚用為奚何咸曰白起事秦為武安君前後伐韓魏斬殺甚多昭王四十七年與王齮伐趙圍其将趙括於長平旣殺趙括括軍敗卒四十萬人降起起乃挾詐而盡坑殺之故揚以為不仁光曰用将所以救亂誅暴翦問王翦祕曰王翦頴陽東鄉人也問其將略曰始皇方獵六國而翦牙欸咀噬用牙言其酷也欸者絶語歎聲祕曰言翦之助惡也牙欸謂切齒而怒也欸怒聲太史公曰王翦為秦将夷六國光曰欸烏開切翦為之牙以噬物或問要離非義者歟不以家辭國祕曰要離吴人棄家而為國疑其有義光曰要一遙切曰離也火妻灰子以反於慶忌實蛛蝥之靡也焉可謂之義也義者臣子死節乎君親之難也離自平入而焚燒妻子詐為吴仇讎求信於慶忌反而刺之若蜘蛛之小巧耳祕曰吴王闔閭欲殺王子慶忌要離詐以罪亡令吴王燔其妻子而揚其灰走見慶忌以劔刺之譬如蜘蛛之螫毒於人而靡死也焉可為義哉靡披靡而死也光曰宋吴本蝥作螫今從李本蛛音誅蝥音矛靡興糜同音義曰賈誼新書曰蛛蝥作網光謂靡爛也政也祕曰聶政軹深井里人也問其義乎為嚴氏犯韓刺相俠累曼面為姊實壮士之靡也焉可謂之義也俠累韓相名也祕曰嚴仲子事韓哀侯與韓相俠累有郤仲子恐誅亡去游齊交聶政政後伏劔至韓刺殺俠累因自鈹面决眼自屠出腸遂以死其姊嫈如韓之市伏尸哭於邑悲哀而死政之旁曼無也言政知姊之忠烈乃鈹其面使他人無所識認且欲全其姊者也小爾雅曰曼無也光曰音義曰曼謨官切塗面軻也問荆軻祕曰荆軻也義乎為丹奉於期之首燕督亢之圖入不測之秦實刺客之靡也咸曰燕太子丹以荆軻為上卿欲以報秦先是秦将樊於期得罪亡入燕太子丹受而舍之秦購樊於期首金千斤邑萬家荆軻謂太子丹曰誠得樊将軍首與燕督亢之地圖以獻秦王王必恱見臣臣乃得以報矣於是說樊於期於期遂自刎軻乃與秦舞陽盛於期首函封之及求天下利匕首與秦督亢之地圖至秦秦王聞之喜乃見於咸陽宮軻奉於期首而秦舞陽奉地圖秦王發圖窮而軻以左手持把秦王之袖右手持匕首揕之秦王驚自引而起軻知事不就倚柱而笑箕倨以罵秦王左右遂前殺軻矣光曰亢音剛焉可謂之義也三士所死皆非君親之難也非義之義君子}
+  - {type: page-break, offset: 137, content: '', id: KR3a0009_WYG_008-5b, image: WYG0696/WYG0696-0336d.png}
+  - {type: page-break, offset: 137, content: '', id: KR3a0009_WYG_008-6a, image: WYG0696/WYG0696-0337a.png}
+  - {type: page-break, offset: 137, content: '', id: KR3a0009_WYG_008-6b, image: WYG0696/WYG0696-0337b.png}
+  - {type: page-break, offset: 137, content: '', id: KR3a0009_WYG_008-7a, image: WYG0696/WYG0696-0337c.png}
+  - {type: page-break, offset: 137, content: '', id: KR3a0009_WYG_008-7b, image: WYG0696/WYG0696-0337d.png}
+  - {type: variant, offset: 137, length: 0, content: '', krp: 乃使蒙恬将三十萬衆北逐戎狄收河南築長城起臨洮至遼東延袤萬里又始皇欲遊天下乃使蒙恬通道自九原抵丼泉塹山堙谷後始皇卒胡亥立與其弟蒙毅俱為趙髙所害吞藥而死司馬遷謂蒙恬所為秦築長城亭障塹山堙谷通直道固輕百姓力矣夫秦之初滅諸侯天下之心未定痍傷者未瘳而恬為名将不以此時强諫振百姓之急養老存孤務修衆庻之和而阿意興功此其兄弟遇誅不亦宜乎今揚㫖與遷同故備載之以見始末光曰李本屍作死今從宋吴本塹七豔切洮士刀切相息亮切或問呂不韋其智矣乎以人易貨呂不韋陽翟賈人也出千金以助子楚子楚旣立不韋相之祕曰呂不韋陽翟大賈人也秦子楚質於趙不韋曰此竒貨可居故曰人易貨光曰捐千金而得子楚曰誰謂不韋智者歟以國易宗雖聞列封先笑後愁身旣鴆死宗族竄流祕曰不韋仕不由道用貨財而佞於華陽夫人以取顯位終乃家屬徙蜀飲鴆而死是徼取國權以易宗族光曰貪國權而䘮其宗呂不韋之盗穿窬之雄乎不以其道非盗而何穿窬也者吾見擔石矣未見雒陽也雒陽不韋所封國也揭雒陽而行天下豈徒擔石乎祕曰穿窬者伺慢藏而得之不過一擔一石而不韋伺人顔色而取之雒陽之封是其雄也子楚立是為荘㐮王以不韋為丞相封為文信侯食河南雒陽十萬户光曰窬音踰擔都濫切秦將白起不仁奚用為也長平之戰四十萬人死蚩尤之亂不過於此矣原野厭人之肉川谷流人之血將不仁奚用為奚何咸曰白起事秦為武安君前後伐韓魏斬殺甚多昭王四十七年與王齮伐趙圍其将趙括於長平旣殺趙括括軍敗卒四十萬人降起起乃挾詐而盡坑殺之故揚以為不仁光曰用将所以救亂誅暴翦問王翦祕曰王翦頴陽東鄉人也問其將略曰始皇方獵六國而翦牙欸咀噬用牙言其酷也欸者絶語歎聲祕曰言翦之助惡也牙欸謂切齒而怒也欸怒聲太史公曰王翦為秦将夷六國光曰欸烏開切翦為之牙以噬物或問要離非義者歟不以家辭國祕曰要離吴人棄家而為國疑其有義光曰要一遙切曰離也火妻灰子以反於慶忌實蛛蝥之靡也焉可謂之義也義者臣子死節乎君親之難也離自平入而焚燒妻子詐為吴仇讎求信於慶忌反而刺之若蜘蛛之小巧耳祕曰吴王闔閭欲殺王子慶忌要離詐以罪亡令吴王燔其妻子而揚其灰走見慶忌以劔刺之譬如蜘蛛之螫毒於人而靡死也焉可為義哉靡披靡而死也光曰宋吴本蝥作螫今從李本蛛音誅蝥音矛靡興糜同音義曰賈誼新書曰蛛蝥作網光謂靡爛也政也祕曰聶政軹深井里人也問其義乎為嚴氏犯韓刺相俠累曼面為姊實壮士之靡也焉可謂之義也俠累韓相名也祕曰嚴仲子事韓哀侯與韓相俠累有郤仲子恐誅亡去游齊交聶政政後伏劔至韓刺殺俠累因自鈹面决眼自屠出腸遂以死其姊嫈如韓之市伏尸哭於邑悲哀而死政之旁曼無也言政知姊之忠烈乃鈹其面使他人無所識認且欲全其姊者也小爾雅曰曼無也光曰音義曰曼謨官切塗面軻也問荆軻祕曰荆軻也義乎為丹奉於期之首燕督亢之圖入不測之秦實刺客之靡也咸曰燕太子丹以荆軻為上卿欲以報秦先是秦将樊於期得罪亡入燕太子丹受而舍之秦購樊於期首金千斤邑萬家荆軻謂太子丹曰誠得樊将軍首與燕督亢之地圖以獻秦王王必恱見臣臣乃得以報矣於是說樊於期於期遂自刎軻乃與秦舞陽盛於期首函封之及求天下利匕首與秦督亢之地圖至秦秦王聞之喜乃見於咸陽宮軻奉於期首而秦舞陽奉地圖秦王發圖窮而軻以左手持把秦王之袖右手持匕首揕之秦王驚自引而起軻知事不就倚柱而笑箕倨以罵秦王左右遂前殺軻矣光曰亢音剛焉可謂之義也三士所死皆非君親之難也非義之義君子}
+  - {type: variant, offset: 138, length: 1, content: 為, SBCK: 仁奚用爲也長平之戰四十萬人死􅃖尤之亂不過於此矣原野猒人之肉川谷流人之血將不仁奚用爲奚何翦問王翦何將也曰始皇方獵六國而翦牙欸咀噬用牙言其酷也欸者絶語歎聲或問要離非義者與不以家辭國曰離也火妻灰子以求反於慶忌實蛛蝥之劘也焉可謂之義也義者臣子死節乎君親之難也離由平人而焚燒妻子詐爲呉讎求信於慶忌反而刺之若蜘蛛之䖝小巧耳政問聶政爲嚴氏犯韓刺相俠累曼面爲姊實壯士之靡也焉可謂之義也俠累韓相名也軻問荆軻爲丹奉於期之首燕督亢之圖入不測之秦實刺客之靡也焉可謂之義也三士所死皆非君親之難也非義之義君子不爲也或問儀秦學乎􅀑谷術而習乎縱橫言安中國者各十餘年是夫曰詐人}
+  - {type: page-break, offset: 138, content: '', id: KR3a0009_SBCK_011-2b}
+  - {type: page-break, offset: 138, content: '', id: KR3a0009_SBCK_011-3a}
+  - {type: punctuation, offset: 140, content: 。, id: KR3a0009_tls_008-bkkpn58}
+  - {type: punctuation, offset: 140, content: 」, id: KR3a0009_tls_008-bkkpn59}
+  - {type: xml-element, offset: 140, content: '', id: KR3a0009_tls_008-bkkxmlele11}
+  - {type: xml-element, offset: 140, content: '', id: KR3a0009_tls_008-bkkxmlele12}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR3a0009_tls_008-4a.2}
+  - {type: variant, offset: 140, length: 0, content: '', WYG: 或問儀秦學乎鬼谷術而習乎縱横言安中國者各十餘年是夫祕曰張儀魏人也蘇秦雒陽人也俱事鬼谷先生學術裴駰曰按風俗通乂曰鬼谷先生六國時縱横家於是張儀相秦蘇秦相六國乃投縱約書於秦秦兵不敢闚谷闗十五年問是道夫曰詐人也}
+  - {type: variant, offset: 140, length: 0, content: '', krp: 或問儀秦學乎鬼谷術而習乎縱横言安中國者各十餘年是夫祕曰張儀魏人也蘇秦雒陽人也俱事鬼谷先生學術裴駰曰按風俗通乂曰鬼谷先生六國時縱横家於是張儀相秦蘇秦相六國乃投縱約書於秦秦兵不敢闚谷闗十五年問是道夫曰詐人也}
+  - {type: variant, offset: 142, length: 1, content: 重, SBCK: 惡諸曰孔子讀而儀秦行何如也欲讀仲尼之書而行􅂫張之辯曰甚矣鳯鳴而鷙翰也然則子貢不爲與言子貢亦行游􅀃抑齊破吴以救魯曰亂而不解子貢恥諸􅀃而不富貴儀秦恥諸恥國亂而不解於義髙恥游􅀃而不富貴其情下或曰儀秦其才矣乎跡不蹈巳儀不迹秦曰昔在任人帝曰難之亦才矣任佞才乎才非吾徒之才也美行園公綺里季夏黃公角里先生避秦之亂隱居商山不朝髙祖而從太子帝客禮之言辭婁敬陸賈婁敬􅀃髙祖都􅀜中陸賈􅀃尉佗爲漢臣又作新語髙祖善之執正王陵申屠嘉吕后欲王諸吕陵執意不從免陵乃得封文帝佞幸鄧通至使慢禮嘉収通晁錯犯憲奏誅錯折節周昌汲黯折節謂直諫守儒轅固申公轅固守正以得辠於竇太后后使入圏擊彘申公守正以事楚王卒爲所亨此二人終不屈}
+  - {type: page-break, offset: 142, content: '', id: KR3a0009_SBCK_011-3b}
+  - {type: variant, offset: 142, length: 1, content: 重, WYG: 惡諸祕曰皆飾詐辯尚權變聖人不取也曰孔子讀而儀秦行何如也欲讀仲尼之書而行蘇張之辯曰甚矣鳳鳴而鷙翰也咸曰鳳鳴謂孔子讀也鷙翰謂秦儀行也祕曰鷙擊也鄒陽曰鷙鳥累百光曰輸胡安侯肝二切鷙鷹隼也翰羽翼也曰然則子貢不為歟言子貢亦㳺說抑齊破吴以救魯祕曰齊欲伐魯子貢行而說齊存魯破吴彊晉覇越言儀秦非道則子貢學孔子矣不為之乎光曰子貢存魯亂齊破吴强晉覇越考其年與事皆不合蓋六國㳺說之士託為之辭太史公不加考校因而記之揚子亦據太史公書發此語曰亂而不解子貢耻諸說而不富貴儀秦耻諸耻國亂而不觧其義髙耻㳺說而不富貴其情下祕曰子貢之志在觧於禍亂儀秦之志在求於富貴苟求富貴則無所不至矣或曰儀秦其才矣乎跡不蹈矣蘇秦佩六國相印以抑彊秦張儀入秦而復其衛後破山東咸曰迹不蹈已者蹈踐也言儀秦之才術超卓自然不踐循舊人之迹祕曰儀秦雖同術豈非才乎秦則務縱横儀則務觧之二人之迹各不相蹈曰昔在任人帝曰難之亦才矣祕曰任佞也巧言近佞不以才也光曰宋吴本作昔在任人帝而難之不以才矣今從李本任音壬難讀如字佞者口才也舜謂知人安民惟帝其難之能哲而惠何畏乎巧言令色孔壬揚子言驩兠之徒能以巧言惑聖人其才亦不在人下矣才乎才非吾徒之才也祕曰儀秦之才非元凱之才也光曰口才君子所不貴美行園公綺里季夏黄公角里先生避秦之亂隠居商山不朝髙祖而從太子帝客禮之祕曰行人所不能四皓也光曰角盧谷切或作角音同言辭婁敬陸賈婁敬說髙祖都闗中陸賈說尉佗為漢臣又作新語髙祖善之執正王陵申屠嘉呂后欲王諸呂陵執意不從免陵乃得封之文帝佞幸鄧通至使慢禮嘉折之又晁錯犯憲嘉奏誅錯光曰宋吴本正作政今從李本折節周昌汲黯髙祖欲易太子周昌面爭以為不可武帝時公孫𢎞為丞相汲黯面折𢎞於上前以為𢎞諛不忠祕曰折節言其能降也夫彊直之人降則為亂若二公者夭姿彊直而能乃降其折節可尚矣守儒袁固申公袁固守正以得辠於竇太后后使入圏擊彘申公守正以事楚王卒為楚王所烹此二公終不屈}
+  - {type: page-break, offset: 142, content: '', id: KR3a0009_WYG_008-8a, image: WYG0696/WYG0696-0338a.png}
+  - {type: page-break, offset: 142, content: '', id: KR3a0009_WYG_008-8b, image: WYG0696/WYG0696-0338b.png}
+  - {type: page-break, offset: 142, content: '', id: KR3a0009_WYG_008-9a, image: WYG0696/WYG0696-0338c.png}
+  - {type: variant, offset: 142, length: 1, content: 重, krp: 惡諸祕曰皆飾詐辯尚權變聖人不取也曰孔子讀而儀秦行何如也欲讀仲尼之書而行蘇張之辯曰甚矣鳳鳴而鷙翰也咸曰鳳鳴謂孔子讀也鷙翰謂秦儀行也祕曰鷙擊也鄒陽曰鷙鳥累百光曰輸胡安侯肝二切鷙鷹隼也翰羽翼也曰然則子貢不為歟言子貢亦㳺說抑齊破吴以救魯祕曰齊欲伐魯子貢行而說齊存魯破吴彊晉覇越言儀秦非道則子貢學孔子矣不為之乎光曰子貢存魯亂齊破吴强晉覇越考其年與事皆不合蓋六國㳺說之士託為之辭太史公不加考校因而記之揚子亦據太史公書發此語曰亂而不解子貢耻諸說而不富貴儀秦耻諸耻國亂而不觧其義髙耻㳺說而不富貴其情下祕曰子貢之志在觧於禍亂儀秦之志在求於富貴苟求富貴則無所不至矣或曰儀秦其才矣乎跡不蹈矣蘇秦佩六國相印以抑彊秦張儀入秦而復其衛後破山東咸曰迹不蹈已者蹈踐也言儀秦之才術超卓自然不踐循舊人之迹祕曰儀秦雖同術豈非才乎秦則務縱横儀則務觧之二人之迹各不相蹈曰昔在任人帝曰難之亦才矣祕曰任佞也巧言近佞不以才也光曰宋吴本作昔在任人帝而難之不以才矣今從李本任音壬難讀如字佞者口才也舜謂知人安民惟帝其難之能哲而惠何畏乎巧言令色孔壬揚子言驩兠之徒能以巧言惑聖人其才亦不在人下矣才乎才非吾徒之才也祕曰儀秦之才非元凱之才也光曰口才君子所不貴美行園公綺里季夏黄公角里先生避秦之亂隠居商山不朝髙祖而從太子帝客禮之祕曰行人所不能四皓也光曰角盧谷切或作角音同言辭婁敬陸賈婁敬說髙祖都闗中陸賈說尉佗為漢臣又作新語髙祖善之執正王陵申屠嘉呂后欲王諸呂陵執意不從免陵乃得封之文帝佞幸鄧通至使慢禮嘉折之又晁錯犯憲嘉奏誅錯光曰宋吴本正作政今從李本折節周昌汲黯髙祖欲易太子周昌面爭以為不可武帝時公孫𢎞為丞相汲黯面折𢎞於上前以為𢎞諛不忠祕曰折節言其能降也夫彊直之人降則為亂若二公者夭姿彊直而能乃降其折節可尚矣守儒袁固申公袁固守正以得辠於竇太后后使入圏擊彘申公守正以事楚王卒為楚王所烹此二公終不屈}
+  - {type: variant, offset: 145, length: 5, content: 而輕其祿眾, SBCK: 菑異董相夏侯勝京房董仲舒夏侯勝京房皆善推隂陽知災異或問蕭曹曰蕭也規曹也隨蕭何規剏於前如一曹參奉隨於後不失滕灌樊酈曰俠介四}
+  - {type: variant, offset: 145, length: 0, content: '', WYG: 祕曰袁固生以治詩孝景帝時為博士竇太后好老子書召袁固生問老子書固曰此是家人言耳頃之為清河王太傅乆之病免申公以詩經為訓及趙綰王臧謂天子欲立明堂以朝諸侯不能就其事乃言師申公於是天子使使東帛加壁安車駟馬迎申公以為太中大夫舍魯邸議明堂事竇太后不說儒術得綰臧之過申公以疾免災異董相夏侯勝京房董仲舒夏侯勝京房皆善推隂陽知災異或問蕭曹曰蕭也規曹也随蕭何規剏於前如一曹參奉随於後不失光曰非蕭不能規非曹不能随二人恊心共成漢道其賢等耳滕灌樊酈曰俠介滕公灌嬰樊噲酈商此四人前後輔夾髙帝咸曰俠與挾同持也介衛也言髙帝為沛公時}
+  - {type: variant, offset: 145, length: 0, content: '', krp: 祕曰袁固生以治詩孝景帝時為博士竇太后好老子書召袁固生問老子書固曰此是家人言耳頃之為清河王太傅乆之病免申公以詩經為訓及趙綰王臧謂天子欲立明堂以朝諸侯不能就其事乃言師申公於是天子使使東帛加壁安車駟馬迎申公以為太中大夫舍魯邸議明堂事竇太后不說儒術得綰臧之過申公以疾免災異董相夏侯勝京房董仲舒夏侯勝京房皆善推隂陽知災異或問蕭曹曰蕭也規曹也随蕭何規剏於前如一曹參奉随於後不失光曰非蕭不能規非曹不能随二人恊心共成漢道其賢等耳滕灌樊酈曰俠介滕公灌嬰樊噲酈商此四人前後輔夾髙帝咸曰俠與挾同持也介衛也言髙帝為沛公時}
+  - {type: variant, offset: 146, length: 4, content: 輕其祿眾, WYG: 夏侯嬰灌嬰樊噲酈商皆已從之為持衛也祕曰滕公夏侯嬰灌嬰樊噲酈商皆俠剛介之士易曰介如石焉光曰介助也叔孫通曰槧}
+  - {type: page-break, offset: 146, content: '', id: KR3a0009_WYG_008-9b, image: WYG0696/WYG0696-0338d.png}
+  - {type: variant, offset: 146, length: 4, content: 輕其祿眾, krp: 夏侯嬰灌嬰樊噲酈商皆已從之為持衛也祕曰滕公夏侯嬰灌嬰樊噲酈商皆俠剛介之士易曰介如石焉光曰介助也叔孫通曰槧}
+  - {type: punctuation, offset: 149, content: ，, id: KR3a0009_tls_008-bkkpn60}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR3a0009_tls_008-4a.3}
+  - {type: substitution, offset: 149, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: variant, offset: 151, length: 39, content: 重其祿而輕其道聖人曰於道行與眾人曰於祿殖與昔者齊魯有大臣史失其名曰何如其大也曰, SBCK: 前後俠輔髙帝}
+  - {type: variant, offset: 151, length: 37, content: 重其祿而輕其道聖人曰於道行與眾人曰於祿殖與昔者齊魯有大臣史失其名曰何如其大, WYG: ''}
+  - {type: variant, offset: 151, length: 37, content: 重其祿而輕其道聖人曰於道行與眾人曰於祿殖與昔者齊魯有大臣史失其名曰何如其大, krp: ''}
+  - {type: punctuation, offset: 158, content: 。, id: KR3a0009_tls_008-bkkpn61}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR3a0009_tls_008-4a.4}
+  - {type: punctuation, offset: 161, content: ：, id: KR3a0009_tls_008-bkkpn62}
+  - {type: punctuation, offset: 161, content: 「, id: KR3a0009_tls_008-bkkpn63}
+  - {type: punctuation, offset: 165, content: ？, id: KR3a0009_tls_008-bkkpn64}
+  - {type: punctuation, offset: 165, content: 」, id: KR3a0009_tls_008-bkkpn65}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR3a0009_tls_008-5a.1}
+  - {type: substitution, offset: 165, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 168, content: ：, id: KR3a0009_tls_008-bkkpn66}
+  - {type: punctuation, offset: 168, content: 「, id: KR3a0009_tls_008-bkkpn67}
+  - {type: punctuation, offset: 172, content: ？, id: KR3a0009_tls_008-bkkpn68}
+  - {type: punctuation, offset: 172, content: 」, id: KR3a0009_tls_008-bkkpn69}
+  - {type: xml-element, offset: 172, content: '', id: KR3a0009_tls_008-bkkxmlele13}
+  - {type: xml-element, offset: 172, content: '', id: KR3a0009_tls_008-bkkxmlele14}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3a0009_tls_008-5a.2}
+  - {type: punctuation, offset: 175, content: 、, id: KR3a0009_tls_008-bkkpn70}
+  - {type: punctuation, offset: 179, content: ，, id: KR3a0009_tls_008-bkkpn71}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR3a0009_tls_008-5a.3}
+  - {type: punctuation, offset: 183, content: 。, id: KR3a0009_tls_008-bkkpn72}
+  - {type: 'tls:seg', offset: 183, content: '', id: KR3a0009_tls_008-5a.4}
+  - {type: punctuation, offset: 184, content: ：, id: KR3a0009_tls_008-bkkpn73}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR3a0009_tls_008-5a.5}
+  - {type: punctuation, offset: 184, content: 「, id: KR3a0009_tls_008-bkkpn74}
+  - {type: punctuation, offset: 189, content: ？, id: KR3a0009_tls_008-bkkpn75}
+  - {type: punctuation, offset: 189, content: 」, id: KR3a0009_tls_008-bkkpn76}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR3a0009_tls_008-5a.6}
+  - {type: variant, offset: 189, length: 0, content: '', WYG: 叔孫通秦博士避二世之亂遇髙祖起兵從之天下旣定還復從儒見事敏疾祕}
+  - {type: variant, offset: 189, length: 0, content: '', krp: 叔孫通秦博士避二世之亂遇髙祖起兵從之天下旣定還復從儒見事敏疾祕}
+  - {type: punctuation, offset: 190, content: ：, id: KR3a0009_tls_008-bkkpn77}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR3a0009_tls_008-5a.7}
+  - {type: punctuation, offset: 190, content: 「, id: KR3a0009_tls_008-bkkpn78}
+  - {type: variant, offset: 193, length: 0, content: '', SBCK: 曰槧人也見事敏疾爰盎曰忠不足而談有餘挾私斬錯晁錯曰愚削諸侯以危身酷吏曰虎哉虎哉角而翼者也郅都寗成張湯杜周之徒貨殖曰蚊曰血國三千使捋踈飲水褐博没齒無愁也或問循吏曰吏也鄭子産公儀休孫叔敖之徒游俠曰竊國靈也靈命也朱家田仲郭解劇孟原涉之徒佞幸曰不料而巳籍孺鄧通周仁韓王孫李延年之徒或問近丗社稷之臣曰若張子房之智用行舎藏功成身退陳平之無悟内明竒畫外無違悟絳侯勃之果誅諸吕立文帝霍將軍之勇處廢興無所懼終之以禮樂則可謂社稷之臣矣此數公遭漢初定倉卒之制權應當時苟以救丗不能與稷契伊周同風未終先王禮樂或問公孫􅀪董仲舒孰邇}
+  - {type: page-break, offset: 193, content: '', id: KR3a0009_SBCK_011-4a}
+  - {type: variant, offset: 193, length: 0, content: '', WYG: 采古禮與秦儀雜著漢儀簡牘之人也槧猶牘也說文曰􅢥璞也西京雜記曰子雲好事常懐鈆提槧光曰槧才敢切亷七艶三切闕袁盎曰忠不足而談有餘說景帝斬晁錯以謝七國實挾私怨而不為國祕曰袁盎譛誅晁錯忠不足也諌遷淮南王而談有餘也晁錯曰愚畫策削諸侯王七國旣反令盎得行其說智而不能自明朝服斬於東市祕曰晁錯知七國之彊不奉辭伐罪而請削乃為袁盎之所中而不能預言古之愚也直晁錯有焉光曰音義曰天復本愚作由忠今從諸家錯知諸侯太彊必為亂故削之而七國尋反身死東井不若主父偃從諸侯所}
+  - {type: variant, offset: 193, length: 0, content: '', krp: 采古禮與秦儀雜著漢儀簡牘之人也槧猶牘也說文曰􅢥璞也西京雜記曰子雲好事常懐鈆提槧光曰槧才敢切亷七艶三切闕袁盎曰忠不足而談有餘說景帝斬晁錯以謝七國實挾私怨而不為國祕曰袁盎譛誅晁錯忠不足也諌遷淮南王而談有餘也晁錯曰愚畫策削諸侯王七國旣反令盎得行其說智而不能自明朝服斬於東市祕曰晁錯知七國之彊不奉辭伐罪而請削乃為袁盎之所中而不能預言古之愚也直晁錯有焉光曰音義曰天復本愚作由忠今從諸家錯知諸侯太彊必為亂故削之而七國尋反身死東井不若主父偃從諸侯所}
+  - {type: variant, offset: 194, length: 3, content: 制君臣, SBCK: 知此二人用心誰近聖人}
+  - {type: variant, offset: 194, length: 2, content: 制君, WYG: 分國邑侯子弟而諸侯自弱也故以錯為愚酷吏曰虎哉虎哉角而翼也郅都寗戚張湯杜周之徒咸曰韓詩外傳云無為虎傅翼将飛入邑擇人而食此以酷吏猶虎而角翼者言暴之甚也光曰不仁之人而得勢位如虎之得角翼貨殖曰蚊咸曰孔子云賜不受命而貨殖焉又曰求也為之聚歛是則貨殖聚歛聖人之所疾也漢書稱揚子不汲汲於富貴不戚戚於貧賤家無甔石之儲晏如也今或人問貨殖故荅之曰蚊亦疾之甚焉夫蚊之為蟲喙人而求生可鄙惡者也貨殖之徒兼并聚歛非義是存亦所謂喙人而求生矣祕曰貨殖之人折毫顧利㣲而食人其猶蚊乎曰血國三千使將䟽飲水褐博没齒然也咸曰揚旣以蚊貶貨殖或以是言難之也云天下之民有骨血者三千國非貨殖則将使其飯䟽食飲水被褐終年而已乎言衣食僅給而不能富庶也今下無荅文者蓋揚鄙其不諭教而彊見難故不對之也三千國者昔禹㑹塗山執五帛者萬國於商周之世已漸并之矣故至漢但可三千而已舉大較也褐博者孟子云褐寛博謂獨夫之被褐者没終也齒年也祕曰揚恐未諭故再釋之曰貨殖之心若蚊自務輕飽而血視三千之國使将䟽飯飲水衣褐博之衣没其年齒而後已也齒齡也按周一千八百國而漢郡國一百三縣邑千三百一十四云三千者蓋貨殖之人倍取於國且言其多歟光曰李本作没齒無愁也今從宋吴本蚊下曰衍字褐毛布也褐博以褐為寛博之衣也三千言其衆也言貨殖如蚊􅏐民之血使之皆貧困以終其身也或問循吏曰吏也鄭子産公儀休孫叔敖之徒咸曰言如是者始可謂之吏也游俠曰竊國靈也靈命也朱亥田仲郭觧劇孟原渉之徒咸曰苟恱士立氣勢作威福結私交以立彊於國者謂之㳺俠此云竊國靈蓋言竊行國之威靈以為之彊祕曰靈福也遷載㳺俠竊國之威靈為已之私義者也光曰國之所以能為國者以在上者執號令御其下如人之有神靈也佞幸曰不料而已籍儒鄧通周文仁韓王孫李延年之徒咸曰料度也夫佞幸者日以寵進位非才升憑乎城社卒蹈機穽亦不度者也光曰不自料其才徳不稱其寵禄而貪竊之以取禍敗此皆論太史公書所載或問近世社稷之}
+  - {type: page-break, offset: 194, content: '', id: KR3a0009_WYG_008-10a, image: WYG0696/WYG0696-0339a.png}
+  - {type: page-break, offset: 194, content: '', id: KR3a0009_WYG_008-10b, image: WYG0696/WYG0696-0339b.png}
+  - {type: page-break, offset: 194, content: '', id: KR3a0009_WYG_008-11a, image: WYG0696/WYG0696-0339c.png}
+  - {type: variant, offset: 194, length: 2, content: 制君, krp: 分國邑侯子弟而諸侯自弱也故以錯為愚酷吏曰虎哉虎哉角而翼也郅都寗戚張湯杜周之徒咸曰韓詩外傳云無為虎傅翼将飛入邑擇人而食此以酷吏猶虎而角翼者言暴之甚也光曰不仁之人而得勢位如虎之得角翼貨殖曰蚊咸曰孔子云賜不受命而貨殖焉又曰求也為之聚歛是則貨殖聚歛聖人之所疾也漢書稱揚子不汲汲於富貴不戚戚於貧賤家無甔石之儲晏如也今或人問貨殖故荅之曰蚊亦疾之甚焉夫蚊之為蟲喙人而求生可鄙惡者也貨殖之徒兼并聚歛非義是存亦所謂喙人而求生矣祕曰貨殖之人折毫顧利㣲而食人其猶蚊乎曰血國三千使將䟽飲水褐博没齒然也咸曰揚旣以蚊貶貨殖或以是言難之也云天下之民有骨血者三千國非貨殖則将使其飯䟽食飲水被褐終年而已乎言衣食僅給而不能富庶也今下無荅文者蓋揚鄙其不諭教而彊見難故不對之也三千國者昔禹㑹塗山執五帛者萬國於商周之世已漸并之矣故至漢但可三千而已舉大較也褐博者孟子云褐寛博謂獨夫之被褐者没終也齒年也祕曰揚恐未諭故再釋之曰貨殖之心若蚊自務輕飽而血視三千之國使将䟽飯飲水衣褐博之衣没其年齒而後已也齒齡也按周一千八百國而漢郡國一百三縣邑千三百一十四云三千者蓋貨殖之人倍取於國且言其多歟光曰李本作没齒無愁也今從宋吴本蚊下曰衍字褐毛布也褐博以褐為寛博之衣也三千言其衆也言貨殖如蚊噆民之血使之皆貧困以終其身也或問循吏曰吏也鄭子産公儀休孫叔敖之徒咸曰言如是者始可謂之吏也游俠曰竊國靈也靈命也朱亥田仲郭觧劇孟原渉之徒咸曰苟恱士立氣勢作威福結私交以立彊於國者謂之㳺俠此云竊國靈蓋言竊行國之威靈以為之彊祕曰靈福也遷載㳺俠竊國之威靈為已之私義者也光曰國之所以能為國者以在上者執號令御其下如人之有神靈也佞幸曰不料而已籍儒鄧通周文仁韓王孫李延年之徒咸曰料度也夫佞幸者日以寵進位非才升憑乎城社卒蹈機穽亦不度者也光曰不自料其才徳不稱其寵禄而貪竊之以取禍敗此皆論太史公書所載或問近世社稷之}
+  - {type: variant, offset: 197, length: 0, content: '', WYG: 曰若張子房}
+  - {type: variant, offset: 197, length: 0, content: '', krp: 曰若張子房}
+  - {type: variant, offset: 198, length: 5, content: 儀魯徵先生, SBCK: 道曰仲舒欲爲而不可得者也􅀪容而巳矣利在安身或問近丗名卿曰若張廷尉之平張釋之惟存公平不阿}
+  - {type: variant, offset: 198, length: 3, content: 儀魯徵, WYG: 智用行舍藏功成身退陳平之無悮内明其畫外無違悮祕曰所舉必行無謬悮光曰李本悮作悟今從宋吴本悮與忤同絳侯勃之果祕曰誅諸呂立代王果於大事霍將軍之勇祕曰光擢燕上官之鋒處興廢之分而不懼終之以禮樂則可謂社稷之臣矣此數公遭漢初定倉卒之際則權應當時苟以救世不能與稷契伊周同風未終}
+  - {type: variant, offset: 198, length: 3, content: 儀魯徵, krp: 智用行舍藏功成身退陳平之無悮内明其畫外無違悮祕曰所舉必行無謬悮光曰李本悮作悟今從宋吴本悮與忤同絳侯勃之果祕曰誅諸呂立代王果於大事霍將軍之勇祕曰光擢燕上官之鋒處興廢之分而不懼終之以禮樂則可謂社稷之臣矣此數公遭漢初定倉卒之際則權應當時苟以救世不能與稷契伊周同風未終}
+  - {type: punctuation, offset: 199, content: ，, id: KR3a0009_tls_008-bkkpn79}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR3a0009_tls_008-5a.8}
+  - {type: punctuation, offset: 200, content: ，, id: KR3a0009_tls_008-bkkpn80}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3a0009_tls_008-5a.9}
+  - {type: variant, offset: 202, length: 1, content: 生, WYG: 王之禮樂祕曰言此數公旣立功之後以禮樂自終則社稷臣矣光曰言雖兼數公之才業不能修禮樂以成治平之化亦末足謂之社稷之臣也或問公孫𢎞董仲舒孰邇欲知此二人用心誰近聖人之道祕曰誰近社稷之臣曰仲舒欲為而不可得𢎞容而已矣利用安身祕曰仲舒欲施禮樂之事而武帝外之故不可得也禮樂志曰時上方征討四夷銳志武功不暇留意禮文之事又曰未有立禮成樂此賈誼仲舒王吉劉向之徒所為發憤而增歎也𢎞嘗與公卿約議至上前皆背其約以順上㫖是取容而已何暇禮樂战或問近世名卿曰若張廷尉之平張釋之堆存公平無阿}
+  - {type: page-break, offset: 202, content: '', id: KR3a0009_WYG_008-11b, image: WYG0696/WYG0696-0339d.png}
+  - {type: variant, offset: 202, length: 1, content: 生, krp: 王之禮樂祕曰言此數公旣立功之後以禮樂自終則社稷臣矣光曰言雖兼數公之才業不能修禮樂以成治平之化亦末足謂之社稷之臣也或問公孫𢎞董仲舒孰邇欲知此二人用心誰近聖人之道祕曰誰近社稷之臣曰仲舒欲為而不可得𢎞容而已矣利用安身祕曰仲舒欲施禮樂之事而武帝外之故不可得也禮樂志曰時上方征討四夷銳志武功不暇留意禮文之事又曰未有立禮成樂此賈誼仲舒王吉劉向之徒所為發憤而增歎也𢎞嘗與公卿約議至上前皆背其約以順上㫖是取容而已何暇禮樂战或問近世名卿曰若張廷尉之平張釋之堆存公平無阿}
+  - {type: variant, offset: 204, length: 1, content: 齊, SBCK: 意雋京兆之見雋不疑當昭帝時有人自稱亡衞太子百官莫知其}
+  - {type: variant, offset: 204, length: 1, content: 齊, WYG: 意咸曰釋之為廷尉天下無寃民其所謂平矣祕曰張釋之為廷尉不族盗宗廟御物者執法之平也賛曰張釋之之守法雋京兆之見雋不疑當昭帝時有人自稱亡衛太子百官莫知其}
+  - {type: page-break, offset: 204, content: '', id: KR3a0009_WYG_008-12a, image: WYG0696/WYG0696-0340a.png}
+  - {type: variant, offset: 204, length: 1, content: 齊, krp: 意咸曰釋之為廷尉天下無寃民其所謂平矣祕曰張釋之為廷尉不族盗宗廟御物者執法之平也賛曰張釋之之守法雋京兆之見雋不疑當昭帝時有人自稱亡衛太子百官莫知其}
+  - {type: punctuation, offset: 205, content: 、, id: KR3a0009_tls_008-bkkpn81}
+  - {type: variant, offset: 207, length: 0, content: '', SBCK: 疑後至収而治之乃明巫成方遂也尹扶風之絜尹翁歸清廉有節不􅀍滋垢王子貢之介王子貢名尊成帝時人治任公正誅鉏豪強不避貴戚斯近丗名卿矣將旣聞名卿次問名將曰若條侯之守長平冠軍之征伐愽陸之持重可謂近丗名將矣請問古欲知古之良將曰鼓之以道德征之以仁義輿尸血刃皆所不爲也張騫蘇武之奉使也執節没身不屈王命雖古之膚使其猶劣諸膚美丗稱東方生之盛也言不純師行不純表其流風遺書蔑如也或曰隱者也曰昔之隱者吾聞其語矣又聞其行矣昔之隱者文王拘於羑里而重易六爻箕子隱於殷朝而爲周陳洪範接輿之在楚而歌鳯􅀆或曰隱道多端曰固也聖言聖行不逢其時聖人隱也賢言賢行不逢其時賢者隱也談言談行而不逢其時談者隱也昔者箕子之漆其身也狂接輿之􅀍其髮也欲去而恐罹害者也箕子之洪範接輿之歌鳯也哉或問東方生名過實者何也曰應諧不窮正諫穢德由此四事得名應諧似優似倡優不窮似哲正諫似直穢德似隱請問名曰詼達惡比欲知誰比曰非夷齊而是柳下惠戒其子以尚容首陽爲拙柱下爲工飽食安坐以仕易農依隱玩丗詭時不逢其滑稽之雄乎非夷齊是柳下惠戒其子以尚同依隱玩丗飽食安坐以仕易農此滑稽之雄者也或問柳下惠非朝隱者與此問發於東方朔也曰君子謂之不恭古者髙餓顯下禄隱孟子曰伯夷隘柳下惠不恭隘與不恭君子不由也然則餓顯不獨髙禄隱未爲下今發髙下之談蓋有厲乎素飱也妄譽仁之賊也妄毀義之賊也賊仁近郷原賊義近郷訕同乎流俗合乎汙丗衆皆􅀃之以爲是而不可與入堯舜之道者德之賊也孔子惡似而非者孟軻論之備矣或問子蜀人也請人曰有李仲元者人也蜀有嚴君平豈伊仲元君平巳顯仲元未聞其爲人也柰何曰不屈其意不累其身曰是夷惠之徒與曰不夷不惠可否之間也隨時之義治亂若鳯如是則奚名之不彰也曰無仲尼則西山之餓夫與東國之絀臣惡乎聞餓夫夷齊絀臣柳下惠也曰王陽貢禹遇仲尼乎曰明星皓皓華藻之力也與星雖皓皓有華藻然非}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_SBCK_011-4b}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_SBCK_011-5a}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_SBCK_011-5b}
+  - {type: variant, offset: 207, length: 0, content: '', WYG: 疑後至取而治之乃巫成方遂也光曰雋徂兖切尹扶風之絜尹翁歸清亷有節不避滋垢王子貢之介王子貢名尊成帝時人治任公正誅鋤豪彊不避貴戚斯名卿矣将旣聞名卿次問名将曰若條侯之守咸曰周亞夫也守謂守細栁光曰璧昌邑不救梁以弊吴雖有詔書亦不從長平冠軍之征伐祕曰長平侯衛青冠軍侯霍去病俱征伐匈奴立功博陸之持重祕曰博陸侯霍光賛曰臨大節而不可奪遂正國家安社稷可謂名将矣請問古欲知古之良将曰鼓之以道徳咸曰猶益賛禹而有苗格祕曰以道勝者帝以徳勝者王帝王之兵前無敵孫子五教之計一曰道征之以仁義咸曰猶常武所謂旣敬旣戒惠此南國祕曰荀卿曰桓文之節制不可以敵湯武之仁義輿尸血及皆所不為也張騫蘇武之奉使也執節没身不屈王命雖古之膚使其猶劣諸膚美也咸曰張騫嘗使月氐道經匈奴中來徃兩為匈奴所得留騫十餘歲然騫持漢節不失後亡歸初騫行時百餘人去十三歲惟二人得還蘇武嘗使匈奴中單于說武令降武不聼單于怒幽武寘大窖中絶不與食又徙武北海上無人處使牧羝武旣至海上杖漢節牧羊卧起持操節旄盡落留匈奴凡十九年至昭帝即位匈奴與漢和親漢求武得歸故二人雖古之美使所不及矣光曰没身者乆留匈奴不顧其死世稱東方生之盛也言不純師行不純表其流風遺書蔑如也咸曰揚鄙朔之為政所以自發論也表則也蔑絶也謂朔之言行不純一於聖人之師則如詼諧射覆隠語之類也故宗聖之風立教之書絶而不傳今觀朔嘗上書陳農戰强國之計數萬言又有封太山貴和氏璧及皇太子生禖屏風平樂觀賦諸篇頗存盖子雲惡其雜而不取之也祕曰顔師古曰言辭義淺薄不足稱也光曰朔言行駁雜所師表者不能純壹其流風遺書皆蔑然無足觀也或曰隠者也成曰或見揚之短朔故問以為世稱朔吏隠者也光曰宋吴本或曰作或問今從李本曰昔之隠者吾聞其語矣又聞其行矣昔之隠者文王拘於羑里而重易六爻箕子隠於殷朝而為周陳洪範接輿之在楚而歌鳳兮咸曰吾聞其語又聞其行者如夫子所謂作者七人之義也言隠道當如此七人者祕曰聞其聖賢之言行光曰言皆不然或曰隠道多端咸曰或言隠之道多端如朔者亦其一也曰固也咸曰固實也言隠道實多端故陳之于下聖言聖行不逢其時聖人隠也咸曰仲尼亦然祕曰易曰龍徳而隠者也不易乎世不成乎名遯世旡悶不見是而旡悶樂則行之憂則危之其聖人隠也賢言賢行不逢其時賢者隠也咸曰孟軻亦然祕曰捨之則蔵光曰考其言行之素皆聖賢也以不逢其時故隠以避害耳談言談行不逢其時談者隠也咸曰子貢仲連亦然祕曰有文而不遇者儒行曰言談者仁之文也光曰朔談者耳不遇戰國縱横之時故依隠玩世不足貴也昔者箕子之漆其身也狂接輿之被其髮也欲去而恐罹害者也箕子之洪範接輿之歌鳳也哉咸曰彼之隠者猶為行道立教而干於時如楚狂箕子去而隠以避害言隠雖有此數端而朔不可以及是祕曰此皆多端也箕子為之奴孔子曰殷有三仁焉而有聞著乎洪範接輿佯狂孔子下欲與之言而有聞著乎歌鳯是皆多端之甚者而其道純正罹一本作離光曰二子皆晦迹以避害遇聖人則自顯或問東方生名􅂈實者何也咸曰言朔旣不及此而世稱之􅂈實何也曰應諧不窮正諫穢徳由此四事得名應諧似優似倡優咸曰應諧謂應言而諧戲之如與倖倡郭舍人隠語者不窮似哲咸曰問則輙應如射覆見微者祕曰變詐鋒出莫能窮者似智慧光曰吴本哲作智今從李宋木正諫似直咸曰蓋諌上休斥董偃請焚甲乙帳者祕曰時觀察顔色直言切諌似峭直穢徳似隠祕曰懐肉汙衣歲更娶婦似隠迹請問名曰談逹􅁖比欲知誰比祕曰朔之名也談也達也何為倫比談一本作詼字光曰宋本作請問名字逹吴本作請問名談逹今從李本音義引漢書朔談達多端不名一行或問朔所為當何以名之揚子謂朔談諧敏逹之人耳惡音烏曰非夷齊而是栁下惠戒其子以尚容首陽為拙柱下為工飽食安坐以仕易農依隠玩世詭時不逢其滑稽之雄乎非夷齊是栁下惠戒其子以尚同依隠玩世飽食安歩以仕易農此滑稽之雄者也咸曰言朔非夷曠而尚取容依約其隠玩弄於世但滑稽之雄者而已何所比哉光曰李宋吴本皆云非夷尚容依隠玩世其滑稽之雄乎按漢書具載揚子之言恐諸家脫悮也今從漢書滑音骨言朔依託隠者以玩侮世人以詭譎欺時人不逢迕取禍也滑稽多智員曲之貌或問栁下惠非朝隠者歟此問發於東方朔也咸曰或以揚之短朔疑朔與惠同道故舉之為請祕曰朔旣非隠則栁下惠降志辱身言中倫行中慮豈非朝隠者也光曰朝直遥切曰君子謂之不㳟古者髙餓顯下禄隠孟子曰伯夷隘柳下惠不㳟君子不由也然則餓顯不獨髙禄隠未為下人發髙下之談蓋有厲乎素飡咸曰揚以或人用朔比惠故舉孟軻不㳟之言以非栁下惠又以夷惠隘不㳟二者雖皆不可然推而取之寧以伯夷餓顯為髙終以栁下惠禄隠為下故曰古者髙餓顯下禄隠猶奢寕儉易寕戚之義爾亦所以短朔也光曰餓顯謂夷齊餓于首陽之下民到于今稱之妄譽仁之賊也妄毁義之賊也光曰譽音余下同仁以褒善義以貶惡而妄以毁譽加人是賊傷仁義者也賊仁近鄉原賊義近鄉訕同乎流俗合乎汙世衆皆說之以為是而不可與入堯舜之道者徳之賊也孔子惡似而非者孟軻論之備矣光曰鄉原謂所至之鄉徇衆随俗求媚於人者鄉訕謂所至之鄉喜造謗訕使人畏其口者或問子蜀人也請人祕曰問蜀人曰有李仲元者人也蜀有嚴君平然君早已顯仲元未聞祕曰仲元則其人也李仲元名𢎞見秦宓傳光曰人者蜀之賢人也仲元事見常璩華陽國志尤詳其為人也柰何咸曰柰何猶曰如何曰不屈其意不累其身光曰累良偽切不以爵位屈其意禄利累其身曰是夷惠之徒歟曰不夷不惠可否之間也随時之義治亂若鳳光曰冇清和之美而無隘與不㳟之失從衆而不害於義則可害於義則否如是則奚名之不彰也曰無仲尼則西山之餓夫與東國之絀臣惡乎聞餓夫夷齊絀臣栁下惠也咸曰東國魯也左傳云下展禽即栁下惠也言夷恵得仲尼譽之名始聞光曰絀與黜同惡音烏曰王陽貢禹遇仲尼乎咸曰王吉字子陽事宣帝為諌議大夫貢禹字少翁二人為友世稱王陽在位貢禹彈冠言其取捨同也元帝即位遣使徵貢禹與吉吉年老道病卒禹後為御史大夫此言李仲元不遇仲尼則名不彰而王陽貢禹之顯豈遇仲尼乎光曰言王貢力學絜已而名著海内豈必遇仲尼曰明星皓皓華藻之力也歟星雖皓皓有華藻然非能自顯耀也要湏著天而後天下見之光曰言星之明非藻飾所}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-12b, image: WYG0696/WYG0696-0340b.png}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-13a, image: WYG0696/WYG0696-0340c.png}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-13b, image: WYG0696/WYG0696-0340d.png}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-14a, image: WYG0696/WYG0696-0341a.png}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-14b, image: WYG0696/WYG0696-0341b.png}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-15a, image: WYG0696/WYG0696-0341c.png}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-15b, image: WYG0696/WYG0696-0341d.png}
+  - {type: page-break, offset: 207, content: '', id: KR3a0009_WYG_008-16a, image: WYG0696/WYG0696-0342a.png}
+  - {type: variant, offset: 207, length: 0, content: '', krp: 疑後至取而治之乃巫成方遂也光曰雋徂兖切尹扶風之絜尹翁歸清亷有節不避滋垢王子貢之介王子貢名尊成帝時人治任公正誅鋤豪彊不避貴戚斯名卿矣将旣聞名卿次問名将曰若條侯之守咸曰周亞夫也守謂守細栁光曰璧昌邑不救梁以弊吴雖有詔書亦不從長平冠軍之征伐祕曰長平侯衛青冠軍侯霍去病俱征伐匈奴立功博陸之持重祕曰博陸侯霍光賛曰臨大節而不可奪遂正國家安社稷可謂名将矣請問古欲知古之良将曰鼓之以道徳咸曰猶益賛禹而有苗格祕曰以道勝者帝以徳勝者王帝王之兵前無敵孫子五教之計一曰道征之以仁義咸曰猶常武所謂旣敬旣戒惠此南國祕曰荀卿曰桓文之節制不可以敵湯武之仁義輿尸血及皆所不為也張騫蘇武之奉使也執節没身不屈王命雖古之膚使其猶劣諸膚美也咸曰張騫嘗使月氐道經匈奴中來徃兩為匈奴所得留騫十餘歲然騫持漢節不失後亡歸初騫行時百餘人去十三歲惟二人得還蘇武嘗使匈奴中單于說武令降武不聼單于怒幽武寘大窖中絶不與食又徙武北海上無人處使牧羝武旣至海上杖漢節牧羊卧起持操節旄盡落留匈奴凡十九年至昭帝即位匈奴與漢和親漢求武得歸故二人雖古之美使所不及矣光曰没身者乆留匈奴不顧其死世稱東方生之盛也言不純師行不純表其流風遺書蔑如也咸曰揚鄙朔之為政所以自發論也表則也蔑絶也謂朔之言行不純一於聖人之師則如詼諧射覆隠語之類也故宗聖之風立教之書絶而不傳今觀朔嘗上書陳農戰强國之計數萬言又有封太山貴和氏璧及皇太子生禖屏風平樂觀賦諸篇頗存盖子雲惡其雜而不取之也祕曰顔師古曰言辭義淺薄不足稱也光曰朔言行駁雜所師表者不能純壹其流風遺書皆蔑然無足觀也或曰隠者也成曰或見揚之短朔故問以為世稱朔吏隠者也光曰宋吴本或曰作或問今從李本曰昔之隠者吾聞其語矣又聞其行矣昔之隠者文王拘於羑里而重易六爻箕子隠於殷朝而為周陳洪範接輿之在楚而歌鳳兮咸曰吾聞其語又聞其行者如夫子所謂作者七人之義也言隠道當如此七人者祕曰聞其聖賢之言行光曰言皆不然或曰隠道多端咸曰或言隠之道多端如朔者亦其一也曰固也咸曰固實也言隠道實多端故陳之于下聖言聖行不逢其時聖人隠也咸曰仲尼亦然祕曰易曰龍徳而隠者也不易乎世不成乎名遯世旡悶不見是而旡悶樂則行之憂則危之其聖人隠也賢言賢行不逢其時賢者隠也咸曰孟軻亦然祕曰捨之則蔵光曰考其言行之素皆聖賢也以不逢其時故隠以避害耳談言談行不逢其時談者隠也咸曰子貢仲連亦然祕曰有文而不遇者儒行曰言談者仁之文也光曰朔談者耳不遇戰國縱横之時故依隠玩世不足貴也昔者箕子之漆其身也狂接輿之被其髮也欲去而恐罹害者也箕子之洪範接輿之歌鳳也哉咸曰彼之隠者猶為行道立教而干於時如楚狂箕子去而隠以避害言隠雖有此數端而朔不可以及是祕曰此皆多端也箕子為之奴孔子曰殷有三仁焉而有聞著乎洪範接輿佯狂孔子下欲與之言而有聞著乎歌鳯是皆多端之甚者而其道純正罹一本作離光曰二子皆晦迹以避害遇聖人則自顯或問東方生名過實者何也咸曰言朔旣不及此而世稱之過實何也曰應諧不窮正諫穢徳由此四事得名應諧似優似倡優咸曰應諧謂應言而諧戲之如與倖倡郭舍人隠語者不窮似哲咸曰問則輙應如射覆見微者祕曰變詐鋒出莫能窮者似智慧光曰吴本哲作智今從李宋木正諫似直咸曰蓋諌上休斥董偃請焚甲乙帳者祕曰時觀察顔色直言切諌似峭直穢徳似隠祕曰懐肉汙衣歲更娶婦似隠迹請問名曰談逹悪比欲知誰比祕曰朔之名也談也達也何為倫比談一本作詼字光曰宋本作請問名字逹吴本作請問名談逹今從李本音義引漢書朔談達多端不名一行或問朔所為當何以名之揚子謂朔談諧敏逹之人耳惡音烏曰非夷齊而是栁下惠戒其子以尚容首陽為拙柱下為工飽食安坐以仕易農依隠玩世詭時不逢其滑稽之雄乎非夷齊是栁下惠戒其子以尚同依隠玩世飽食安歩以仕易農此滑稽之雄者也咸曰言朔非夷曠而尚取容依約其隠玩弄於世但滑稽之雄者而已何所比哉光曰李宋吴本皆云非夷尚容依隠玩世其滑稽之雄乎按漢書具載揚子之言恐諸家脫悮也今從漢書滑音骨言朔依託隠者以玩侮世人以詭譎欺時人不逢迕取禍也滑稽多智員曲之貌或問栁下惠非朝隠者歟此問發於東方朔也咸曰或以揚之短朔疑朔與惠同道故舉之為請祕曰朔旣非隠則栁下惠降志辱身言中倫行中慮豈非朝隠者也光曰朝直遥切曰君子謂之不㳟古者髙餓顯下禄隠孟子曰伯夷隘柳下惠不㳟君子不由也然則餓顯不獨髙禄隠未為下人發髙下之談蓋有厲乎素飡咸曰揚以或人用朔比惠故舉孟軻不㳟之言以非栁下惠又以夷惠隘不㳟二者雖皆不可然推而取之寧以伯夷餓顯為髙終以栁下惠禄隠為下故曰古者髙餓顯下禄隠猶奢寕儉易寕戚之義爾亦所以短朔也光曰餓顯謂夷齊餓于首陽之下民到于今稱之妄譽仁之賊也妄毁義之賊也光曰譽音余下同仁以褒善義以貶惡而妄以毁譽加人是賊傷仁義者也賊仁近鄉原賊義近鄉訕同乎流俗合乎汙世衆皆說之以為是而不可與入堯舜之道者徳之賊也孔子惡似而非者孟軻論之備矣光曰鄉原謂所至之鄉徇衆随俗求媚於人者鄉訕謂所至之鄉喜造謗訕使人畏其口者或問子蜀人也請人祕曰問蜀人曰有李仲元者人也蜀有嚴君平然君早已顯仲元未聞祕曰仲元則其人也李仲元名𢎞見秦宓傳光曰人者蜀之賢人也仲元事見常璩華陽國志尤詳其為人也柰何咸曰柰何猶曰如何曰不屈其意不累其身光曰累良偽切不以爵位屈其意禄利累其身曰是夷惠之徒歟曰不夷不惠可否之間也随時之義治亂若鳳光曰冇清和之美而無隘與不㳟之失從衆而不害於義則可害於義則否如是則奚名之不彰也曰無仲尼則西山之餓夫與東國之絀臣惡乎聞餓夫夷齊絀臣栁下惠也咸曰東國魯也左傳云下展禽即栁下惠也言夷恵得仲尼譽之名始聞光曰絀與黜同惡音烏曰王陽貢禹遇仲尼乎咸曰王吉字子陽事宣帝為諌議大夫貢禹字少翁二人為友世稱王陽在位貢禹彈冠言其取捨同也元帝即位遣使徵貢禹與吉吉年老道病卒禹後為御史大夫此言李仲元不遇仲尼則名不彰而王陽貢禹之顯豈遇仲尼乎光曰言王貢力學絜已而名著海内豈必遇仲尼曰明星皓皓華藻之力也歟星雖皓皓有華藻然非能自顯耀也要湏著天而後天下見之光曰言星之明非藻飾所}
+  - {type: variant, offset: 208, length: 4, content: 致者二人, SBCK: 自顯耀也要須著天而後天下見之}
+  - {type: variant, offset: 209, length: 2, content: 者二, WYG: 以其居髙故為}
+  - {type: variant, offset: 209, length: 2, content: 者二, krp: 以其居髙故為}
+  - {type: punctuation, offset: 212, content: 。, id: KR3a0009_tls_008-bkkpn82}
+  - {type: punctuation, offset: 212, content: 」, id: KR3a0009_tls_008-bkkpn83}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR3a0009_tls_008-5a.10}
+  - {type: variant, offset: 212, length: 0, content: '', WYG: 所瞻仰王貢之名所以彰著有位於朝故也}
+  - {type: variant, offset: 212, length: 0, content: '', krp: 所瞻仰王貢之名所以彰著有位於朝故也}
+  - {type: punctuation, offset: 213, content: ：, id: KR3a0009_tls_008-bkkpn84}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR3a0009_tls_008-5a.11}
+  - {type: punctuation, offset: 213, content: 「, id: KR3a0009_tls_008-bkkpn85}
+  - {type: punctuation, offset: 215, content: ，, id: KR3a0009_tls_008-bkkpn86}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR3a0009_tls_008-5a.12}
+  - {type: variant, offset: 216, length: 0, content: '', SBCK: 奚爲不自髙曰皓皓者己也引而髙之者天也星著天而後天下見王陽貢禹時主所揚而後名顯也}
+  - {type: page-break, offset: 216, content: '', id: KR3a0009_SBCK_011-6a}
+  - {type: variant, offset: 216, length: 0, content: '', WYG: 奚為不自髙光曰言}
+  - {type: variant, offset: 216, length: 0, content: '', krp: 奚為不自髙光曰言}
+  - {type: variant, offset: 217, length: 25, content: 尼之開跡諸侯也非邪曰仲尼開迹將以自用也如委己而從人, SBCK: 元}
+  - {type: variant, offset: 217, length: 1, content: 尼, WYG: 元何不仕曰皓皓者已也引而髙}
+  - {type: variant, offset: 217, length: 1, content: 尼, krp: 元何不仕曰皓皓者已也引而髙}
+  - {type: variant, offset: 219, length: 4, content: 開跡諸侯, WYG: 者天}
+  - {type: variant, offset: 219, length: 4, content: 開跡諸侯, krp: 者天}
+  - {type: punctuation, offset: 224, content: ，, id: KR3a0009_tls_008-bkkpn87}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR3a0009_tls_008-5a.13}
+  - {type: variant, offset: 224, length: 1, content: 非, WYG: 星著天而後天下見王陽貢禹時主所揚而後名顯也仲元雖有賢徳而時不髙之故不彰子欲自髙}
+  - {type: variant, offset: 224, length: 1, content: 非, krp: 星著天而後天下見王陽貢禹時主所揚而後名顯也仲元雖有賢徳而時不髙之故不彰子欲自髙}
+  - {type: punctuation, offset: 226, content: ？, id: KR3a0009_tls_008-bkkpn88}
+  - {type: punctuation, offset: 226, content: 」, id: KR3a0009_tls_008-bkkpn89}
+  - {type: 'tls:seg', offset: 226, content: '', id: KR3a0009_tls_008-5a.14}
+  - {type: variant, offset: 226, length: 0, content: '', WYG: 君子行徳俟命而已祕}
+  - {type: variant, offset: 226, length: 0, content: '', krp: 君子行徳俟命而已祕}
+  - {type: punctuation, offset: 227, content: ：, id: KR3a0009_tls_008-bkkpn90}
+  - {type: 'tls:seg', offset: 227, content: '', id: KR3a0009_tls_008-5a.15}
+  - {type: punctuation, offset: 227, content: 「, id: KR3a0009_tls_008-bkkpn91}
+  - {type: variant, offset: 228, length: 4, content: 尼開迹將, WYG: 元之不見察舉猶如或人豈能自達哉仲元世之師也見其貌者肅如也咸曰貌端故見者肅然敬聞其言者愀如也咸曰言正故聞者愀然謹光曰愀親小在九二切愀然變動貌觀其行者穆如也咸曰行温故觀者穆然和但聞}
+  - {type: page-break, offset: 228, content: '', id: KR3a0009_WYG_008-16b, image: WYG0696/WYG0696-0342b.png}
+  - {type: variant, offset: 228, length: 4, content: 尼開迹將, krp: 元之不見察舉猶如或人豈能自達哉仲元世之師也見其貌者肅如也咸曰貌端故見者肅然敬聞其言者愀如也咸曰言正故聞者愀然謹光曰愀親小在九二切愀然變動貌觀其行者穆如也咸曰行温故觀者穆然和但聞}
+  - {type: punctuation, offset: 231, content: ，, id: KR3a0009_tls_008-bkkpn92}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR3a0009_tls_008-5a.16}
+  - {type: variant, offset: 233, length: 1, content: 自, WYG: 徳詘人矣咸曰詘人者使人而從已徳也光曰李本但作鄲音義曰古鄲但通}
+  - {type: variant, offset: 233, length: 1, content: 自, krp: 徳詘人矣咸曰詘人者使人而從已徳也光曰李本但作鄲音義曰古鄲但通}
+  - {type: variant, offset: 235, length: 0, content: '', WYG: 今從宋吴本未聞以徳詘於人}
+  - {type: variant, offset: 235, length: 0, content: '', krp: 今從宋吴本未聞以徳詘於人}
+  - {type: punctuation, offset: 236, content: 。, id: KR3a0009_tls_008-bkkpn93}
+  - {type: xml-element, offset: 236, content: '', id: KR3a0009_tls_008-bkkxmlele15}
+  - {type: xml-element, offset: 236, content: '', id: KR3a0009_tls_008-bkkxmlele16}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR3a0009_tls_008-5a.17}
+  - {type: variant, offset: 236, length: 3, content: 如委己, WYG: 咸曰詘於人者以已徳}
+  - {type: variant, offset: 236, length: 3, content: 如委己, krp: 咸曰詘於人者以已徳}
+  - {type: punctuation, offset: 242, content: ，, id: KR3a0009_tls_008-bkkpn94}
+  - {type: 'tls:seg', offset: 242, content: '', id: KR3a0009_tls_008-5a.18}
+  - {type: variant, offset: 242, length: 8, content: 雖有規矩準繩焉得, WYG: 也光曰言仲元徳能服人}
+  - {type: variant, offset: 242, length: 8, content: 雖有規矩準繩焉得, krp: 也光曰言仲元徳能服人}
+  - {type: variant, offset: 244, length: 6, content: 規矩準繩焉得, SBCK: 賢德}
+  - {type: punctuation, offset: 248, content: ，, id: KR3a0009_tls_008-bkkpn95}
+  - {type: 'tls:seg', offset: 248, content: '', id: KR3a0009_tls_008-5a.19}
+  - {type: variant, offset: 251, length: 1, content: 用, SBCK: 時不髙}
+  - {type: variant, offset: 251, length: 1, content: 用, WYG: 未嘗屈節仲元畏人也言可畏敬咸曰言使人心服而畏}
+  - {type: variant, offset: 251, length: 1, content: 用, krp: 未嘗屈節仲元畏人也言可畏敬咸曰言使人心服而畏}
+  - {type: punctuation, offset: 253, content: ？, id: KR3a0009_tls_008-bkkpn96}
+  - {type: punctuation, offset: 253, content: 」, id: KR3a0009_tls_008-bkkpn97}
+  - {type: 'tls:seg', offset: 253, content: '', id: KR3a0009_tls_008-6a.1}
+  - {type: xml-element, offset: 253, content: '', id: KR3a0009_tls_008-bkkxmlele17}
+  - {type: xml-element, offset: 253, content: '', id: KR3a0009_tls_008-bkkxmlele18}
+  - {type: 'tls:seg', offset: 253, content: '', id: KR3a0009_tls_008-6a.2}
+  - {type: variant, offset: 253, length: 0, content: '', SBCK: 故不彰子欲自髙邪君子行德俟命而巳仲元丗之師也見其貌者肅如也聞其言者愀如也觀其行者穆如也鄲聞以德詘人矣未聞以德詘於人也仲元畏人也言可畏敬}
+  - {type: variant, offset: 253, length: 0, content: '', WYG: 祕曰人所畏服}
+  - {type: variant, offset: 253, length: 0, content: '', krp: 祕曰人所畏服}
+  - {type: variant, offset: 254, length: 0, content: '', SBCK: 曰育賁言夏育孟賁亦使人畏也曰育賁也人畏其力而侮其德請條}
+  - {type: variant, offset: 254, length: 0, content: '', WYG: 曰育賁言夏育孟賁亦使人畏祕曰夏育孟賁皆衛人言其勇力亦人所畏也光曰賁音奔下同曰育賁也人畏其力而侮其徳咸曰非心服之畏請條}
+  - {type: variant, offset: 254, length: 0, content: '', krp: 曰育賁言夏育孟賁亦使人畏祕曰夏育孟賁皆衛人言其勇力亦人所畏也光曰賁音奔下同曰育賁也人畏其力而侮其徳咸曰非心服之畏請條}
+  - {type: punctuation, offset: 255, content: ：, id: KR3a0009_tls_008-bkkpn98}
+  - {type: punctuation, offset: 255, content: 「, id: KR3a0009_tls_008-bkkpn99}
+  - {type: variant, offset: 255, length: 0, content: '', SBCK: 其目也曰非正不視非正不聽非正不言非正不行夫能正其視聽言行者昔吾先師之所畏也所畏謂言不慙行不恥}
+  - {type: variant, offset: 255, length: 0, content: '', WYG: 其目也祕曰條目曰非正不視非正不聴非正不言非正不行夫能正其視聴言行者昔吾先師之所畏也所畏謂言不慚行不耻}
+  - {type: page-break, offset: 255, content: '', id: KR3a0009_WYG_008-17a, image: WYG0696/WYG0696-0342c.png}
+  - {type: variant, offset: 255, length: 0, content: '', krp: 其目也祕曰條目曰非正不視非正不聴非正不言非正不行夫能正其視聴言行者昔吾先師之所畏也所畏謂言不慚行不耻}
+  - {type: variant, offset: 257, length: 2, content: 之時, SBCK: 憚焉如視不視聽不聽言不言行不行雖有育賁其猶侮}
+  - {type: variant, offset: 257, length: 149, content: 之時諸侯有知其聖者與曰知之知之則曷為不用曰不能曰知聖而不能用也可得聞乎曰用之則宜從之從之則棄其所習逆其所順強其所劣捐其所能衝衝如也非天下之至孰能用之或問孔子知其道之不用也則載而惡乎之曰之後世君子曰賈如是不亦鈍乎曰眾人愈利而後鈍聖人愈鈍而後利關百聖而不慚蔽天地而不恥能言之類莫能加也貴無敵富無倫利孰大, WYG: 憚}
+  - {type: variant, offset: 257, length: 149, content: 之時諸侯有知其聖者與曰知之知之則曷為不用曰不能曰知聖而不能用也可得聞乎曰用之則宜從之從之則棄其所習逆其所順強其所劣捐其所能衝衝如也非天下之至孰能用之或問孔子知其道之不用也則載而惡乎之曰之後世君子曰賈如是不亦鈍乎曰眾人愈利而後鈍聖人愈鈍而後利關百聖而不慚蔽天地而不恥能言之類莫能加也貴無敵富無倫利孰大, krp: 憚}
+  - {type: punctuation, offset: 259, content: ，, id: KR3a0009_tls_008-bkkpn100}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR3a0009_tls_008-6a.3}
+  - {type: variant, offset: 260, length: 74, content: 侯有知其聖者與曰知之知之則曷為不用曰不能曰知聖而不能用也可得聞乎曰用之則宜從之從之則棄其所習逆其所順強其所劣捐其所能衝衝如也非天下之至孰能用之或問孔, SBCK: 揚}
+  - {type: page-break, offset: 260, content: '', id: KR3a0009_SBCK_011-6b}
+  - {type: punctuation, offset: 267, content: ？, id: KR3a0009_tls_008-bkkpn101}
+  - {type: punctuation, offset: 267, content: 」, id: KR3a0009_tls_008-bkkpn102}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3a0009_tls_008-6a.4}
+  - {type: punctuation, offset: 268, content: ：, id: KR3a0009_tls_008-bkkpn103}
+  - {type: 'tls:seg', offset: 268, content: '', id: KR3a0009_tls_008-6a.5}
+  - {type: punctuation, offset: 268, content: 「, id: KR3a0009_tls_008-bkkpn104}
+  - {type: punctuation, offset: 270, content: 。, id: KR3a0009_tls_008-bkkpn105}
+  - {type: punctuation, offset: 270, content: 」, id: KR3a0009_tls_008-bkkpn106}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR3a0009_tls_008-6a.6}
+  - {type: punctuation, offset: 270, content: 「, id: KR3a0009_tls_008-bkkpn107}
+  - {type: punctuation, offset: 277, content: ？, id: KR3a0009_tls_008-bkkpn108}
+  - {type: punctuation, offset: 277, content: 」, id: KR3a0009_tls_008-bkkpn109}
+  - {type: 'tls:seg', offset: 277, content: '', id: KR3a0009_tls_008-6a.7}
+  - {type: punctuation, offset: 278, content: ：, id: KR3a0009_tls_008-bkkpn110}
+  - {type: 'tls:seg', offset: 278, content: '', id: KR3a0009_tls_008-6a.8}
+  - {type: punctuation, offset: 278, content: 「, id: KR3a0009_tls_008-bkkpn111}
+  - {type: punctuation, offset: 280, content: 。, id: KR3a0009_tls_008-bkkpn112}
+  - {type: punctuation, offset: 280, content: 」, id: KR3a0009_tls_008-bkkpn113}
+  - {type: 'tls:seg', offset: 280, content: '', id: KR3a0009_tls_008-6a.9}
+  - {type: punctuation, offset: 281, content: ：, id: KR3a0009_tls_008-bkkpn114}
+  - {type: 'tls:seg', offset: 281, content: '', id: KR3a0009_tls_008-6a.10}
+  - {type: punctuation, offset: 281, content: 「, id: KR3a0009_tls_008-bkkpn115}
+  - {type: punctuation, offset: 288, content: ，, id: KR3a0009_tls_008-bkkpn116}
+  - {type: 'tls:seg', offset: 288, content: '', id: KR3a0009_tls_008-6a.11}
+  - {type: punctuation, offset: 292, content: ？, id: KR3a0009_tls_008-bkkpn117}
+  - {type: punctuation, offset: 292, content: 」, id: KR3a0009_tls_008-bkkpn118}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR3a0009_tls_008-6a.12}
+  - {type: punctuation, offset: 293, content: ：, id: KR3a0009_tls_008-bkkpn119}
+  - {type: 'tls:seg', offset: 293, content: '', id: KR3a0009_tls_008-6a.13}
+  - {type: punctuation, offset: 293, content: 「, id: KR3a0009_tls_008-bkkpn120}
+  - {type: punctuation, offset: 295, content: ，, id: KR3a0009_tls_008-bkkpn121}
+  - {type: punctuation, offset: 299, content: 。, id: KR3a0009_tls_008-bkkpn122}
+  - {type: 'tls:seg', offset: 299, content: '', id: KR3a0009_tls_008-6a.14}
+  - {type: punctuation, offset: 301, content: ，, id: KR3a0009_tls_008-bkkpn123}
+  - {type: punctuation, offset: 306, content: ，, id: KR3a0009_tls_008-bkkpn124}
+  - {type: 'tls:seg', offset: 306, content: '', id: KR3a0009_tls_008-6a.15}
+  - {type: punctuation, offset: 310, content: ，, id: KR3a0009_tls_008-bkkpn125}
+  - {type: 'tls:seg', offset: 310, content: '', id: KR3a0009_tls_008-6a.16}
+  - {type: punctuation, offset: 314, content: ，, id: KR3a0009_tls_008-bkkpn126}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR3a0009_tls_008-6a.17}
+  - {type: punctuation, offset: 318, content: 。, id: KR3a0009_tls_008-bkkpn127}
+  - {type: 'tls:seg', offset: 318, content: '', id: KR3a0009_tls_008-6a.18}
+  - {type: punctuation, offset: 322, content: 。, id: KR3a0009_tls_008-bkkpn128}
+  - {type: 'tls:seg', offset: 322, content: '', id: KR3a0009_tls_008-7a.1}
+  - {type: punctuation, offset: 327, content: ，, id: KR3a0009_tls_008-bkkpn129}
+  - {type: punctuation, offset: 331, content: ？, id: KR3a0009_tls_008-bkkpn130}
+  - {type: punctuation, offset: 331, content: 」, id: KR3a0009_tls_008-bkkpn131}
+  - {type: xml-element, offset: 331, content: '', id: KR3a0009_tls_008-bkkxmlele19}
+  - {type: xml-element, offset: 331, content: '', id: KR3a0009_tls_008-bkkxmlele20}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR3a0009_tls_008-7a.2}
+  - {type: punctuation, offset: 333, content: ：, id: KR3a0009_tls_008-bkkpn132}
+  - {type: punctuation, offset: 333, content: 「, id: KR3a0009_tls_008-bkkpn133}
+  - {type: variant, offset: 335, length: 17, content: 知其道之不用也則載而惡乎之曰之後世, SBCK: 法言卷第十一􅀭子法言}
+  - {type: page-break, offset: 335, content: '', id: KR3a0009_SBCK_012-1a}
+  - {type: punctuation, offset: 342, content: ，, id: KR3a0009_tls_008-bkkpn134}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR3a0009_tls_008-7a.3}
+  - {type: punctuation, offset: 348, content: ？, id: KR3a0009_tls_008-bkkpn135}
+  - {type: punctuation, offset: 348, content: 」, id: KR3a0009_tls_008-bkkpn136}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR3a0009_tls_008-7a.4}
+  - {type: punctuation, offset: 349, content: ：, id: KR3a0009_tls_008-bkkpn137}
+  - {type: 'tls:seg', offset: 349, content: '', id: KR3a0009_tls_008-7a.5}
+  - {type: punctuation, offset: 349, content: 「, id: KR3a0009_tls_008-bkkpn138}
+  - {type: punctuation, offset: 354, content: 。, id: KR3a0009_tls_008-bkkpn139}
+  - {type: punctuation, offset: 354, content: 」, id: KR3a0009_tls_008-bkkpn140}
+  - {type: 'tls:seg', offset: 354, content: '', id: KR3a0009_tls_008-7a.6}
+  - {type: variant, offset: 354, length: 56, content: 曰賈如是不亦鈍乎曰眾人愈利而後鈍聖人愈鈍而後利關百聖而不慚蔽天地而不恥能言之類莫能加也貴無敵富無倫利孰大焉或曰孔, SBCK: 卷第十二夫君}
+  - {type: punctuation, offset: 355, content: ：, id: KR3a0009_tls_008-bkkpn141}
+  - {type: 'tls:seg', offset: 355, content: '', id: KR3a0009_tls_008-7a.7}
+  - {type: punctuation, offset: 355, content: 「, id: KR3a0009_tls_008-bkkpn142}
+  - {type: punctuation, offset: 358, content: ，, id: KR3a0009_tls_008-bkkpn143}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR3a0009_tls_008-7a.8}
+  - {type: punctuation, offset: 362, content: ？, id: KR3a0009_tls_008-bkkpn144}
+  - {type: punctuation, offset: 362, content: 」, id: KR3a0009_tls_008-bkkpn145}
+  - {type: 'tls:seg', offset: 362, content: '', id: KR3a0009_tls_008-7a.9}
+  - {type: punctuation, offset: 363, content: ：, id: KR3a0009_tls_008-bkkpn146}
+  - {type: 'tls:seg', offset: 363, content: '', id: KR3a0009_tls_008-7a.10}
+  - {type: punctuation, offset: 363, content: 「, id: KR3a0009_tls_008-bkkpn147}
+  - {type: substitution, offset: 363, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 370, content: ，, id: KR3a0009_tls_008-bkkpn148}
+  - {type: 'tls:seg', offset: 370, content: '', id: KR3a0009_tls_008-7a.11}
+  - {type: punctuation, offset: 377, content: 。, id: KR3a0009_tls_008-bkkpn149}
+  - {type: 'tls:seg', offset: 377, content: '', id: KR3a0009_tls_008-7a.12}
+  - {type: punctuation, offset: 383, content: ，, id: KR3a0009_tls_008-bkkpn150}
+  - {type: 'tls:seg', offset: 383, content: '', id: KR3a0009_tls_008-7a.13}
+  - {type: punctuation, offset: 389, content: ，, id: KR3a0009_tls_008-bkkpn151}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR3a0009_tls_008-7a.14}
+  - {type: punctuation, offset: 393, content: ，, id: KR3a0009_tls_008-bkkpn152}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR3a0009_tls_008-7a.15}
+  - {type: punctuation, offset: 397, content: 。, id: KR3a0009_tls_008-bkkpn153}
+  - {type: 'tls:seg', offset: 397, content: '', id: KR3a0009_tls_008-7a.16}
+  - {type: punctuation, offset: 400, content: ，, id: KR3a0009_tls_008-bkkpn154}
+  - {type: 'tls:seg', offset: 400, content: '', id: KR3a0009_tls_008-7a.17}
+  - {type: punctuation, offset: 403, content: ，, id: KR3a0009_tls_008-bkkpn155}
+  - {type: 'tls:seg', offset: 403, content: '', id: KR3a0009_tls_008-8a.1}
+  - {type: punctuation, offset: 407, content: ？, id: KR3a0009_tls_008-bkkpn156}
+  - {type: punctuation, offset: 407, content: 」, id: KR3a0009_tls_008-bkkpn157}
+  - {type: xml-element, offset: 407, content: '', id: KR3a0009_tls_008-bkkxmlele21}
+  - {type: xml-element, offset: 407, content: '', id: KR3a0009_tls_008-bkkxmlele22}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR3a0009_tls_008-8a.2}
+  - {type: variant, offset: 407, length: 1, content: 或, WYG: 祕}
+  - {type: variant, offset: 407, length: 1, content: 或, krp: 祕}
+  - {type: punctuation, offset: 409, content: ：, id: KR3a0009_tls_008-bkkpn158}
+  - {type: punctuation, offset: 409, content: 「, id: KR3a0009_tls_008-bkkpn159}
+  - {type: variant, offset: 412, length: 19, content: 道不可小與曰小則敗聖如何曰若是則何為去, SBCK: 所以爲美布護蔓延在}
+  - {type: variant, offset: 412, length: 211, content: 道不可小與曰小則敗聖如何曰若是則何為去乎曰愛日曰愛日而去何也曰由群婢之故也不聽正諫而不用噫者吾於觀庸邪無為飽食安坐而厭觀也由此觀之夫子之日亦愛矣或曰君子愛日乎曰君子仕則欲行其義居則欲彰其道事不厭教不倦焉得日或問其有繼周者雖百世可知也秦已繼周矣不待夏禮而治者其不驗乎曰聖人之言天也天妄乎繼周者未欲太平也如欲太平也捨之而用他道亦無由至矣赫赫乎日之光群目之用也渾渾乎聖人之道群心之用也或問天地簡易而聖人法之何五經之支離曰支離蓋其, WYG: ''}
+  - {type: variant, offset: 412, length: 211, content: 道不可小與曰小則敗聖如何曰若是則何為去乎曰愛日曰愛日而去何也曰由群婢之故也不聽正諫而不用噫者吾於觀庸邪無為飽食安坐而厭觀也由此觀之夫子之日亦愛矣或曰君子愛日乎曰君子仕則欲行其義居則欲彰其道事不厭教不倦焉得日或問其有繼周者雖百世可知也秦已繼周矣不待夏禮而治者其不驗乎曰聖人之言天也天妄乎繼周者未欲太平也如欲太平也捨之而用他道亦無由至矣赫赫乎日之光群目之用也渾渾乎聖人之道群心之用也或問天地簡易而聖人法之何五經之支離曰支離蓋其, krp: ''}
+  - {type: 'tls:seg', offset: 413, content: '', id: KR3a0009_tls_008-8a.3}
+  - {type: punctuation, offset: 417, content: ？, id: KR3a0009_tls_008-bkkpn160}
+  - {type: punctuation, offset: 417, content: 」, id: KR3a0009_tls_008-bkkpn161}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR3a0009_tls_008-8a.4}
+  - {type: punctuation, offset: 418, content: ：, id: KR3a0009_tls_008-bkkpn162}
+  - {type: 'tls:seg', offset: 418, content: '', id: KR3a0009_tls_008-8a.5}
+  - {type: punctuation, offset: 418, content: 「, id: KR3a0009_tls_008-bkkpn163}
+  - {type: punctuation, offset: 422, content: ，, id: KR3a0009_tls_008-bkkpn164}
+  - {type: punctuation, offset: 424, content: ？, id: KR3a0009_tls_008-bkkpn165}
+  - {type: punctuation, offset: 424, content: 」, id: KR3a0009_tls_008-bkkpn166}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR3a0009_tls_008-8a.6}
+  - {type: punctuation, offset: 425, content: ：, id: KR3a0009_tls_008-bkkpn167}
+  - {type: 'tls:seg', offset: 425, content: '', id: KR3a0009_tls_008-8a.7}
+  - {type: punctuation, offset: 425, content: 「, id: KR3a0009_tls_008-bkkpn168}
+  - {type: punctuation, offset: 427, content: ，, id: KR3a0009_tls_008-bkkpn169}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR3a0009_tls_008-8a.8}
+  - {type: punctuation, offset: 432, content: ？, id: KR3a0009_tls_008-bkkpn170}
+  - {type: punctuation, offset: 432, content: 」, id: KR3a0009_tls_008-bkkpn171}
+  - {type: 'tls:seg', offset: 432, content: '', id: KR3a0009_tls_008-8a.9}
+  - {type: variant, offset: 432, length: 1, content: 曰, SBCK: 衆}
+  - {type: punctuation, offset: 433, content: ：, id: KR3a0009_tls_008-bkkpn172}
+  - {type: 'tls:seg', offset: 433, content: '', id: KR3a0009_tls_008-8a.10}
+  - {type: punctuation, offset: 433, content: 「, id: KR3a0009_tls_008-bkkpn173}
+  - {type: variant, offset: 433, length: 1, content: 愛, SBCK: 篇}
+  - {type: variant, offset: 434, length: 1, content: 日, SBCK: 豈}
+  - {type: punctuation, offset: 435, content: 。, id: KR3a0009_tls_008-bkkpn174}
+  - {type: punctuation, offset: 435, content: 」, id: KR3a0009_tls_008-bkkpn175}
+  - {type: 'tls:seg', offset: 435, content: '', id: KR3a0009_tls_008-8a.11}
+  - {type: variant, offset: 435, length: 1, content: 曰, SBCK: 惟}
+  - {type: punctuation, offset: 436, content: ：, id: KR3a0009_tls_008-bkkpn176}
+  - {type: 'tls:seg', offset: 436, content: '', id: KR3a0009_tls_008-8a.12}
+  - {type: punctuation, offset: 436, content: 「, id: KR3a0009_tls_008-bkkpn177}
+  - {type: variant, offset: 436, length: 1, content: 愛, SBCK: 於}
+  - {type: variant, offset: 437, length: 1, content: 日, SBCK: 此}
+  - {type: variant, offset: 439, length: 18, content: 去何也曰由群婢之故也不聽正諫而不用噫, SBCK: 表其篇目}
+  - {type: punctuation, offset: 440, content: ，, id: KR3a0009_tls_008-bkkpn178}
+  - {type: punctuation, offset: 442, content: ？, id: KR3a0009_tls_008-bkkpn179}
+  - {type: punctuation, offset: 442, content: 」, id: KR3a0009_tls_008-bkkpn180}
+  - {type: 'tls:seg', offset: 442, content: '', id: KR3a0009_tls_008-8a.13}
+  - {type: punctuation, offset: 443, content: ：, id: KR3a0009_tls_008-bkkpn181}
+  - {type: 'tls:seg', offset: 443, content: '', id: KR3a0009_tls_008-8a.14}
+  - {type: punctuation, offset: 443, content: 「, id: KR3a0009_tls_008-bkkpn182}
+  - {type: substitution, offset: 444, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 449, content: 。, id: KR3a0009_tls_008-bkkpn183}
+  - {type: 'tls:seg', offset: 449, content: '', id: KR3a0009_tls_008-8a.15}
+  - {type: punctuation, offset: 452, content: ，, id: KR3a0009_tls_008-bkkpn184}
+  - {type: 'tls:seg', offset: 452, content: '', id: KR3a0009_tls_008-8a.16}
+  - {type: punctuation, offset: 456, content: 。, id: KR3a0009_tls_008-bkkpn185}
+  - {type: 'tls:seg', offset: 456, content: '', id: KR3a0009_tls_008-8a.17}
+  - {type: punctuation, offset: 458, content: ！, id: KR3a0009_tls_008-bkkpn186}
+  - {type: variant, offset: 458, length: 5, content: 吾於觀庸邪, SBCK: 絶筆在乎孝至}
+  - {type: punctuation, offset: 463, content: ？, id: KR3a0009_tls_008-bkkpn187}
+  - {type: 'tls:seg', offset: 463, content: '', id: KR3a0009_tls_008-8a.18}
+  - {type: variant, offset: 464, length: 104, content: 為飽食安坐而厭觀也由此觀之夫子之日亦愛矣或曰君子愛日乎曰君子仕則欲行其義居則欲彰其道事不厭教不倦焉得日或問其有繼周者雖百世可知也秦已繼周矣不待夏禮而治者其不驗乎曰聖人之言天也天妄乎繼周者未欲太平也如欲太平也捨, SBCK: 以加}
+  - {type: punctuation, offset: 473, content: 。, id: KR3a0009_tls_008-bkkpn188}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3a0009_tls_008-8a.19}
+  - {type: punctuation, offset: 477, content: ，, id: KR3a0009_tls_008-bkkpn189}
+  - {type: 'tls:seg', offset: 477, content: '', id: KR3a0009_tls_008-8a.20}
+  - {type: punctuation, offset: 484, content: 。, id: KR3a0009_tls_008-bkkpn190}
+  - {type: punctuation, offset: 484, content: 」, id: KR3a0009_tls_008-bkkpn191}
+  - {type: xml-element, offset: 484, content: '', id: KR3a0009_tls_008-bkkxmlele23}
+  - {type: xml-element, offset: 484, content: '', id: KR3a0009_tls_008-bkkxmlele24}
+  - {type: 'tls:seg', offset: 484, content: '', id: KR3a0009_tls_008-8a.21}
+  - {type: punctuation, offset: 486, content: ：, id: KR3a0009_tls_008-bkkpn192}
+  - {type: punctuation, offset: 486, content: 「, id: KR3a0009_tls_008-bkkpn193}
+  - {type: punctuation, offset: 491, content: ？, id: KR3a0009_tls_008-bkkpn194}
+  - {type: punctuation, offset: 491, content: 」, id: KR3a0009_tls_008-bkkpn195}
+  - {type: 'tls:seg', offset: 491, content: '', id: KR3a0009_tls_008-8a.22}
+  - {type: punctuation, offset: 492, content: ：, id: KR3a0009_tls_008-bkkpn196}
+  - {type: 'tls:seg', offset: 492, content: '', id: KR3a0009_tls_008-8a.23}
+  - {type: punctuation, offset: 492, content: 「, id: KR3a0009_tls_008-bkkpn197}
+  - {type: punctuation, offset: 500, content: ，, id: KR3a0009_tls_008-bkkpn198}
+  - {type: 'tls:seg', offset: 500, content: '', id: KR3a0009_tls_008-8a.24}
+  - {type: punctuation, offset: 506, content: 。, id: KR3a0009_tls_008-bkkpn199}
+  - {type: 'tls:seg', offset: 506, content: '', id: KR3a0009_tls_008-8a.25}
+  - {type: punctuation, offset: 509, content: ，, id: KR3a0009_tls_008-bkkpn200}
+  - {type: 'tls:seg', offset: 509, content: '', id: KR3a0009_tls_008-8a.26}
+  - {type: punctuation, offset: 512, content: ，, id: KR3a0009_tls_008-bkkpn201}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR3a0009_tls_008-9a.1}
+  - {type: punctuation, offset: 515, content: ？, id: KR3a0009_tls_008-bkkpn202}
+  - {type: punctuation, offset: 515, content: 」, id: KR3a0009_tls_008-bkkpn203}
+  - {type: xml-element, offset: 515, content: '', id: KR3a0009_tls_008-bkkxmlele25}
+  - {type: xml-element, offset: 515, content: '', id: KR3a0009_tls_008-bkkxmlele26}
+  - {type: 'tls:seg', offset: 515, content: '', id: KR3a0009_tls_008-9a.2}
+  - {type: punctuation, offset: 517, content: ：, id: KR3a0009_tls_008-bkkpn204}
+  - {type: punctuation, offset: 517, content: 「, id: KR3a0009_tls_008-bkkpn205}
+  - {type: punctuation, offset: 522, content: ，, id: KR3a0009_tls_008-bkkpn206}
+  - {type: 'tls:seg', offset: 522, content: '', id: KR3a0009_tls_008-9a.3}
+  - {type: punctuation, offset: 525, content: ，, id: KR3a0009_tls_008-bkkpn207}
+  - {type: 'tls:seg', offset: 525, content: '', id: KR3a0009_tls_008-9a.4}
+  - {type: punctuation, offset: 528, content: 。, id: KR3a0009_tls_008-bkkpn208}
+  - {type: 'tls:seg', offset: 528, content: '', id: KR3a0009_tls_008-9a.5}
+  - {type: punctuation, offset: 533, content: ，, id: KR3a0009_tls_008-bkkpn209}
+  - {type: 'tls:seg', offset: 533, content: '', id: KR3a0009_tls_008-9a.6}
+  - {type: punctuation, offset: 540, content: ，, id: KR3a0009_tls_008-bkkpn210}
+  - {type: 'tls:seg', offset: 540, content: '', id: KR3a0009_tls_008-9a.7}
+  - {type: punctuation, offset: 544, content: ？, id: KR3a0009_tls_008-bkkpn211}
+  - {type: punctuation, offset: 544, content: 」, id: KR3a0009_tls_008-bkkpn212}
+  - {type: 'tls:seg', offset: 544, content: '', id: KR3a0009_tls_008-9a.8}
+  - {type: punctuation, offset: 545, content: ：, id: KR3a0009_tls_008-bkkpn213}
+  - {type: 'tls:seg', offset: 545, content: '', id: KR3a0009_tls_008-9a.9}
+  - {type: punctuation, offset: 545, content: 「, id: KR3a0009_tls_008-bkkpn214}
+  - {type: punctuation, offset: 549, content: 、, id: KR3a0009_tls_008-bkkpn215}
+  - {type: punctuation, offset: 551, content: ，, id: KR3a0009_tls_008-bkkpn216}
+  - {type: 'tls:seg', offset: 551, content: '', id: KR3a0009_tls_008-9a.10}
+  - {type: punctuation, offset: 554, content: ？, id: KR3a0009_tls_008-bkkpn217}
+  - {type: 'tls:seg', offset: 554, content: '', id: KR3a0009_tls_008-9a.11}
+  - {type: punctuation, offset: 562, content: ，, id: KR3a0009_tls_008-bkkpn218}
+  - {type: 'tls:seg', offset: 562, content: '', id: KR3a0009_tls_008-9a.12}
+  - {type: punctuation, offset: 567, content: ，, id: KR3a0009_tls_008-bkkpn219}
+  - {type: 'tls:seg', offset: 567, content: '', id: KR3a0009_tls_008-9a.13}
+  - {type: variant, offset: 570, length: 489, content: 用他道亦無由至矣赫赫乎日之光群目之用也渾渾乎聖人之道群心之用也或問天地簡易而聖人法之何五經之支離曰支離蓋其所以為簡易也已簡已易焉支焉離或曰聖人無益於庸也曰世人之益者倉廩也取之如單仲尼神明也小以成小大以成大雖山川丘陵草木鳥獸裕如也如不用也神明亦末如之何矣或問聖人占天乎曰占天地若此則史也何異曰史以天占人聖人以人占天或問星有甘石何如曰在德不在星德隆則晷星星隆則晷德也或問大人曰無事於小為大人請問小曰事非禮義為小聖人之言遠如天賢人之言近如地瓏𤫩其聲者其質玉乎聖人矢口而成言肆筆而成書言可聞而不可殫書可觀而不可盡周之人多行秦之人多病行有之也病曼之也周之士也貴秦之士也賤周之士也肆秦之士也拘月未望則載魄于西既望則終魄于東其遡於日乎彤弓盧矢不為有矣聆聽前世清視在下鑑莫近於斯矣或問何如動而見畏曰畏人何如動而見侮曰侮人夫見畏之與見侮無不由己或問禮難以強世曰難故強世如夷俟倨肆羈角之哺果而啗之奚其強或性或強及其名一也見弓之張兮弛而不失其良兮或曰何謂也曰檠之而已矣川有防器有範見禮教之至也經營然後知幹楨之克立也莊揚蕩而不法墨晏儉而廢禮申韓險而無化鄒衍迂而不信聖人之材天地也次山陵川泉也次鳥獸草木也, SBCK: 巳}
+  - {type: punctuation, offset: 573, content: ，, id: KR3a0009_tls_008-bkkpn220}
+  - {type: 'tls:seg', offset: 573, content: '', id: KR3a0009_tls_008-10a.1}
+  - {type: punctuation, offset: 578, content: 。, id: KR3a0009_tls_008-bkkpn221}
+  - {type: punctuation, offset: 578, content: 」, id: KR3a0009_tls_008-bkkpn222}
+  - {type: xml-element, offset: 578, content: '', id: KR3a0009_tls_008-bkkxmlele27}
+  - {type: xml-element, offset: 578, content: '', id: KR3a0009_tls_008-bkkxmlele28}
+  - {type: 'tls:seg', offset: 578, content: '', id: KR3a0009_tls_008-10a.2}
+  - {type: punctuation, offset: 584, content: ，, id: KR3a0009_tls_008-bkkpn223}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR3a0009_tls_008-10a.3}
+  - {type: substitution, offset: 584, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 589, content: ；, id: KR3a0009_tls_008-bkkpn224}
+  - {type: 'tls:seg', offset: 589, content: '', id: KR3a0009_tls_008-10a.4}
+  - {type: punctuation, offset: 596, content: ，, id: KR3a0009_tls_008-bkkpn225}
+  - {type: 'tls:seg', offset: 596, content: '', id: KR3a0009_tls_008-10a.5}
+  - {type: substitution, offset: 596, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 601, content: 。, id: KR3a0009_tls_008-bkkpn226}
+  - {type: xml-element, offset: 601, content: '', id: KR3a0009_tls_008-bkkxmlele29}
+  - {type: xml-element, offset: 601, content: '', id: KR3a0009_tls_008-bkkxmlele30}
+  - {type: 'tls:seg', offset: 601, content: '', id: KR3a0009_tls_008-11a.1}
+  - {type: 'tls:seg', offset: 601, content: '', id: KR3a0009_tls_008-11a.2}
+  - {type: punctuation, offset: 603, content: ：, id: KR3a0009_tls_008-bkkpn227}
+  - {type: 'tls:seg', offset: 603, content: '', id: KR3a0009_tls_008-11a.3}
+  - {type: punctuation, offset: 603, content: 「, id: KR3a0009_tls_008-bkkpn228}
+  - {type: punctuation, offset: 607, content: ，, id: KR3a0009_tls_008-bkkpn229}
+  - {type: punctuation, offset: 612, content: ，, id: KR3a0009_tls_008-bkkpn230}
+  - {type: 'tls:seg', offset: 612, content: '', id: KR3a0009_tls_008-11a.4}
+  - {type: punctuation, offset: 613, content: 《, id: KR3a0009_tls_008-bkkpn231}
+  - {type: punctuation, offset: 615, content: 》, id: KR3a0009_tls_008-bkkpn232}
+  - {type: punctuation, offset: 618, content: ？, id: KR3a0009_tls_008-bkkpn233}
+  - {type: punctuation, offset: 618, content: 」, id: KR3a0009_tls_008-bkkpn234}
+  - {type: 'tls:seg', offset: 618, content: '', id: KR3a0009_tls_008-11a.5}
+  - {type: punctuation, offset: 619, content: ：, id: KR3a0009_tls_008-bkkpn235}
+  - {type: 'tls:seg', offset: 619, content: '', id: KR3a0009_tls_008-11a.6}
+  - {type: punctuation, offset: 619, content: 「, id: KR3a0009_tls_008-bkkpn236}
+  - {type: punctuation, offset: 621, content: 、, id: KR3a0009_tls_008-bkkpn237}
+  - {type: 'tls:seg', offset: 621, content: '', id: KR3a0009_tls_008-11a.7}
+  - {type: variant, offset: 624, length: 32, content: 以為簡易也已簡已易焉支焉離或曰聖人無益於庸也曰世人之益者倉廩也取, WYG: 畏憚}
+  - {type: variant, offset: 624, length: 32, content: 以為簡易也已簡已易焉支焉離或曰聖人無益於庸也曰世人之益者倉廩也取, krp: 畏憚}
+  - {type: punctuation, offset: 629, content: 。, id: KR3a0009_tls_008-bkkpn238}
+  - {type: 'tls:seg', offset: 629, content: '', id: KR3a0009_tls_008-11a.8}
+  - {type: punctuation, offset: 633, content: ，, id: KR3a0009_tls_008-bkkpn239}
+  - {type: 'tls:seg', offset: 633, content: '', id: KR3a0009_tls_008-12a.1}
+  - {type: punctuation, offset: 637, content: ？, id: KR3a0009_tls_008-bkkpn240}
+  - {type: punctuation, offset: 637, content: 」, id: KR3a0009_tls_008-bkkpn241}
+  - {type: xml-element, offset: 637, content: '', id: KR3a0009_tls_008-bkkxmlele31}
+  - {type: xml-element, offset: 637, content: '', id: KR3a0009_tls_008-bkkxmlele32}
+  - {type: 'tls:seg', offset: 637, content: '', id: KR3a0009_tls_008-12a.2}
+  - {type: punctuation, offset: 639, content: ：, id: KR3a0009_tls_008-bkkpn242}
+  - {type: punctuation, offset: 639, content: 「, id: KR3a0009_tls_008-bkkpn243}
+  - {type: punctuation, offset: 646, content: 。, id: KR3a0009_tls_008-bkkpn244}
+  - {type: punctuation, offset: 646, content: 」, id: KR3a0009_tls_008-bkkpn245}
+  - {type: 'tls:seg', offset: 646, content: '', id: KR3a0009_tls_008-12a.3}
+  - {type: punctuation, offset: 647, content: ：, id: KR3a0009_tls_008-bkkpn246}
+  - {type: punctuation, offset: 647, content: 「, id: KR3a0009_tls_008-bkkpn247}
+  - {type: punctuation, offset: 652, content: ，, id: KR3a0009_tls_008-bkkpn248}
+  - {type: 'tls:seg', offset: 652, content: '', id: KR3a0009_tls_008-12a.4}
+  - {type: punctuation, offset: 655, content: ，, id: KR3a0009_tls_008-bkkpn249}
+  - {type: 'tls:seg', offset: 655, content: '', id: KR3a0009_tls_008-12a.5}
+  - {type: variant, offset: 658, length: 14, content: 單仲尼神明也小以成小大以成大, WYG: 視不視聴不聴言不言行不行}
+  - {type: variant, offset: 658, length: 14, content: 單仲尼神明也小以成小大以成大, krp: 視不視聴不聴言不言行不行}
+  - {type: punctuation, offset: 659, content: 。, id: KR3a0009_tls_008-bkkpn250}
+  - {type: 'tls:seg', offset: 659, content: '', id: KR3a0009_tls_008-12a.6}
+  - {type: punctuation, offset: 661, content: 、, id: KR3a0009_tls_008-bkkpn251}
+  - {type: punctuation, offset: 664, content: ，, id: KR3a0009_tls_008-bkkpn252}
+  - {type: 'tls:seg', offset: 664, content: '', id: KR3a0009_tls_008-12a.7}
+  - {type: punctuation, offset: 668, content: ，, id: KR3a0009_tls_008-bkkpn253}
+  - {type: 'tls:seg', offset: 668, content: '', id: KR3a0009_tls_008-12a.8}
+  - {type: punctuation, offset: 672, content: 。, id: KR3a0009_tls_008-bkkpn254}
+  - {type: 'tls:seg', offset: 672, content: '', id: KR3a0009_tls_008-12a.9}
+  - {type: variant, offset: 673, length: 56, content: 山川丘陵草木鳥獸裕如也如不用也神明亦末如之何矣或問聖人占天乎曰占天地若此則史也何異曰史以天占人聖人以人占天或問星, WYG: ''}
+  - {type: variant, offset: 673, length: 56, content: 山川丘陵草木鳥獸裕如也如不用也神明亦末如之何矣或問聖人占天乎曰占天地若此則史也何異曰史以天占人聖人以人占天或問星, krp: ''}
+  - {type: punctuation, offset: 675, content: 、, id: KR3a0009_tls_008-bkkpn255}
+  - {type: punctuation, offset: 677, content: 、, id: KR3a0009_tls_008-bkkpn256}
+  - {type: punctuation, offset: 679, content: 、, id: KR3a0009_tls_008-bkkpn257}
+  - {type: punctuation, offset: 681, content: ，, id: KR3a0009_tls_008-bkkpn258}
+  - {type: 'tls:seg', offset: 681, content: '', id: KR3a0009_tls_008-12a.10}
+  - {type: punctuation, offset: 684, content: 。, id: KR3a0009_tls_008-bkkpn259}
+  - {type: 'tls:seg', offset: 684, content: '', id: KR3a0009_tls_008-12a.11}
+  - {type: punctuation, offset: 688, content: ，, id: KR3a0009_tls_008-bkkpn260}
+  - {type: 'tls:seg', offset: 688, content: '', id: KR3a0009_tls_008-12a.12}
+  - {type: 'tls:seg', offset: 692, content: '', id: KR3a0009_tls_008-13a.1}
+  - {type: punctuation, offset: 696, content: ！, id: KR3a0009_tls_008-bkkpn261}
+  - {type: punctuation, offset: 696, content: 」, id: KR3a0009_tls_008-bkkpn262}
+  - {type: xml-element, offset: 696, content: '', id: KR3a0009_tls_008-bkkxmlele33}
+  - {type: xml-element, offset: 696, content: '', id: KR3a0009_tls_008-bkkxmlele34}
+  - {type: 'tls:seg', offset: 696, content: '', id: KR3a0009_tls_008-13a.2}
+  - {type: punctuation, offset: 698, content: ：, id: KR3a0009_tls_008-bkkpn263}
+  - {type: punctuation, offset: 698, content: 「, id: KR3a0009_tls_008-bkkpn264}
+  - {type: punctuation, offset: 703, content: ？, id: KR3a0009_tls_008-bkkpn265}
+  - {type: punctuation, offset: 703, content: 」, id: KR3a0009_tls_008-bkkpn266}
+  - {type: 'tls:seg', offset: 703, content: '', id: KR3a0009_tls_008-13a.3}
+  - {type: punctuation, offset: 704, content: ：, id: KR3a0009_tls_008-bkkpn267}
+  - {type: punctuation, offset: 704, content: 「, id: KR3a0009_tls_008-bkkpn268}
+  - {type: punctuation, offset: 707, content: 。, id: KR3a0009_tls_008-bkkpn269}
+  - {type: punctuation, offset: 707, content: 」, id: KR3a0009_tls_008-bkkpn270}
+  - {type: 'tls:seg', offset: 707, content: '', id: KR3a0009_tls_008-13a.4}
+  - {type: punctuation, offset: 707, content: 「, id: KR3a0009_tls_008-bkkpn271}
+  - {type: punctuation, offset: 709, content: ，, id: KR3a0009_tls_008-bkkpn272}
+  - {type: punctuation, offset: 714, content: ？, id: KR3a0009_tls_008-bkkpn273}
+  - {type: punctuation, offset: 714, content: 」, id: KR3a0009_tls_008-bkkpn274}
+  - {type: 'tls:seg', offset: 714, content: '', id: KR3a0009_tls_008-13a.5}
+  - {type: punctuation, offset: 715, content: ：, id: KR3a0009_tls_008-bkkpn275}
+  - {type: punctuation, offset: 715, content: 「, id: KR3a0009_tls_008-bkkpn276}
+  - {type: punctuation, offset: 720, content: ，, id: KR3a0009_tls_008-bkkpn277}
+  - {type: 'tls:seg', offset: 720, content: '', id: KR3a0009_tls_008-14a.1}
+  - {type: punctuation, offset: 726, content: 。, id: KR3a0009_tls_008-bkkpn278}
+  - {type: punctuation, offset: 726, content: 」, id: KR3a0009_tls_008-bkkpn279}
+  - {type: xml-element, offset: 726, content: '', id: KR3a0009_tls_008-bkkxmlele35}
+  - {type: xml-element, offset: 726, content: '', id: KR3a0009_tls_008-bkkxmlele36}
+  - {type: 'tls:seg', offset: 726, content: '', id: KR3a0009_tls_008-14a.2}
+  - {type: punctuation, offset: 728, content: ：, id: KR3a0009_tls_008-bkkpn280}
+  - {type: punctuation, offset: 728, content: 「, id: KR3a0009_tls_008-bkkpn281}
+  - {type: variant, offset: 730, length: 46, content: 甘石何如曰在德不在星德隆則晷星星隆則晷德也或問大人曰無事於小為大人請問小曰事非禮義為小聖人之, WYG: 育賁其猶侮諸揚子法}
+  - {type: page-break, offset: 730, content: '', id: KR3a0009_WYG_008-17b, image: WYG0696/WYG0696-0342d.png}
+  - {type: variant, offset: 730, length: 46, content: 甘石何如曰在德不在星德隆則晷星星隆則晷德也或問大人曰無事於小為大人請問小曰事非禮義為小聖人之, krp: 育賁其猶侮諸揚子法}
+  - {type: punctuation, offset: 731, content: 、, id: KR3a0009_tls_008-bkkpn282}
+  - {type: punctuation, offset: 732, content: ，, id: KR3a0009_tls_008-bkkpn283}
+  - {type: 'tls:seg', offset: 732, content: '', id: KR3a0009_tls_008-14a.3}
+  - {type: punctuation, offset: 734, content: ？, id: KR3a0009_tls_008-bkkpn284}
+  - {type: punctuation, offset: 734, content: 」, id: KR3a0009_tls_008-bkkpn285}
+  - {type: 'tls:seg', offset: 734, content: '', id: KR3a0009_tls_008-14a.4}
+  - {type: punctuation, offset: 735, content: ：, id: KR3a0009_tls_008-bkkpn286}
+  - {type: punctuation, offset: 735, content: 「, id: KR3a0009_tls_008-bkkpn287}
+  - {type: punctuation, offset: 740, content: 。, id: KR3a0009_tls_008-bkkpn288}
+  - {type: 'tls:seg', offset: 740, content: '', id: KR3a0009_tls_008-14a.5}
+  - {type: punctuation, offset: 745, content: ，, id: KR3a0009_tls_008-bkkpn289}
+  - {type: 'tls:seg', offset: 745, content: '', id: KR3a0009_tls_008-15a.1}
+  - {type: punctuation, offset: 751, content: 。, id: KR3a0009_tls_008-bkkpn290}
+  - {type: punctuation, offset: 751, content: 」, id: KR3a0009_tls_008-bkkpn291}
+  - {type: xml-element, offset: 751, content: '', id: KR3a0009_tls_008-bkkxmlele37}
+  - {type: xml-element, offset: 751, content: '', id: KR3a0009_tls_008-bkkxmlele38}
+  - {type: 'tls:seg', offset: 751, content: '', id: KR3a0009_tls_008-15a.2}
+  - {type: punctuation, offset: 753, content: 「, id: KR3a0009_tls_008-bkkpn292}
+  - {type: punctuation, offset: 755, content: 」, id: KR3a0009_tls_008-bkkpn293}
+  - {type: punctuation, offset: 755, content: 。, id: KR3a0009_tls_008-bkkpn294}
+  - {type: 'tls:seg', offset: 755, content: '', id: KR3a0009_tls_008-15a.3}
+  - {type: punctuation, offset: 756, content: ：, id: KR3a0009_tls_008-bkkpn295}
+  - {type: 'tls:seg', offset: 756, content: '', id: KR3a0009_tls_008-15a.4}
+  - {type: punctuation, offset: 756, content: 「, id: KR3a0009_tls_008-bkkpn296}
+  - {type: punctuation, offset: 763, content: 。, id: KR3a0009_tls_008-bkkpn297}
+  - {type: punctuation, offset: 763, content: 」, id: KR3a0009_tls_008-bkkpn298}
+  - {type: 'tls:seg', offset: 763, content: '', id: KR3a0009_tls_008-15a.5}
+  - {type: punctuation, offset: 765, content: 「, id: KR3a0009_tls_008-bkkpn299}
+  - {type: punctuation, offset: 766, content: 」, id: KR3a0009_tls_008-bkkpn300}
+  - {type: punctuation, offset: 766, content: 。, id: KR3a0009_tls_008-bkkpn301}
+  - {type: 'tls:seg', offset: 766, content: '', id: KR3a0009_tls_008-15a.6}
+  - {type: punctuation, offset: 767, content: ：, id: KR3a0009_tls_008-bkkpn302}
+  - {type: 'tls:seg', offset: 767, content: '', id: KR3a0009_tls_008-16a.1}
+  - {type: punctuation, offset: 767, content: 「, id: KR3a0009_tls_008-bkkpn303}
+  - {type: punctuation, offset: 773, content: 。, id: KR3a0009_tls_008-bkkpn304}
+  - {type: punctuation, offset: 773, content: 」, id: KR3a0009_tls_008-bkkpn305}
+  - {type: xml-element, offset: 773, content: '', id: KR3a0009_tls_008-bkkxmlele39}
+  - {type: xml-element, offset: 773, content: '', id: KR3a0009_tls_008-bkkxmlele40}
+  - {type: 'tls:seg', offset: 773, content: '', id: KR3a0009_tls_008-16a.2}
+  - {type: variant, offset: 777, length: 282, content: 遠如天賢人之言近如地瓏𤫩其聲者其質玉乎聖人矢口而成言肆筆而成書言可聞而不可殫書可觀而不可盡周之人多行秦之人多病行有之也病曼之也周之士也貴秦之士也賤周之士也肆秦之士也拘月未望則載魄于西既望則終魄于東其遡於日乎彤弓盧矢不為有矣聆聽前世清視在下鑑莫近於斯矣或問何如動而見畏曰畏人何如動而見侮曰侮人夫見畏之與見侮無不由己或問禮難以強世曰難故強世如夷俟倨肆羈角之哺果而啗之奚其強或性或強及其名一也見弓之張兮弛而不失其良兮或曰何謂也曰檠之而已矣川有防器有範見禮教之至也經營然後知幹楨之克立也莊揚蕩而不法墨晏儉而廢禮申韓險而無化鄒衍迂而不信聖人之材天地也次山陵川泉也次鳥獸草木也, WYG: 卷八}
+  - {type: variant, offset: 777, length: 282, content: 遠如天賢人之言近如地瓏𤫩其聲者其質玉乎聖人矢口而成言肆筆而成書言可聞而不可殫書可觀而不可盡周之人多行秦之人多病行有之也病曼之也周之士也貴秦之士也賤周之士也肆秦之士也拘月未望則載魄于西既望則終魄于東其遡於日乎彤弓盧矢不為有矣聆聽前世清視在下鑑莫近於斯矣或問何如動而見畏曰畏人何如動而見侮曰侮人夫見畏之與見侮無不由己或問禮難以強世曰難故強世如夷俟倨肆羈角之哺果而啗之奚其強或性或強及其名一也見弓之張兮弛而不失其良兮或曰何謂也曰檠之而已矣川有防器有範見禮教之至也經營然後知幹楨之克立也莊揚蕩而不法墨晏儉而廢禮申韓險而無化鄒衍迂而不信聖人之材天地也次山陵川泉也次鳥獸草木也, krp: 卷八}
+  - {type: punctuation, offset: 780, content: ，, id: KR3a0009_tls_008-bkkpn306}
+  - {type: 'tls:seg', offset: 780, content: '', id: KR3a0009_tls_008-16a.3}
+  - {type: punctuation, offset: 787, content: 。, id: KR3a0009_tls_008-bkkpn307}
+  - {type: xml-element, offset: 787, content: '', id: KR3a0009_tls_008-bkkxmlele41}
+  - {type: xml-element, offset: 787, content: '', id: KR3a0009_tls_008-bkkxmlele42}
+  - {type: 'tls:seg', offset: 787, content: '', id: KR3a0009_tls_008-17a.1}
+  - {type: 'tls:seg', offset: 787, content: '', id: KR3a0009_tls_008-17a.2}
+  - {type: 'tls:seg', offset: 789, content: '', id: KR3a0009_tls_008-17a.3}
+  - {type: punctuation, offset: 792, content: ，, id: KR3a0009_tls_008-bkkpn308}
+  - {type: 'tls:seg', offset: 792, content: '', id: KR3a0009_tls_008-18a.1}
+  - {type: punctuation, offset: 796, content: ？, id: KR3a0009_tls_008-bkkpn309}
+  - {type: xml-element, offset: 796, content: '', id: KR3a0009_tls_008-bkkxmlele43}
+  - {type: xml-element, offset: 796, content: '', id: KR3a0009_tls_008-bkkxmlele44}
+  - {type: 'tls:seg', offset: 796, content: '', id: KR3a0009_tls_008-18a.2}
+  - {type: punctuation, offset: 803, content: ，, id: KR3a0009_tls_008-bkkpn310}
+  - {type: 'tls:seg', offset: 803, content: '', id: KR3a0009_tls_008-18a.3}
+  - {type: punctuation, offset: 808, content: ，, id: KR3a0009_tls_008-bkkpn311}
+  - {type: 'tls:seg', offset: 808, content: '', id: KR3a0009_tls_008-18a.4}
+  - {type: punctuation, offset: 815, content: ，, id: KR3a0009_tls_008-bkkpn312}
+  - {type: 'tls:seg', offset: 815, content: '', id: KR3a0009_tls_008-18a.5}
+  - {type: punctuation, offset: 822, content: 。, id: KR3a0009_tls_008-bkkpn313}
+  - {type: xml-element, offset: 822, content: '', id: KR3a0009_tls_008-bkkxmlele45}
+  - {type: xml-element, offset: 822, content: '', id: KR3a0009_tls_008-bkkxmlele46}
+  - {type: 'tls:seg', offset: 822, content: '', id: KR3a0009_tls_008-19a.1}
+  - {type: 'tls:seg', offset: 822, content: '', id: KR3a0009_tls_008-19a.2}
+  - {type: punctuation, offset: 827, content: ，, id: KR3a0009_tls_008-bkkpn314}
+  - {type: 'tls:seg', offset: 827, content: '', id: KR3a0009_tls_008-19a.3}
+  - {type: punctuation, offset: 832, content: ，, id: KR3a0009_tls_008-bkkpn315}
+  - {type: 'tls:seg', offset: 832, content: '', id: KR3a0009_tls_008-19a.4}
+  - {type: punctuation, offset: 833, content: 、, id: KR3a0009_tls_008-bkkpn316}
+  - {type: punctuation, offset: 836, content: ，, id: KR3a0009_tls_008-bkkpn317}
+  - {type: 'tls:seg', offset: 836, content: '', id: KR3a0009_tls_008-19a.5}
+  - {type: punctuation, offset: 837, content: 、, id: KR3a0009_tls_008-bkkpn318}
+  - {type: punctuation, offset: 840, content: 。, id: KR3a0009_tls_008-bkkpn319}
+  - {type: 'tls:seg', offset: 840, content: '', id: KR3a0009_tls_008-19a.6}
+  - {type: punctuation, offset: 845, content: ，, id: KR3a0009_tls_008-bkkpn320}
+  - {type: 'tls:seg', offset: 845, content: '', id: KR3a0009_tls_008-19a.7}
+  - {type: punctuation, offset: 850, content: ；, id: KR3a0009_tls_008-bkkpn321}
+  - {type: 'tls:seg', offset: 850, content: '', id: KR3a0009_tls_008-19a.8}
+  - {type: punctuation, offset: 855, content: ，, id: KR3a0009_tls_008-bkkpn322}
+  - {type: 'tls:seg', offset: 855, content: '', id: KR3a0009_tls_008-19a.9}
+  - {type: punctuation, offset: 860, content: 。, id: KR3a0009_tls_008-bkkpn323}
+  - {type: xml-element, offset: 860, content: '', id: KR3a0009_tls_008-bkkxmlele47}
+  - {type: xml-element, offset: 860, content: '', id: KR3a0009_tls_008-bkkxmlele48}
+  - {type: 'tls:seg', offset: 860, content: '', id: KR3a0009_tls_008-20a.1}
+  - {type: 'tls:seg', offset: 860, content: '', id: KR3a0009_tls_008-20a.2}
+  - {type: punctuation, offset: 868, content: ，, id: KR3a0009_tls_008-bkkpn324}
+  - {type: 'tls:seg', offset: 868, content: '', id: KR3a0009_tls_008-20a.3}
+  - {type: punctuation, offset: 875, content: ，, id: KR3a0009_tls_008-bkkpn325}
+  - {type: 'tls:seg', offset: 875, content: '', id: KR3a0009_tls_008-21a.1}
+  - {type: punctuation, offset: 880, content: ？, id: KR3a0009_tls_008-bkkpn326}
+  - {type: xml-element, offset: 880, content: '', id: KR3a0009_tls_008-bkkxmlele49}
+  - {type: xml-element, offset: 880, content: '', id: KR3a0009_tls_008-bkkxmlele50}
+  - {type: 'tls:seg', offset: 880, content: '', id: KR3a0009_tls_008-21a.2}
+  - {type: punctuation, offset: 884, content: ，, id: KR3a0009_tls_008-bkkpn327}
+  - {type: 'tls:seg', offset: 884, content: '', id: KR3a0009_tls_008-21a.3}
+  - {type: punctuation, offset: 888, content: 。, id: KR3a0009_tls_008-bkkpn328}
+  - {type: xml-element, offset: 888, content: '', id: KR3a0009_tls_008-bkkxmlele51}
+  - {type: xml-element, offset: 888, content: '', id: KR3a0009_tls_008-bkkxmlele52}
+  - {type: 'tls:seg', offset: 888, content: '', id: KR3a0009_tls_008-22a.1}
+  - {type: 'tls:seg', offset: 888, content: '', id: KR3a0009_tls_008-22a.2}
+  - {type: punctuation, offset: 892, content: ，, id: KR3a0009_tls_008-bkkpn329}
+  - {type: 'tls:seg', offset: 892, content: '', id: KR3a0009_tls_008-22a.3}
+  - {type: punctuation, offset: 896, content: ，, id: KR3a0009_tls_008-bkkpn330}
+  - {type: 'tls:seg', offset: 896, content: '', id: KR3a0009_tls_008-22a.4}
+  - {type: punctuation, offset: 902, content: 。, id: KR3a0009_tls_008-bkkpn331}
+  - {type: xml-element, offset: 902, content: '', id: KR3a0009_tls_008-bkkxmlele53}
+  - {type: xml-element, offset: 902, content: '', id: KR3a0009_tls_008-bkkxmlele54}
+  - {type: 'tls:seg', offset: 902, content: '', id: KR3a0009_tls_008-23a.1}
+  - {type: 'tls:seg', offset: 902, content: '', id: KR3a0009_tls_008-23a.2}
+  - {type: punctuation, offset: 904, content: ：, id: KR3a0009_tls_008-bkkpn332}
+  - {type: punctuation, offset: 904, content: 「, id: KR3a0009_tls_008-bkkpn333}
+  - {type: punctuation, offset: 910, content: ？, id: KR3a0009_tls_008-bkkpn334}
+  - {type: punctuation, offset: 910, content: 」, id: KR3a0009_tls_008-bkkpn335}
+  - {type: 'tls:seg', offset: 910, content: '', id: KR3a0009_tls_008-23a.3}
+  - {type: punctuation, offset: 911, content: ：, id: KR3a0009_tls_008-bkkpn336}
+  - {type: 'tls:seg', offset: 911, content: '', id: KR3a0009_tls_008-23a.4}
+  - {type: punctuation, offset: 911, content: 「, id: KR3a0009_tls_008-bkkpn337}
+  - {type: punctuation, offset: 913, content: 。, id: KR3a0009_tls_008-bkkpn338}
+  - {type: punctuation, offset: 913, content: 」, id: KR3a0009_tls_008-bkkpn339}
+  - {type: 'tls:seg', offset: 913, content: '', id: KR3a0009_tls_008-23a.5}
+  - {type: punctuation, offset: 913, content: 「, id: KR3a0009_tls_008-bkkpn340}
+  - {type: punctuation, offset: 919, content: ？, id: KR3a0009_tls_008-bkkpn341}
+  - {type: punctuation, offset: 919, content: 」, id: KR3a0009_tls_008-bkkpn342}
+  - {type: 'tls:seg', offset: 919, content: '', id: KR3a0009_tls_008-23a.6}
+  - {type: punctuation, offset: 920, content: ：, id: KR3a0009_tls_008-bkkpn343}
+  - {type: 'tls:seg', offset: 920, content: '', id: KR3a0009_tls_008-23a.7}
+  - {type: punctuation, offset: 920, content: 「, id: KR3a0009_tls_008-bkkpn344}
+  - {type: punctuation, offset: 922, content: 。, id: KR3a0009_tls_008-bkkpn345}
+  - {type: punctuation, offset: 922, content: 」, id: KR3a0009_tls_008-bkkpn346}
+  - {type: 'tls:seg', offset: 922, content: '', id: KR3a0009_tls_008-23a.8}
+  - {type: punctuation, offset: 929, content: ，, id: KR3a0009_tls_008-bkkpn347}
+  - {type: 'tls:seg', offset: 929, content: '', id: KR3a0009_tls_008-23a.9}
+  - {type: punctuation, offset: 933, content: 。, id: KR3a0009_tls_008-bkkpn348}
+  - {type: xml-element, offset: 933, content: '', id: KR3a0009_tls_008-bkkxmlele55}
+  - {type: xml-element, offset: 933, content: '', id: KR3a0009_tls_008-bkkxmlele56}
+  - {type: 'tls:seg', offset: 933, content: '', id: KR3a0009_tls_008-24a.1}
+  - {type: 'tls:seg', offset: 933, content: '', id: KR3a0009_tls_008-24a.2}
+  - {type: punctuation, offset: 935, content: 「, id: KR3a0009_tls_008-bkkpn349}
+  - {type: punctuation, offset: 940, content: 」, id: KR3a0009_tls_008-bkkpn350}
+  - {type: punctuation, offset: 940, content: 。, id: KR3a0009_tls_008-bkkpn351}
+  - {type: 'tls:seg', offset: 940, content: '', id: KR3a0009_tls_008-24a.3}
+  - {type: punctuation, offset: 941, content: ：, id: KR3a0009_tls_008-bkkpn352}
+  - {type: 'tls:seg', offset: 941, content: '', id: KR3a0009_tls_008-24a.4}
+  - {type: punctuation, offset: 941, content: 「, id: KR3a0009_tls_008-bkkpn353}
+  - {type: punctuation, offset: 942, content: 、, id: KR3a0009_tls_008-bkkpn354}
+  - {type: punctuation, offset: 945, content: 。, id: KR3a0009_tls_008-bkkpn355}
+  - {type: 'tls:seg', offset: 945, content: '', id: KR3a0009_tls_008-24a.5}
+  - {type: punctuation, offset: 950, content: ，, id: KR3a0009_tls_008-bkkpn356}
+  - {type: 'tls:seg', offset: 950, content: '', id: KR3a0009_tls_008-24a.6}
+  - {type: substitution, offset: 956, original: 啗, replacement: 啖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2052}}
+  - {type: punctuation, offset: 958, content: ，, id: KR3a0009_tls_008-bkkpn357}
+  - {type: 'tls:seg', offset: 958, content: '', id: KR3a0009_tls_008-24a.7}
+  - {type: punctuation, offset: 961, content: ？, id: KR3a0009_tls_008-bkkpn358}
+  - {type: 'tls:seg', offset: 961, content: '', id: KR3a0009_tls_008-24a.8}
+  - {type: punctuation, offset: 965, content: ，, id: KR3a0009_tls_008-bkkpn359}
+  - {type: 'tls:seg', offset: 965, content: '', id: KR3a0009_tls_008-25a.1}
+  - {type: punctuation, offset: 970, content: 。, id: KR3a0009_tls_008-bkkpn360}
+  - {type: punctuation, offset: 970, content: 」, id: KR3a0009_tls_008-bkkpn361}
+  - {type: xml-element, offset: 970, content: '', id: KR3a0009_tls_008-bkkxmlele57}
+  - {type: xml-element, offset: 970, content: '', id: KR3a0009_tls_008-bkkxmlele58}
+  - {type: 'tls:seg', offset: 970, content: '', id: KR3a0009_tls_008-25a.2}
+  - {type: punctuation, offset: 975, content: ，, id: KR3a0009_tls_008-bkkpn362}
+  - {type: 'tls:seg', offset: 975, content: '', id: KR3a0009_tls_008-25a.3}
+  - {type: punctuation, offset: 982, content: 。, id: KR3a0009_tls_008-bkkpn363}
+  - {type: 'tls:seg', offset: 982, content: '', id: KR3a0009_tls_008-25a.4}
+  - {type: punctuation, offset: 984, content: ：, id: KR3a0009_tls_008-bkkpn364}
+  - {type: punctuation, offset: 984, content: 「, id: KR3a0009_tls_008-bkkpn365}
+  - {type: punctuation, offset: 987, content: ？, id: KR3a0009_tls_008-bkkpn366}
+  - {type: punctuation, offset: 987, content: 」, id: KR3a0009_tls_008-bkkpn367}
+  - {type: 'tls:seg', offset: 987, content: '', id: KR3a0009_tls_008-25a.5}
+  - {type: punctuation, offset: 988, content: ：, id: KR3a0009_tls_008-bkkpn368}
+  - {type: 'tls:seg', offset: 988, content: '', id: KR3a0009_tls_008-26a.1}
+  - {type: punctuation, offset: 988, content: 「, id: KR3a0009_tls_008-bkkpn369}
+  - {type: punctuation, offset: 993, content: 。, id: KR3a0009_tls_008-bkkpn370}
+  - {type: punctuation, offset: 993, content: 」, id: KR3a0009_tls_008-bkkpn371}
+  - {type: xml-element, offset: 993, content: '', id: KR3a0009_tls_008-bkkxmlele59}
+  - {type: xml-element, offset: 993, content: '', id: KR3a0009_tls_008-bkkxmlele60}
+  - {type: 'tls:seg', offset: 993, content: '', id: KR3a0009_tls_008-26a.2}
+  - {type: punctuation, offset: 996, content: ，, id: KR3a0009_tls_008-bkkpn372}
+  - {type: 'tls:seg', offset: 996, content: '', id: KR3a0009_tls_008-26a.3}
+  - {type: punctuation, offset: 999, content: ，, id: KR3a0009_tls_008-bkkpn373}
+  - {type: 'tls:seg', offset: 999, content: '', id: KR3a0009_tls_008-26a.4}
+  - {type: punctuation, offset: 1005, content: 。, id: KR3a0009_tls_008-bkkpn374}
+  - {type: xml-element, offset: 1005, content: '', id: KR3a0009_tls_008-bkkxmlele61}
+  - {type: xml-element, offset: 1005, content: '', id: KR3a0009_tls_008-bkkxmlele62}
+  - {type: 'tls:seg', offset: 1005, content: '', id: KR3a0009_tls_008-27a.1}
+  - {type: 'tls:seg', offset: 1005, content: '', id: KR3a0009_tls_008-27a.2}
+  - {type: punctuation, offset: 1007, content: ，, id: KR3a0009_tls_008-bkkpn375}
+  - {type: 'tls:seg', offset: 1007, content: '', id: KR3a0009_tls_008-27a.3}
+  - {type: punctuation, offset: 1011, content: 、, id: KR3a0009_tls_008-bkkpn376}
+  - {type: punctuation, offset: 1016, content: 。, id: KR3a0009_tls_008-bkkpn377}
+  - {type: xml-element, offset: 1016, content: '', id: KR3a0009_tls_008-bkkxmlele63}
+  - {type: xml-element, offset: 1016, content: '', id: KR3a0009_tls_008-bkkxmlele64}
+  - {type: 'tls:seg', offset: 1016, content: '', id: KR3a0009_tls_008-28a.1}
+  - {type: 'tls:seg', offset: 1016, content: '', id: KR3a0009_tls_008-28a.2}
+  - {type: punctuation, offset: 1017, content: 、, id: KR3a0009_tls_008-bkkpn378}
+  - {type: 'tls:seg', offset: 1017, content: '', id: KR3a0009_tls_008-28a.3}
+  - {type: punctuation, offset: 1022, content: ，, id: KR3a0009_tls_008-bkkpn379}
+  - {type: 'tls:seg', offset: 1022, content: '', id: KR3a0009_tls_008-28a.4}
+  - {type: punctuation, offset: 1023, content: 、, id: KR3a0009_tls_008-bkkpn380}
+  - {type: punctuation, offset: 1028, content: ，, id: KR3a0009_tls_008-bkkpn381}
+  - {type: 'tls:seg', offset: 1028, content: '', id: KR3a0009_tls_008-28a.5}
+  - {type: punctuation, offset: 1029, content: 、, id: KR3a0009_tls_008-bkkpn382}
+  - {type: punctuation, offset: 1034, content: ，, id: KR3a0009_tls_008-bkkpn383}
+  - {type: 'tls:seg', offset: 1034, content: '', id: KR3a0009_tls_008-28a.6}
+  - {type: punctuation, offset: 1040, content: 。, id: KR3a0009_tls_008-bkkpn384}
+  - {type: xml-element, offset: 1040, content: '', id: KR3a0009_tls_008-bkkxmlele65}
+  - {type: xml-element, offset: 1040, content: '', id: KR3a0009_tls_008-bkkxmlele66}
+  - {type: 'tls:seg', offset: 1040, content: '', id: KR3a0009_tls_008-29a.1}
+  - {type: 'tls:seg', offset: 1040, content: '', id: KR3a0009_tls_008-29a.2}
+  - {type: punctuation, offset: 1044, content: 、, id: KR3a0009_tls_008-bkkpn385}
+  - {type: punctuation, offset: 1047, content: ；, id: KR3a0009_tls_008-bkkpn386}
+  - {type: 'tls:seg', offset: 1047, content: '', id: KR3a0009_tls_008-29a.3}
+  - {type: punctuation, offset: 1048, content: ，, id: KR3a0009_tls_008-bkkpn387}
+  - {type: punctuation, offset: 1053, content: ；, id: KR3a0009_tls_008-bkkpn388}
+  - {type: 'tls:seg', offset: 1053, content: '', id: KR3a0009_tls_008-29a.4}
+  - {type: punctuation, offset: 1054, content: ，, id: KR3a0009_tls_008-bkkpn389}
+  - {type: punctuation, offset: 1059, content: 。, id: KR3a0009_tls_008-bkkpn390}
+  - {type: xml-element, offset: 1059, content: '', id: KR3a0009_tls_008-bkkxmlele67}
+  - {type: xml-element, offset: 1059, content: '', id: KR3a0009_tls_008-bkkxmlele68}
+  back: []
+hash: sha256:e3db74549a798d0fead4d9f583cb2a072d0739adef475daf9ad18dcf3f67156b

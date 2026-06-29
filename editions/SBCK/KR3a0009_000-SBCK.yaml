@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0009/SBCK/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 李軌注
+  hash: sha256:ba8580bcfc0760c8990f325c3af9d80f95d61914d0c761ff9f5de24dde4bbca9
+metadata:
+  title: 揚子法言
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 22:57:10.114674'
+  source:
+    repository: kanripo
+    path: KR3a0009/KR3a0009_000.txt
+hash: sha256:b4e96e88311a1f80a71c26d0e3a324a3338974ce9c22c1b490637edc453c3d1e
