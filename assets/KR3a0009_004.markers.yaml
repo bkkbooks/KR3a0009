@@ -288,8 +288,6 @@ markers:
   - {type: punctuation, offset: 224, content: 「, id: KR3a0009_tls_004-bkkpn100}
   - {type: variant, offset: 224, length: 4, content: 彫刻眾形, WYG: 聖人之作事不能昭若日月乎何後世之訔訔也咸曰誾誾當作狺傳之誤也誾誾中正也狺狺犬聲也言聖人由為後世非其道}
   - {type: variant, offset: 224, length: 4, content: 彫刻眾形, krp: 聖人之作事不能昭若日月乎何後世之訔訔也咸曰誾誾當作狺傳之誤也誾誾中正也狺狺犬聲也言聖人由為後世非其道}
-  - {type: substitution, offset: 224, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1528}}
-  - {type: substitution, offset: 226, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: 'tls:seg', offset: 229, content: '', id: KR3a0009_tls_004-5a.8}
   - {type: variant, offset: 229, length: 2, content: 匪天, WYG: 之所吠也若謂誾誾中正之義則理不通焉祕曰聖人之作事豈不能使明白如日月乎何使後世之學者徒誾誾貌悦之而不能逹其心也誾誾和也和悦之貌光曰宋吳本訔作誾今從李本訔語巾切訔訔爭辨之貌謂學者爭論是非曰瞽曠能黙瞽曠不能齊不齊之耳狄牙能喊狄牙不能齊不齊之口咸曰曠師曠黙黙審於樂喊咂物聲也祕曰喊聲也瞽曠之和雅能使黙而識之者必有瞽曠之耳不能齊聽者不齊之耳狄牙之甘美能使喊而稱之者必待狄牙之口不能齊食者不齊之口猶聖人立言能使服而行者必須賢哲之人不能齊學者不齊之心也瞽曠師曠也知樂者也晉杜蒯云曠也大師也狄牙易牙也知味者也大戴禮曰失管仲任竪刁狄牙韓非子曰易牙為君主味光曰喊呼覽呼􅰟下漸三切狄儀狄造酒者牙易牙瞽曠能審正聲而人之耳清濁髙下各有所好瞽曠不能齊也狄牙能嘗和味而人之口酸辛鹹苦各有所好狄牙不能齊也聖人能行正道而愚闇邪僻之人相}
   - {type: page-break, offset: 229, content: '', id: KR3a0009_WYG_004-6b, image: WYG0696/WYG0696-0299b.png}
@@ -304,7 +302,6 @@ markers:
   - {type: variant, offset: 236, length: 9, content: 彫刻也如物物刻而彫, SBCK: 能齊不齊}
   - {type: variant, offset: 236, length: 1, content: 彫, WYG: 能}
   - {type: variant, offset: 236, length: 1, content: 彫, krp: 能}
-  - {type: substitution, offset: 236, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1528}}
   - {type: variant, offset: 237, length: 1, content: 刻, WYG: 止}
   - {type: variant, offset: 237, length: 1, content: 刻, krp: 止}
   - {type: punctuation, offset: 239, content: 。, id: KR3a0009_tls_004-bkkpn105}
@@ -312,7 +309,6 @@ markers:
   - {type: variant, offset: 239, length: 14, content: 如物物刻而彫之焉得力而給諸老, WYG: 君}
   - {type: variant, offset: 239, length: 14, content: 如物物刻而彫之焉得力而給諸老, krp: 君}
   - {type: punctuation, offset: 241, content: ，, id: KR3a0009_tls_004-bkkpn106}
-  - {type: substitution, offset: 244, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1528}}
   - {type: punctuation, offset: 246, content: ，, id: KR3a0009_tls_004-bkkpn107}
   - {type: 'tls:seg', offset: 246, content: '', id: KR3a0009_tls_004-6a.1}
   - {type: variant, offset: 246, length: 7, content: 焉得力而給諸老, SBCK: 口君}
@@ -337,10 +333,8 @@ markers:
   - {type: variant, offset: 262, length: 13, content: 耳及搥提仁義絕滅禮學吾無取, krp: 所以記乆也千里自勉之行書以傳}
   - {type: punctuation, offset: 263, content: 。, id: KR3a0009_tls_004-bkkpn111}
   - {type: 'tls:seg', offset: 263, content: '', id: KR3a0009_tls_004-6a.4}
-  - {type: substitution, offset: 264, original: 搥, replacement: 捶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1050}}
   - {type: punctuation, offset: 268, content: ，, id: KR3a0009_tls_004-bkkpn112}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3a0009_tls_004-6a.5}
-  - {type: substitution, offset: 268, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 272, content: ，, id: KR3a0009_tls_004-bkkpn113}
   - {type: 'tls:seg', offset: 272, content: '', id: KR3a0009_tls_004-6a.6}
   - {type: variant, offset: 274, length: 7, content: 取焉耳吾焉開明, SBCK: 驗而言之謂妄君子妄乎不妄言必有中言不能逹其心書不能逹其言難矣}
@@ -721,7 +715,6 @@ markers:
   - {type: punctuation, offset: 684, content: ：, id: KR3a0009_tls_004-bkkpn249}
   - {type: 'tls:seg', offset: 684, content: '', id: KR3a0009_tls_004-18a.8}
   - {type: punctuation, offset: 684, content: 「, id: KR3a0009_tls_004-bkkpn250}
-  - {type: substitution, offset: 686, original: 肈, replacement: 肇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3304}}
   - {type: punctuation, offset: 690, content: ，, id: KR3a0009_tls_004-bkkpn251}
   - {type: 'tls:seg', offset: 690, content: '', id: KR3a0009_tls_004-18a.9}
   - {type: punctuation, offset: 696, content: ，, id: KR3a0009_tls_004-bkkpn252}
@@ -922,7 +915,6 @@ markers:
   - {type: 'tls:seg', offset: 973, content: '', id: KR3a0009_tls_004-22a.6}
   - {type: punctuation, offset: 976, content: 、, id: KR3a0009_tls_004-bkkpn362}
   - {type: punctuation, offset: 977, content: 、, id: KR3a0009_tls_004-bkkpn363}
-  - {type: substitution, offset: 977, original: 螾, replacement: 蚓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3196}}
   - {type: punctuation, offset: 983, content: ？, id: KR3a0009_tls_004-bkkpn364}
   - {type: 'tls:seg', offset: 983, content: '', id: KR3a0009_tls_004-22a.7}
   - {type: punctuation, offset: 985, content: ：, id: KR3a0009_tls_004-bkkpn365}
@@ -1084,4 +1076,4 @@ markers:
   - {type: page-break, offset: 1139, content: '', id: KR3a0009_WYG_004-13b, image: WYG0696/WYG0696-0302d.png}
   - {type: variant, offset: 1139, length: 0, content: '', krp: 祕曰未嘗言君子之道光曰鄒莊淫誕之語君子所不道也揚子法言卷四}
   back: []
-hash: sha256:2a7a8e1abe0ca842d8968dd344d4bc9be77e8b14c214b4accd711afaf8ccc778
+hash: sha256:baa9a56a4715d7f41dc591062bfe3ad64102f41a6ac784ff301d694a91671bdf

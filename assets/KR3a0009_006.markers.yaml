@@ -89,7 +89,6 @@ markers:
   - {type: variant, offset: 24, length: 4, content: 其誖乎聰, WYG: 道既}
   - {type: variant, offset: 24, length: 4, content: 其誖乎聰, krp: 道既}
   - {type: variant, offset: 25, length: 1, content: 誖, SBCK: 義居則欲彰其道事不厭教不倦焉得日日不暇給或問其有繼周者雖百丗可知也秦巳繼周矣不待夏禮而治者其不驗}
-  - {type: substitution, offset: 25, original: 誖, replacement: 悖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1006}}
   - {type: punctuation, offset: 27, content: ？, id: KR3a0009_tls_006-bkkpn16}
   - {type: punctuation, offset: 27, content: 」, id: KR3a0009_tls_006-bkkpn17}
   - {type: xml-element, offset: 27, content: '', id: KR3a0009_tls_006-bkkxmlele5}
@@ -181,7 +180,6 @@ markers:
   - {type: punctuation, offset: 143, content: ：, id: KR3a0009_tls_006-bkkpn55}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3a0009_tls_006-5a.1}
   - {type: punctuation, offset: 143, content: 「, id: KR3a0009_tls_006-bkkpn56}
-  - {type: substitution, offset: 143, original: 摭, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4100}}
   - {type: punctuation, offset: 151, content: 。, id: KR3a0009_tls_006-bkkpn57}
   - {type: punctuation, offset: 151, content: 」, id: KR3a0009_tls_006-bkkpn58}
   - {type: xml-element, offset: 151, content: '', id: KR3a0009_tls_006-bkkxmlele11}
@@ -229,15 +227,12 @@ markers:
   - {type: punctuation, offset: 203, content: ：, id: KR3a0009_tls_006-bkkpn79}
   - {type: 'tls:seg', offset: 203, content: '', id: KR3a0009_tls_006-6a.7}
   - {type: punctuation, offset: 203, content: 「, id: KR3a0009_tls_006-bkkpn80}
-  - {type: substitution, offset: 203, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 209, content: ，, id: KR3a0009_tls_006-bkkpn81}
   - {type: 'tls:seg', offset: 209, content: '', id: KR3a0009_tls_006-6a.8}
-  - {type: substitution, offset: 209, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 215, content: ，, id: KR3a0009_tls_006-bkkpn82}
   - {type: 'tls:seg', offset: 215, content: '', id: KR3a0009_tls_006-6a.9}
   - {type: punctuation, offset: 217, content: 。, id: KR3a0009_tls_006-bkkpn83}
   - {type: 'tls:seg', offset: 217, content: '', id: KR3a0009_tls_006-7a.1}
-  - {type: substitution, offset: 218, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: variant, offset: 220, length: 10, content: 之於聖乎或曰甚矣聖道, SBCK: ''}
   - {type: variant, offset: 220, length: 10, content: 之於聖乎或曰甚矣聖道, WYG: ''}
   - {type: variant, offset: 220, length: 10, content: 之於聖乎或曰甚矣聖道, krp: ''}
@@ -683,7 +678,6 @@ markers:
   - {type: 'tls:seg', offset: 583, content: '', id: KR3a0009_tls_006-16a.14}
   - {type: punctuation, offset: 587, content: ，, id: KR3a0009_tls_006-bkkpn232}
   - {type: 'tls:seg', offset: 587, content: '', id: KR3a0009_tls_006-16a.15}
-  - {type: substitution, offset: 589, original: 絜, replacement: 潔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0805}}
   - {type: punctuation, offset: 592, content: ；, id: KR3a0009_tls_006-bkkpn233}
   - {type: 'tls:seg', offset: 592, content: '', id: KR3a0009_tls_006-16a.16}
   - {type: punctuation, offset: 596, content: ，, id: KR3a0009_tls_006-bkkpn234}
@@ -761,7 +755,6 @@ markers:
   - {type: xml-element, offset: 695, content: '', id: KR3a0009_tls_006-bkkxmlele43}
   - {type: xml-element, offset: 695, content: '', id: KR3a0009_tls_006-bkkxmlele44}
   - {type: 'tls:seg', offset: 695, content: '', id: KR3a0009_tls_006-19a.2}
-  - {type: substitution, offset: 699, original: 絜, replacement: 潔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0805}}
   - {type: punctuation, offset: 700, content: ，, id: KR3a0009_tls_006-bkkpn277}
   - {type: 'tls:seg', offset: 700, content: '', id: KR3a0009_tls_006-19a.3}
   - {type: punctuation, offset: 704, content: ？, id: KR3a0009_tls_006-bkkpn278}
@@ -822,7 +815,6 @@ markers:
   - {type: variant, offset: 803, length: 12, content: 輕於由矣好大累克巢父洗耳, SBCK: 運籌䇿}
   - {type: punctuation, offset: 807, content: 。, id: KR3a0009_tls_006-bkkpn304}
   - {type: 'tls:seg', offset: 807, content: '', id: KR3a0009_tls_006-20a.9}
-  - {type: substitution, offset: 809, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 811, content: 。, id: KR3a0009_tls_006-bkkpn305}
   - {type: 'tls:seg', offset: 811, content: '', id: KR3a0009_tls_006-20a.10}
   - {type: punctuation, offset: 815, content: ，, id: KR3a0009_tls_006-bkkpn306}
@@ -953,4 +945,4 @@ markers:
   - {type: xml-element, offset: 971, content: '', id: KR3a0009_tls_006-bkkxmlele55}
   - {type: xml-element, offset: 971, content: '', id: KR3a0009_tls_006-bkkxmlele56}
   back: []
-hash: sha256:dbdbbdda6d3088cb5eafd11f4d7c8ab02f4663cd88862e73244e31bc30dbbcb1
+hash: sha256:bf25f392c7387918ae5873e46f5e19aee47f8b931634f386f7eeb938e6e2c2a9

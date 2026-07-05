@@ -36,7 +36,6 @@ markers:
   - {type: variant, offset: 24, length: 1, content: 眾, SBCK: 衆}
   - {type: variant, offset: 24, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 24, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 24, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 26, content: 。, id: KR3a0009_tls_001-bkkpn8}
   - {type: xml-element, offset: 26, content: '', id: KR3a0009_tls_001-bkkxmlele4}
   - {type: xml-element, offset: 26, content: '', id: KR3a0009_tls_001-bkkxmlele5}
@@ -51,7 +50,6 @@ markers:
   - {type: variant, offset: 29, length: 1, content: 羨, SBCK: 羡}
   - {type: variant, offset: 29, length: 1, content: 羨, WYG: 羡}
   - {type: variant, offset: 29, length: 1, content: 羨, krp: 羡}
-  - {type: substitution, offset: 29, original: 羨, replacement: 羡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4529}}
   - {type: variant, offset: 30, length: 1, content: 久, SBCK: 乆}
   - {type: punctuation, offset: 32, content: ，, id: KR3a0009_tls_001-bkkpn11}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3a0009_tls_001-2a.4}
@@ -74,7 +72,6 @@ markers:
   - {type: variant, offset: 49, length: 1, content: 羨, SBCK: 羡仲尼志道朝聞夕死揚子好學不羡久生}
   - {type: variant, offset: 49, length: 1, content: 羨, WYG: 羡仲尼志道朝聞夕死揚子好學不羡久生祕曰學如不及豈俟羡久生然後為學哉光曰死生有命富貴在天好學者修己之道無羡於彼有羡者皆非好學者也}
   - {type: variant, offset: 49, length: 1, content: 羨, krp: 羡仲尼志道朝聞夕死揚子好學不羡久生祕曰學如不及豈俟羡久生然後為學哉光曰死生有命富貴在天好學者修己之道無羡於彼有羡者皆非好學者也}
-  - {type: substitution, offset: 49, original: 羨, replacement: 羡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4529}}
   - {type: punctuation, offset: 50, content: 。, id: KR3a0009_tls_001-bkkpn18}
   - {type: punctuation, offset: 50, content: 」, id: KR3a0009_tls_001-bkkpn19}
   - {type: xml-element, offset: 50, content: '', id: KR3a0009_tls_001-bkkxmlele6}
@@ -161,7 +158,6 @@ markers:
   - {type: variant, offset: 132, length: 1, content: 𧕅, WYG: 􅘾}
   - {type: variant, offset: 132, length: 1, content: 𧕅, krp: 􅘾}
   - {type: 'tls:seg', offset: 135, content: '', id: KR3a0009_tls_001-5a.3}
-  - {type: substitution, offset: 139, original: 蠃, replacement: 螺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3099}}
   - {type: 'tls:seg', offset: 140, content: '', id: KR3a0009_tls_001-5a.4}
   - {type: punctuation, offset: 143, content: ：, id: KR3a0009_tls_001-bkkpn42}
   - {type: 'tls:seg', offset: 143, content: '', id: KR3a0009_tls_001-5a.5}
@@ -272,7 +268,6 @@ markers:
   - {type: variant, offset: 253, length: 1, content: 眾, SBCK: 衆}
   - {type: variant, offset: 253, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 253, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 253, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 260, content: 。, id: KR3a0009_tls_001-bkkpn73}
   - {type: punctuation, offset: 260, content: 」, id: KR3a0009_tls_001-bkkpn74}
   - {type: xml-element, offset: 260, content: '', id: KR3a0009_tls_001-bkkxmlele16}
@@ -469,7 +464,6 @@ markers:
   - {type: variant, offset: 439, length: 1, content: 眾, SBCK: 衆}
   - {type: variant, offset: 439, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 439, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 439, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 443, length: 0, content: '', WYG: 也光曰蔑微}
   - {type: variant, offset: 443, length: 0, content: '', krp: 也光曰蔑微}
   - {type: punctuation, offset: 444, content: ，, id: KR3a0009_tls_001-bkkpn138}
@@ -477,7 +471,6 @@ markers:
   - {type: variant, offset: 449, length: 1, content: 眾, SBCK: 衆}
   - {type: variant, offset: 449, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 449, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 449, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 450, length: 1, content: 說, SBCK: 􅀃}
   - {type: variant, offset: 450, length: 1, content: 說, WYG: 説}
   - {type: variant, offset: 450, length: 1, content: 說, krp: 説}
@@ -601,7 +594,6 @@ markers:
   - {type: variant, offset: 569, length: 1, content: 眾, SBCK: 衆}
   - {type: variant, offset: 569, length: 1, content: 眾, WYG: 祕曰無别也衆}
   - {type: variant, offset: 569, length: 1, content: 眾, krp: 祕曰無别也衆}
-  - {type: substitution, offset: 569, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 574, content: ！, id: KR3a0009_tls_001-bkkpn186}
   - {type: 'tls:seg', offset: 574, content: '', id: KR3a0009_tls_001-16a.4}
   - {type: variant, offset: 574, length: 0, content: '', SBCK: 人由禮義閑其邪情故異於鳥獸也}
@@ -610,7 +602,6 @@ markers:
   - {type: variant, offset: 578, length: 1, content: 眾, SBCK: 衆}
   - {type: variant, offset: 578, length: 1, content: 眾, WYG: 衆}
   - {type: variant, offset: 578, length: 1, content: 眾, krp: 衆}
-  - {type: substitution, offset: 578, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 581, content: ，, id: KR3a0009_tls_001-bkkpn187}
   - {type: 'tls:seg', offset: 581, content: '', id: KR3a0009_tls_001-16a.5}
   - {type: variant, offset: 581, length: 0, content: '', SBCK: 奉宣訓誨}
@@ -878,7 +869,6 @@ markers:
   - {type: variant, offset: 858, length: 1, content: 產, SBCK: 産}
   - {type: variant, offset: 858, length: 1, content: 產, WYG: 産不如丹圭之富祕曰白圭周人也名丹字圭亦曰丹圭趨時若猛獸鷙鳥之發天下言治生者祖白圭言揚子一㕓一區}
   - {type: variant, offset: 858, length: 1, content: 產, krp: 産不如丹圭之富祕曰白圭周人也名丹字圭亦曰丹圭趨時若猛獸鷙鳥之發天下言治生者祖白圭言揚子一㕓一區}
-  - {type: substitution, offset: 858, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 859, content: ，, id: KR3a0009_tls_001-bkkpn268}
   - {type: punctuation, offset: 865, content: 。, id: KR3a0009_tls_001-bkkpn269}
   - {type: 'tls:seg', offset: 865, content: '', id: KR3a0009_tls_001-21a.4}
@@ -1155,4 +1145,4 @@ markers:
   - {type: variant, offset: 1114, length: 0, content: '', WYG: 孔子習周公顔回習孔子無止之者祕曰習孔者孔之徒睎顔者顔之徒誰止焉揚子法言卷一}
   - {type: variant, offset: 1114, length: 0, content: '', krp: 孔子習周公顔回習孔子無止之者祕曰習孔者孔之徒睎顔者顔之徒誰止焉揚子法言卷一}
   back: []
-hash: sha256:743fa887ad8ab1fd547b76885d326795040a290fb8632c23222d22f74bf16315
+hash: sha256:6509d5e87290ae70bce461337391301c8c0d745989bbec4b12dbc45ab4d4bd14

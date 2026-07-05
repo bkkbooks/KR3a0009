@@ -39,7 +39,6 @@ markers:
   - {type: punctuation, offset: 27, content: 、, id: KR3a0009_tls_009-bkkpn9}
   - {type: 'tls:seg', offset: 27, content: '', id: KR3a0009_tls_009-2a.1}
   - {type: punctuation, offset: 28, content: 、, id: KR3a0009_tls_009-bkkpn10}
-  - {type: substitution, offset: 28, original: 緜, replacement: 綿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1180}}
   - {type: punctuation, offset: 31, content: 。, id: KR3a0009_tls_009-bkkpn11}
   - {type: punctuation, offset: 31, content: 」, id: KR3a0009_tls_009-bkkpn12}
   - {type: xml-element, offset: 31, content: '', id: KR3a0009_tls_009-bkkxmlele5}
@@ -453,7 +452,6 @@ markers:
   - {type: punctuation, offset: 470, content: ，, id: KR3a0009_tls_009-bkkpn177}
   - {type: 'tls:seg', offset: 470, content: '', id: KR3a0009_tls_009-8a.31}
   - {type: punctuation, offset: 471, content: 、, id: KR3a0009_tls_009-bkkpn178}
-  - {type: substitution, offset: 473, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: 'tls:seg', offset: 474, content: '', id: KR3a0009_tls_009-9a.1}
   - {type: punctuation, offset: 479, content: ！, id: KR3a0009_tls_009-bkkpn179}
   - {type: punctuation, offset: 479, content: 」, id: KR3a0009_tls_009-bkkpn180}
@@ -526,7 +524,6 @@ markers:
   - {type: punctuation, offset: 511, content: ；, id: KR3a0009_tls_009-bkkpn196}
   - {type: 'tls:seg', offset: 511, content: '', id: KR3a0009_tls_009-9a.10}
   - {type: variant, offset: 511, length: 1, content: 莅, SBCK: 子}
-  - {type: substitution, offset: 511, original: 莅, replacement: 蒞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4531}}
   - {type: variant, offset: 513, length: 78, content: 以廉則下不相盜臨之以正則下不相詐循之以禮義則下多德讓此君子所當學也如有犯法則司獄在或苦亂曰綱紀曰惡在於綱紀曰大作綱小作紀如綱不綱紀不紀雖有羅網惡得一目而正諸, SBCK: 彚矣彚􅀋}
   - {type: punctuation, offset: 515, content: ，, id: KR3a0009_tls_009-bkkpn197}
   - {type: 'tls:seg', offset: 515, content: '', id: KR3a0009_tls_009-9a.11}
@@ -695,16 +692,12 @@ markers:
   - {type: punctuation, offset: 720, content: ：, id: KR3a0009_tls_009-bkkpn273}
   - {type: 'tls:seg', offset: 720, content: '', id: KR3a0009_tls_009-17a.4}
   - {type: punctuation, offset: 720, content: 「, id: KR3a0009_tls_009-bkkpn274}
-  - {type: substitution, offset: 721, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 722, content: 。, id: KR3a0009_tls_009-bkkpn275}
   - {type: 'tls:seg', offset: 722, content: '', id: KR3a0009_tls_009-17a.5}
-  - {type: substitution, offset: 723, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 727, content: 。, id: KR3a0009_tls_009-bkkpn276}
   - {type: 'tls:seg', offset: 727, content: '', id: KR3a0009_tls_009-17a.6}
   - {type: punctuation, offset: 731, content: ，, id: KR3a0009_tls_009-bkkpn277}
   - {type: 'tls:seg', offset: 731, content: '', id: KR3a0009_tls_009-17a.7}
-  - {type: substitution, offset: 731, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
-  - {type: substitution, offset: 733, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 734, content: ，, id: KR3a0009_tls_009-bkkpn278}
   - {type: 'tls:seg', offset: 734, content: '', id: KR3a0009_tls_009-18a.1}
   - {type: punctuation, offset: 738, content: 。, id: KR3a0009_tls_009-bkkpn279}
@@ -737,7 +730,6 @@ markers:
   - {type: variant, offset: 779, length: 106, content: 故不遁于世不離于群遁離者是聖人乎雌之不才其卵毈矣君之不才其民野矣或問曰載使子草律曰吾不如弘恭草奏曰吾不如陳湯曰何為曰必也律不犯奏不剡甄陶天下者其在和乎剛則甈柔則坏龍之潛亢不獲其中矣是以過中則惕不及中則躍其近於中乎, SBCK: ''}
   - {type: punctuation, offset: 784, content: ，, id: KR3a0009_tls_009-bkkpn289}
   - {type: 'tls:seg', offset: 784, content: '', id: KR3a0009_tls_009-19a.5}
-  - {type: substitution, offset: 787, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 788, content: 。, id: KR3a0009_tls_009-bkkpn290}
   - {type: 'tls:seg', offset: 788, content: '', id: KR3a0009_tls_009-19a.6}
   - {type: punctuation, offset: 791, content: 、, id: KR3a0009_tls_009-bkkpn291}
@@ -806,7 +798,6 @@ markers:
   - {type: 'tls:seg', offset: 854, content: '', id: KR3a0009_tls_009-22a.4}
   - {type: punctuation, offset: 857, content: ，, id: KR3a0009_tls_009-bkkpn323}
   - {type: 'tls:seg', offset: 857, content: '', id: KR3a0009_tls_009-22a.5}
-  - {type: substitution, offset: 859, original: 坏, replacement: 壞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0281}}
   - {type: punctuation, offset: 860, content: 。, id: KR3a0009_tls_009-bkkpn324}
   - {type: xml-element, offset: 860, content: '', id: KR3a0009_tls_009-bkkxmlele53}
   - {type: xml-element, offset: 860, content: '', id: KR3a0009_tls_009-bkkxmlele54}
@@ -862,7 +853,6 @@ markers:
   - {type: punctuation, offset: 931, content: 、, id: KR3a0009_tls_009-bkkpn343}
   - {type: variant, offset: 931, length: 0, content: '', SBCK: 忠孝之問也言惟問忠}
   - {type: variant, offset: 932, length: 2, content: 眾田, SBCK: 孝}
-  - {type: substitution, offset: 932, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 935, content: ；, id: KR3a0009_tls_009-bkkpn344}
   - {type: 'tls:seg', offset: 935, content: '', id: KR3a0009_tls_009-26a.5}
   - {type: variant, offset: 935, length: 1, content: 刑, SBCK: 事耳忠臣孝子偟乎不偟偟暇或問壽可益乎曰德曰回牛之行德矣曷壽之不益}
@@ -870,7 +860,6 @@ markers:
   - {type: variant, offset: 937, length: 0, content: '', SBCK: 曰德故爾如回之殘牛之賊也焉得爾言復甚也曰殘賊或壽曰彼妄也君子不妄論語曰人之生也直罔之生也幸而免􅀭子之談亦猶此義有生}
   - {type: punctuation, offset: 938, content: 、, id: KR3a0009_tls_009-bkkpn345}
   - {type: variant, offset: 938, length: 3, content: 與眾棄, SBCK: 必有死有始者必有終自然}
-  - {type: substitution, offset: 939, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 942, content: 。, id: KR3a0009_tls_009-bkkpn346}
   - {type: xml-element, offset: 942, content: '', id: KR3a0009_tls_009-bkkxmlele61}
   - {type: xml-element, offset: 942, content: '', id: KR3a0009_tls_009-bkkxmlele62}
@@ -899,9 +888,8 @@ markers:
   - {type: 'tls:seg', offset: 972, content: '', id: KR3a0009_tls_009-28a.3}
   - {type: punctuation, offset: 976, content: ，, id: KR3a0009_tls_009-bkkpn354}
   - {type: 'tls:seg', offset: 976, content: '', id: KR3a0009_tls_009-28a.4}
-  - {type: substitution, offset: 978, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: punctuation, offset: 980, content: ？, id: KR3a0009_tls_009-bkkpn355}
   - {type: xml-element, offset: 980, content: '', id: KR3a0009_tls_009-bkkxmlele65}
   - {type: xml-element, offset: 980, content: '', id: KR3a0009_tls_009-bkkxmlele66}
   back: []
-hash: sha256:0d938d94243785a6988ee03cef3ab86daf4e8f8241f034a5f539883dc046a88d
+hash: sha256:43c05125f24adc1c7459a052b5c537e08130a10d7801d9ee02ae10dc4b47568f

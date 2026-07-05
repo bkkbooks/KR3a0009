@@ -152,7 +152,6 @@ markers:
   - {type: punctuation, offset: 139, content: 》, id: KR3a0009_tls_007-bkkpn32}
   - {type: variant, offset: 140, length: 1, content: 辯, SBCK: 德而今隕之者明乎秦楚忒惡之所致昔在有熊髙陽髙辛唐虞三代咸有顯懿故天胙之爲神明主且著在天庭是生民之願也厥饗國乆長神明主主郊祀若秦楚強䦧震撲胎藉三正播其虐於黎苗子弟且欲喪之況於民乎況於􅀑神乎廢未速也不道早亡或問仲尼大聖則天􅂚不胙胙主曰無土言無土地可因然則舜禹有土}
   - {type: page-break, offset: 140, content: '', id: KR3a0009_SBCK_010-4a}
-  - {type: substitution, offset: 140, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 142, content: ？, id: KR3a0009_tls_007-bkkpn33}
   - {type: punctuation, offset: 142, content: 」, id: KR3a0009_tls_007-bkkpn34}
   - {type: 'tls:seg', offset: 142, content: '', id: KR3a0009_tls_007-5a.3}
@@ -162,38 +161,31 @@ markers:
   - {type: variant, offset: 143, length: 10, content: 惟五經為辯說天者莫辯, SBCK: 舜以堯作土禹以舜作土道貴順理動無常因也因土以行化湯文也因聖以登禪舜禹也上無舜禹之時下無湯文之土故不胙耳若秦楚之胙非所以爲胙也或問聖人表裏表裏内外曰威儀文辭表也德行忠信裏也明}
   - {type: punctuation, offset: 144, content: 《, id: KR3a0009_tls_007-bkkpn37}
   - {type: punctuation, offset: 146, content: 》, id: KR3a0009_tls_007-bkkpn38}
-  - {type: substitution, offset: 147, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 148, content: 。, id: KR3a0009_tls_007-bkkpn39}
   - {type: 'tls:seg', offset: 148, content: '', id: KR3a0009_tls_007-5a.5}
-  - {type: substitution, offset: 152, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 154, content: 《, id: KR3a0009_tls_007-bkkpn40}
   - {type: variant, offset: 154, length: 6, content: 易說事者莫辯, SBCK: 得一而巳或問義帝初矯矯立劉龕南陽劉髙祖龕取也項救河北項羽二方分崩一離一合設秦得人如何設假曰人無爲秦也喪其靈乆矣非一朝一夕也韓信黥布皆劒立南面稱􅀌卒窮時戮無乃勿}
   - {type: punctuation, offset: 155, content: 》, id: KR3a0009_tls_007-bkkpn41}
   - {type: punctuation, offset: 155, content: ，, id: KR3a0009_tls_007-bkkpn42}
   - {type: 'tls:seg', offset: 155, content: '', id: KR3a0009_tls_007-5a.6}
-  - {type: substitution, offset: 159, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 161, content: 《, id: KR3a0009_tls_007-bkkpn43}
   - {type: variant, offset: 161, length: 50, content: 書說體者莫辯乎禮說志者莫辯乎詩說理者莫辯乎春秋捨斯辯亦小矣春木之芚兮援我手之鶉兮去之五百歲其人若存兮, SBCK: 窮極}
   - {type: punctuation, offset: 162, content: 》, id: KR3a0009_tls_007-bkkpn44}
   - {type: punctuation, offset: 162, content: ，, id: KR3a0009_tls_007-bkkpn45}
   - {type: 'tls:seg', offset: 162, content: '', id: KR3a0009_tls_007-5a.7}
-  - {type: substitution, offset: 166, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 168, content: 《, id: KR3a0009_tls_007-bkkpn46}
   - {type: punctuation, offset: 169, content: 》, id: KR3a0009_tls_007-bkkpn47}
   - {type: punctuation, offset: 169, content: ，, id: KR3a0009_tls_007-bkkpn48}
   - {type: 'tls:seg', offset: 169, content: '', id: KR3a0009_tls_007-5a.8}
-  - {type: substitution, offset: 173, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 175, content: 《, id: KR3a0009_tls_007-bkkpn49}
   - {type: punctuation, offset: 176, content: 》, id: KR3a0009_tls_007-bkkpn50}
   - {type: punctuation, offset: 176, content: ，, id: KR3a0009_tls_007-bkkpn51}
   - {type: 'tls:seg', offset: 176, content: '', id: KR3a0009_tls_007-5a.9}
-  - {type: substitution, offset: 180, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 182, content: 《, id: KR3a0009_tls_007-bkkpn52}
   - {type: punctuation, offset: 184, content: 》, id: KR3a0009_tls_007-bkkpn53}
   - {type: punctuation, offset: 184, content: 。, id: KR3a0009_tls_007-bkkpn54}
   - {type: 'tls:seg', offset: 184, content: '', id: KR3a0009_tls_007-6a.1}
   - {type: punctuation, offset: 186, content: ，, id: KR3a0009_tls_007-bkkpn55}
-  - {type: substitution, offset: 186, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 190, content: 。, id: KR3a0009_tls_007-bkkpn56}
   - {type: punctuation, offset: 190, content: 」, id: KR3a0009_tls_007-bkkpn57}
   - {type: xml-element, offset: 190, content: '', id: KR3a0009_tls_007-bkkxmlele13}
@@ -336,7 +328,6 @@ markers:
   - {type: variant, offset: 267, length: 2, content: 彫美, WYG: 能用也信文帝不能用乎光曰頗滂禾反曰彼將有激也親屈帝尊以信亞夫之軍至頗牧曷不用哉祕曰唐知雲中守魏尚擊匈奴有坐欲以激文帝耳至于不入細柳信亞夫之軍豈不能用頗牧哉光曰信與申同面謂面折徳用士則聞之矣於徳又何如光曰問文帝之徳曰罪不孥止罪其身不收入妻拏宮不女出宮人嫁之令無怨曠館不新仍舊制也陵不墳葬於霸陵因山不起墳或問交曰仁祕曰仁者不棄其交光曰惟仁人之交不以利勢而以徳義問餘耳陳餘張耳曰光初有始無終祕曰餘耳相與為刎頸之交後有隙卒相滅亡故曰光初班固曰勢利之交古人羞之盖謂是矣竇灌曰凶終竇嬰灌夫甚相親友不勝相助犯觸田蚡並皆罹禍光曰竇嬰灌夫之交雖不變其初然終以朋黨陷於大戮亦不足貴也君子義之與比或問信曰不食其}
   - {type: page-break, offset: 267, content: '', id: KR3a0009_WYG_007-16b, image: WYG0696/WYG0696-0331d.png}
   - {type: variant, offset: 267, length: 2, content: 彫美, krp: 能用也信文帝不能用乎光曰頗滂禾反曰彼將有激也親屈帝尊以信亞夫之軍至頗牧曷不用哉祕曰唐知雲中守魏尚擊匈奴有坐欲以激文帝耳至于不入細柳信亞夫之軍豈不能用頗牧哉光曰信與申同面謂面折徳用士則聞之矣於徳又何如光曰問文帝之徳曰罪不孥止罪其身不收入妻拏宮不女出宮人嫁之令無怨曠館不新仍舊制也陵不墳葬於霸陵因山不起墳或問交曰仁祕曰仁者不棄其交光曰惟仁人之交不以利勢而以徳義問餘耳陳餘張耳曰光初有始無終祕曰餘耳相與為刎頸之交後有隙卒相滅亡故曰光初班固曰勢利之交古人羞之盖謂是矣竇灌曰凶終竇嬰灌夫甚相親友不勝相助犯觸田蚡並皆罹禍光曰竇嬰灌夫之交雖不變其初然終以朋黨陷於大戮亦不足貴也君子義之與比或問信曰不食其}
-  - {type: substitution, offset: 267, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1528}}
   - {type: punctuation, offset: 268, content: ，, id: KR3a0009_tls_007-bkkpn80}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3a0009_tls_007-7a.3}
   - {type: variant, offset: 270, length: 0, content: '', WYG: 食偽祕曰孔安國曰食盡其言偽}
@@ -358,7 +349,6 @@ markers:
   - {type: variant, offset: 276, length: 1, content: 玉, krp: 原屏将為亂欒郤為徴六月晉討趙同趙括武從姬氏畜于公宮以其田與祁奚韓厥言於晉侯曰成季之勲宣孟之忠而無後為善者懼矣乃立武而反其田由是觀之趙武之立曽}
   - {type: variant, offset: 278, length: 3, content: 彫璵璠, WYG: 逾歲謂之遺腹遷之妄也秦大夫鑿穆公之側此章全論}
   - {type: variant, offset: 278, length: 3, content: 彫璵璠, krp: 逾歲謂之遺腹遷之妄也秦大夫鑿穆公之側此章全論}
-  - {type: substitution, offset: 278, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1528}}
   - {type: punctuation, offset: 279, content: ，, id: KR3a0009_tls_007-bkkpn86}
   - {type: 'tls:seg', offset: 279, content: '', id: KR3a0009_tls_007-7a.7}
   - {type: variant, offset: 282, length: 2, content: 作器, WYG: 食}
@@ -531,7 +521,6 @@ markers:
   - {type: 'tls:seg', offset: 436, content: '', id: KR3a0009_tls_007-10a.7}
   - {type: punctuation, offset: 438, content: ：, id: KR3a0009_tls_007-bkkpn148}
   - {type: punctuation, offset: 438, content: 「, id: KR3a0009_tls_007-bkkpn149}
-  - {type: substitution, offset: 441, original: 弈, replacement: 奕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4140}}
   - {type: punctuation, offset: 444, content: ？, id: KR3a0009_tls_007-bkkpn150}
   - {type: punctuation, offset: 444, content: 」, id: KR3a0009_tls_007-bkkpn151}
   - {type: 'tls:seg', offset: 444, content: '', id: KR3a0009_tls_007-10a.8}
@@ -572,7 +561,6 @@ markers:
   - {type: 'tls:seg', offset: 502, content: '', id: KR3a0009_tls_007-11a.4}
   - {type: punctuation, offset: 507, content: ，, id: KR3a0009_tls_007-bkkpn167}
   - {type: 'tls:seg', offset: 507, content: '', id: KR3a0009_tls_007-11a.5}
-  - {type: substitution, offset: 508, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: variant, offset: 510, length: 59, content: 夫雷震乎天風薄乎山雲徂乎方雨流乎淵其事矣乎魏武侯與吳起浮於西河寶河山之固起曰在德不在固曰美哉言乎使起之固兵每如斯則太公, WYG: ''}
   - {type: variant, offset: 510, length: 59, content: 夫雷震乎天風薄乎山雲徂乎方雨流乎淵其事矣乎魏武侯與吳起浮於西河寶河山之固起曰在德不在固曰美哉言乎使起之固兵每如斯則太公, krp: ''}
   - {type: punctuation, offset: 511, content: 。, id: KR3a0009_tls_007-bkkpn168}
@@ -899,4 +887,4 @@ markers:
   - {type: xml-element, offset: 970, content: '', id: KR3a0009_tls_007-bkkxmlele53}
   - {type: xml-element, offset: 970, content: '', id: KR3a0009_tls_007-bkkxmlele54}
   back: []
-hash: sha256:ed5453413b86ad9f4e08884b6153a30ad7175a0bd6ac7f0e8ad1fd7b062ddc58
+hash: sha256:e32b29c4881aa5eeee6520a3bde03b87ffe43a6feb6ba9fec862aea1ebe98bf1
