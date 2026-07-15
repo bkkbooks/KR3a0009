@@ -45,6 +45,7 @@ markers:
   - {type: punctuation, offset: 23, content: ，, id: KR3a0009_tls_008-bkkpn11}
   - {type: variant, offset: 24, length: 1, content: 竝, WYG: 淵騫二子奚不然祕曰淵騫非有}
   - {type: variant, offset: 24, length: 1, content: 竝, krp: 淵騫二子奚不然祕曰淵騫非有}
+  - {type: substitution, offset: 24, original: 竝, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16390}}
   - {type: punctuation, offset: 25, content: ；, id: KR3a0009_tls_008-bkkpn12}
   - {type: 'tls:seg', offset: 25, content: '', id: KR3a0009_tls_008-1a.8}
   - {type: punctuation, offset: 26, content: 、, id: KR3a0009_tls_008-bkkpn13}
@@ -248,6 +249,7 @@ markers:
   - {type: variant, offset: 146, length: 4, content: 輕其祿眾, krp: 夏侯嬰灌嬰樊噲酈商皆已從之為持衛也祕曰滕公夏侯嬰灌嬰樊噲酈商皆俠剛介之士易曰介如石焉光曰介助也叔孫通曰槧}
   - {type: punctuation, offset: 149, content: ，, id: KR3a0009_tls_008-bkkpn60}
   - {type: 'tls:seg', offset: 149, content: '', id: KR3a0009_tls_008-4a.3}
+  - {type: substitution, offset: 149, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: variant, offset: 151, length: 39, content: 重其祿而輕其道聖人曰於道行與眾人曰於祿殖與昔者齊魯有大臣史失其名曰何如其大也曰, SBCK: 前後俠輔髙帝}
   - {type: variant, offset: 151, length: 37, content: 重其祿而輕其道聖人曰於道行與眾人曰於祿殖與昔者齊魯有大臣史失其名曰何如其大, WYG: ''}
   - {type: variant, offset: 151, length: 37, content: 重其祿而輕其道聖人曰於道行與眾人曰於祿殖與昔者齊魯有大臣史失其名曰何如其大, krp: ''}
@@ -258,6 +260,7 @@ markers:
   - {type: punctuation, offset: 165, content: ？, id: KR3a0009_tls_008-bkkpn64}
   - {type: punctuation, offset: 165, content: 」, id: KR3a0009_tls_008-bkkpn65}
   - {type: 'tls:seg', offset: 165, content: '', id: KR3a0009_tls_008-5a.1}
+  - {type: substitution, offset: 165, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 168, content: ：, id: KR3a0009_tls_008-bkkpn66}
   - {type: punctuation, offset: 168, content: 「, id: KR3a0009_tls_008-bkkpn67}
   - {type: punctuation, offset: 172, content: ？, id: KR3a0009_tls_008-bkkpn68}
@@ -344,6 +347,7 @@ markers:
   - {type: variant, offset: 217, length: 1, content: 尼, krp: 元何不仕曰皓皓者已也引而髙}
   - {type: variant, offset: 219, length: 4, content: 開跡諸侯, WYG: 者天}
   - {type: variant, offset: 219, length: 4, content: 開跡諸侯, krp: 者天}
+  - {type: substitution, offset: 220, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: punctuation, offset: 224, content: ，, id: KR3a0009_tls_008-bkkpn87}
   - {type: 'tls:seg', offset: 224, content: '', id: KR3a0009_tls_008-5a.13}
   - {type: variant, offset: 224, length: 1, content: 非, WYG: 星著天而後天下見王陽貢禹時主所揚而後名顯也仲元雖有賢徳而時不髙之故不彰子欲自髙}
@@ -483,6 +487,7 @@ markers:
   - {type: punctuation, offset: 363, content: ：, id: KR3a0009_tls_008-bkkpn146}
   - {type: 'tls:seg', offset: 363, content: '', id: KR3a0009_tls_008-7a.10}
   - {type: punctuation, offset: 363, content: 「, id: KR3a0009_tls_008-bkkpn147}
+  - {type: substitution, offset: 363, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 370, content: ，, id: KR3a0009_tls_008-bkkpn148}
   - {type: 'tls:seg', offset: 370, content: '', id: KR3a0009_tls_008-7a.11}
   - {type: punctuation, offset: 377, content: 。, id: KR3a0009_tls_008-bkkpn149}
@@ -783,6 +788,7 @@ markers:
   - {type: xml-element, offset: 787, content: '', id: KR3a0009_tls_008-bkkxmlele42}
   - {type: 'tls:seg', offset: 787, content: '', id: KR3a0009_tls_008-17a.1}
   - {type: 'tls:seg', offset: 787, content: '', id: KR3a0009_tls_008-17a.2}
+  - {type: substitution, offset: 788, original: 𤫩, replacement: 玲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-3315}}
   - {type: 'tls:seg', offset: 789, content: '', id: KR3a0009_tls_008-17a.3}
   - {type: punctuation, offset: 792, content: ，, id: KR3a0009_tls_008-bkkpn308}
   - {type: 'tls:seg', offset: 792, content: '', id: KR3a0009_tls_008-18a.1}
@@ -886,6 +892,7 @@ markers:
   - {type: 'tls:seg', offset: 945, content: '', id: KR3a0009_tls_008-24a.5}
   - {type: punctuation, offset: 950, content: ，, id: KR3a0009_tls_008-bkkpn356}
   - {type: 'tls:seg', offset: 950, content: '', id: KR3a0009_tls_008-24a.6}
+  - {type: substitution, offset: 956, original: 啗, replacement: 啖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18328}}
   - {type: punctuation, offset: 958, content: ，, id: KR3a0009_tls_008-bkkpn357}
   - {type: 'tls:seg', offset: 958, content: '', id: KR3a0009_tls_008-24a.7}
   - {type: punctuation, offset: 961, content: ？, id: KR3a0009_tls_008-bkkpn358}
@@ -957,4 +964,4 @@ markers:
   - {type: xml-element, offset: 1059, content: '', id: KR3a0009_tls_008-bkkxmlele67}
   - {type: xml-element, offset: 1059, content: '', id: KR3a0009_tls_008-bkkxmlele68}
   back: []
-hash: sha256:22f39ecf6bc68ff95f528694efe4ac1a0abd13efeb02528a7a4e84de7fa3f47f
+hash: sha256:bf417bd78a98aa512a3360083ff5329de6a7ee10303b7d9cd008000d254fb7ea
