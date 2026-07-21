@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3a0009_005-SBCK.yaml, hash: 'sha256:4f5752cfc002caff3de4b69547ffdde723445bef84468ed85eb411355cfec1fb'}
   - {seq: 6, filename: KR3a0009_006-SBCK.yaml, hash: 'sha256:57a5351a1d2f659969e55c748be99f16eb23b12f37414d1af572e3d5be3efc23'}
   - {seq: 7, filename: KR3a0009_007-SBCK.yaml, hash: 'sha256:a3c9259876125717ac68c829dff5e1359c47b7d027d7dae072f58d681b2d8ae7'}
-  - {seq: 8, filename: KR3a0009_008-SBCK.yaml, hash: 'sha256:3461d902c71cc408f03201dd3a5762a46d401783b5c0ccd3ecd7eab6ad3b18fb'}
+  - {seq: 8, filename: KR3a0009_008-SBCK.yaml, hash: 'sha256:370734aa3a0bf9752d0f70bc7da006c799a1df901839294316fcc200212fe426'}
   - {seq: 9, filename: KR3a0009_009-SBCK.yaml, hash: 'sha256:9877b8ddf71aa5dcdc2df7e2993c9b78d5411aa77309f154544888b6bf6482fc'}
   - {seq: 10, filename: KR3a0009_010-SBCK.yaml, hash: 'sha256:07d897fd9bc8dc8944a87ea22a1f10700c1d07404438e827036de7dd5dd95efc'}
   markers:
@@ -37,7 +37,7 @@ assets:
   - {seq: 5, role: markers, filename: assets/KR3a0009_005-SBCK.markers.yaml, hash: 'sha256:f88af9d43dfbe43a73725e26d47a68eb817dc47d8227065e557d371c7abda087'}
   - {seq: 6, role: markers, filename: assets/KR3a0009_006-SBCK.markers.yaml, hash: 'sha256:1458bf6f6fb0328b89c249921a5e19aa0f45bcc66fe12324d1833b1f000b691e'}
   - {seq: 7, role: markers, filename: assets/KR3a0009_007-SBCK.markers.yaml, hash: 'sha256:a7537c8b596728d8b29acdc988d28ac01bceb508f1e9d287b717373bc917e241'}
-  - {seq: 8, role: markers, filename: assets/KR3a0009_008-SBCK.markers.yaml, hash: 'sha256:540014097a97678293beca4a1a517fc6c458f6d091cc81834f800bb1df414696'}
+  - {seq: 8, role: markers, filename: assets/KR3a0009_008-SBCK.markers.yaml, hash: 'sha256:c3fe4c786a20533d8dde08561517c750718c3039eece5b01fc76c04bedc6ed54'}
   - {seq: 9, role: markers, filename: assets/KR3a0009_009-SBCK.markers.yaml, hash: 'sha256:818a8b899ed857f49323212cea6c2d8d7e452a15d70d94c38635ff7e568d3f23'}
   - {seq: 10, role: markers, filename: assets/KR3a0009_010-SBCK.markers.yaml, hash: 'sha256:e4f2d545b73384baaceb65edad91580d8e38c08e87e92f7b3778fffa3eaae09c'}
 table_of_contents:
@@ -126,8 +126,8 @@ table_of_contents:
     marker_id: KR3a0009_SBCK_011-1b
     span:
     - body
-    - 0
-    - 0
+    - 2652
+    - 2652
   label: juan 008
   type: section
   level: 1
@@ -151,4 +151,4 @@ table_of_contents:
   label: juan 010
   type: section
   level: 1
-hash: sha256:8119816fb1efa2791b3dba19f9b61cff5a576729a22c4e9cf4695f40ebc8a8c1
+hash: sha256:bb1fe51e84f3de81230037ed7c486b3c162c18044c35797440b330bb94bb7717
